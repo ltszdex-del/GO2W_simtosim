@@ -1,0 +1,178 @@
+{
+  "cases": [
+    {
+      "iteration": 3824,
+      "keys": "WQ",
+      "lower_limits": false,
+      "fine_substeps": true,
+      "steps": 500,
+      "final_mode": "standing_hold",
+      "mode_transitions": [
+        {
+          "step": 0,
+          "mode": "standing_hold"
+        },
+        {
+          "step": 100,
+          "mode": "locomotion"
+        },
+        {
+          "step": 271,
+          "mode": "standing_hold"
+        }
+      ],
+      "ground_geometries": [
+        "terrain_0_0"
+      ],
+      "rear_net_vertical_force_below_3N_fraction": [
+        0.36472945891783565,
+        0.5370741482965932
+      ],
+      "rear_joint_speed_rms_rad_s": 0.4813957214355469,
+      "rear_target_speed_rms_rad_s": 1.02656090259552,
+      "rear_joint_acceleration_rms_rad_s2": 80.76103210449219,
+      "rear_tracking_error_rms_rad": 0.1163538247346878,
+      "rear_leg_torque_cap_fraction": 0.0,
+      "wheel_target_above_29_5_fraction": 0.014028056112224449,
+      "per_wheel_target_above_29_5_fraction": [
+        0.01603206412825651,
+        0.0,
+        0.04008016032064128,
+        0.0
+      ],
+      "wheel_target_abs_peak": 29.873952865600586,
+      "rear_wheel_velocity_error_rms_rad_s": 0.6557609515651888,
+      "mean_reference": [
+        1.5,
+        0.0,
+        1.0
+      ],
+      "mean_actual": [
+        1.6952337342300359,
+        -0.14068415545560123,
+        0.924941782951355
+      ],
+      "tracking_rmse": [
+        0.20018102337946436,
+        0.14442296970468793,
+        0.08938606306653452
+      ]
+    },
+    {
+      "iteration": 4024,
+      "keys": "WQ",
+      "lower_limits": true,
+      "fine_substeps": true,
+      "steps": 500,
+      "final_mode": "standing_hold",
+      "mode_transitions": [
+        {
+          "step": 0,
+          "mode": "standing_hold"
+        },
+        {
+          "step": 100,
+          "mode": "locomotion"
+        },
+        {
+          "step": 270,
+          "mode": "standing_hold"
+        }
+      ],
+      "ground_geometries": [
+        "terrain_0_0"
+      ],
+      "rear_net_vertical_force_below_3N_fraction": [
+        0.4168336673346693,
+        0.655310621242485
+      ],
+      "rear_joint_speed_rms_rad_s": 0.3524736166000366,
+      "rear_target_speed_rms_rad_s": 0.7246503829956055,
+      "rear_joint_acceleration_rms_rad_s2": 84.02520751953125,
+      "rear_tracking_error_rms_rad": 0.09806454926729202,
+      "rear_leg_torque_cap_fraction": 0.0,
+      "wheel_target_above_29_5_fraction": 0.01603206412825651,
+      "per_wheel_target_above_29_5_fraction": [
+        0.06412825651302605,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "wheel_target_abs_peak": 29.80893325805664,
+      "rear_wheel_velocity_error_rms_rad_s": 0.7183276505138656,
+      "mean_reference": [
+        1.5,
+        0.0,
+        1.0
+      ],
+      "mean_actual": [
+        1.824017356925537,
+        -0.1633511706222604,
+        0.9364640831947326
+      ],
+      "tracking_rmse": [
+        0.34271085881292657,
+        0.16869446268517183,
+        0.07690164938736394
+      ]
+    },
+    {
+      "iteration": 4024,
+      "keys": "WQ",
+      "lower_limits": false,
+      "fine_substeps": true,
+      "steps": 500,
+      "final_mode": "standing_hold",
+      "mode_transitions": [
+        {
+          "step": 0,
+          "mode": "standing_hold"
+        },
+        {
+          "step": 100,
+          "mode": "locomotion"
+        },
+        {
+          "step": 291,
+          "mode": "standing_hold"
+        }
+      ],
+      "ground_geometries": [
+        "terrain_0_0"
+      ],
+      "rear_net_vertical_force_below_3N_fraction": [
+        0.779559118236473,
+        0.8877755511022044
+      ],
+      "rear_joint_speed_rms_rad_s": 0.5812663435935974,
+      "rear_target_speed_rms_rad_s": 1.4363112449645996,
+      "rear_joint_acceleration_rms_rad_s2": 97.28692626953125,
+      "rear_tracking_error_rms_rad": 0.08171097934246063,
+      "rear_leg_torque_cap_fraction": 0.0,
+      "wheel_target_above_29_5_fraction": 0.969939879759519,
+      "per_wheel_target_above_29_5_fraction": [
+        1.0,
+        1.0,
+        1.0,
+        0.8797595190380761
+      ],
+      "wheel_target_abs_peak": 30.0,
+      "rear_wheel_velocity_error_rms_rad_s": 1.223177920568163,
+      "mean_reference": [
+        2.48944,
+        0.0,
+        1.501318617953948
+      ],
+      "mean_actual": [
+        2.3810315611223096,
+        -0.06476630105872588,
+        1.0868411254882813
+      ],
+      "tracking_rmse": [
+        0.1853067531966506,
+        0.10789800086789628,
+        0.4742554412468953
+      ]
+    }
+  ]
+}

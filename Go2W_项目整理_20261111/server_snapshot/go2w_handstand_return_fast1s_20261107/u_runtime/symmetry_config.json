@@ -1,0 +1,23 @@
+{
+  "left_right_pairs": [
+    "FR_FL",
+    "RR_RL"
+  ],
+  "mirror_sign": [
+    -1,
+    1,
+    1
+  ],
+  "action_and_target_mirror_projection": true,
+  "standing_joint_mirror_error_limit_deg": 5,
+  "standing_foot_mirror_error_m": 0.02,
+  "wheel_world_camber_deg": 10,
+  "standing_hip_target_velocity_gain": 0.8,
+  "hip_policy_fades_with_height": [
+    0.12,
+    0.24
+  ],
+  "self_collision": true,
+  "source_checkpoint": "/home/ubuntu/Go2W/pu_ppo_proneref_matched_20261106/logs/U_adjusted_proneref400/final.pt",
+  "additional_iterations": 300
+}

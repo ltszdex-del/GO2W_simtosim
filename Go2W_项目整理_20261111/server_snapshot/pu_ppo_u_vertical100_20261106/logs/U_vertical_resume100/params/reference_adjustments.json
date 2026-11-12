@@ -1,0 +1,46 @@
+{
+  "self_collision": true,
+  "changes": {
+    "FR_hip_joint": {
+      "source_rad": -0.41529646960123723,
+      "adjusted_rad": -0.5,
+      "delta_deg": -4.853154801707178
+    },
+    "FR_calf_joint": {
+      "source_rad": -2.7053900365362975,
+      "adjusted_rad": -2.65,
+      "delta_deg": 3.173615320605281
+    },
+    "FL_hip_joint": {
+      "source_rad": 0.42028816559042725,
+      "adjusted_rad": 0.5,
+      "delta_deg": 4.567151688914208
+    },
+    "FL_calf_joint": {
+      "source_rad": -2.704330897370773,
+      "adjusted_rad": -2.65,
+      "delta_deg": 3.112931116503715
+    },
+    "RR_hip_joint": {
+      "source_rad": -0.6491400562265797,
+      "adjusted_rad": -0.5,
+      "delta_deg": 8.545095778126809
+    },
+    "RR_calf_joint": {
+      "source_rad": -2.6618582716739714,
+      "adjusted_rad": -2.65,
+      "delta_deg": 0.6794289192380987
+    },
+    "RL_hip_joint": {
+      "source_rad": 0.6513312385924696,
+      "adjusted_rad": 0.5,
+      "delta_deg": -8.67064127983579
+    },
+    "RL_calf_joint": {
+      "source_rad": -2.659597514224603,
+      "adjusted_rad": -2.65,
+      "delta_deg": 0.5498970588865362
+    }
+  },
+  "reason": "Equalize front/rear support height with hips+/-0.5rad; calves slightly unfolded to avoid folded-link collisions; all wheels unchanged"
+}

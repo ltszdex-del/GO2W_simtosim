@@ -1,0 +1,45 @@
+{
+  "imported_at": "2026-11-12T12:21:11.794710+08:00",
+  "policies": {
+    "handstand": {
+      "factory": "handstand_student_adapter:create",
+      "checkpoint": "E:/CODEX PROJ/IS/mujoco_latest/policies/handstand_distill_20261112/go2w_handstand_distill4179_20261112/logs/distill1000/student_999.pt",
+      "teacher_checkpoint": "/home/ubuntu/Go2W/go2w_handstand_currentU80_20261108/logs/train80/teacher_4179.pt",
+      "teacher_sha256": "6a8978ed66ebd850072a689d6f57694946e818fd812fb835c8a478be30d65eaa",
+      "student_training_root": "E:/CODEX PROJ/IS/mujoco_latest/policies/handstand_distill_20261112/go2w_handstand_distill4179_20261112"
+    }
+  },
+  "checkpoint_sha256": "5bd64542fd74f52534c465f7836b983305a46a799fee95f908334593e2382882",
+  "teacher_sha256": "6a8978ed66ebd850072a689d6f57694946e818fd812fb835c8a478be30d65eaa",
+  "training": {
+    "iterations": 1000,
+    "num_envs": 2048,
+    "teacher_iteration": 4179
+  },
+  "isaac_evaluation": {
+    "teacher": {
+      "trials": 2048,
+      "success_rate": 0.99755859375,
+      "survival_rate": 0.99755859375,
+      "mean_hold_fraction": 0.998296856880188,
+      "online_action_mse": 0.0
+    },
+    "student": {
+      "trials": 2048,
+      "success_rate": 0.99853515625,
+      "survival_rate": 0.99853515625,
+      "mean_hold_fraction": 0.998958945274353,
+      "online_action_mse": 0.00017449993174523115
+    },
+    "passed": true
+  },
+  "config_backup": "E:\\CODEX PROJ\\IS\\mujoco_latest\\backups\\before_user_requested_student999_20261112_122111",
+  "activation": "explicit_user_request_after_disclosure_of_mujoco_instability",
+  "verification": {
+    "source_and_weight_hashes": true,
+    "all_seven_policies_loaded": true,
+    "mujoco_stability_passed": false,
+    "known_failure": "Student lost handstand and triggered original guard at H age 4.88 s in idle diagnostic",
+    "physics_or_guards_changed": false
+  }
+}

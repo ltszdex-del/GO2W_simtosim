@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "policies": [
+    "locomotion",
+    "handstand",
+    "lying_down",
+    "getting_up",
+    "standing_hold",
+    "handstand_return",
+    "wheel_locomotion"
+  ],
+  "terrain": "skatepark",
+  "parity": {
+    "stepping": {
+      "samples": 38,
+      "max_frame_error": 3.2782554626464844e-07,
+      "max_wheel_target_error": 0.0,
+      "max_leg_target_error": 0.0
+    },
+    "wheel": {
+      "samples": 140,
+      "max_frame_error": 4.678964614868164e-06,
+      "max_wheel_target_error": 0.0,
+      "max_leg_target_error": 0.0
+    }
+  }
+}

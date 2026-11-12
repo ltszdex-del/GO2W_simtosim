@@ -1,0 +1,1000 @@
+{"iteration": 0, "teacher_mix": 1.0, "mse": 0.05700727552175522, "seconds": 2.36}
+{"iteration": 1, "teacher_mix": 1.0, "mse": 0.017668256536126137, "seconds": 2.1}
+{"iteration": 2, "teacher_mix": 1.0, "mse": 0.03105289302766323, "seconds": 2.12}
+{"iteration": 3, "teacher_mix": 1.0, "mse": 0.005767223425209522, "seconds": 1.95}
+{"iteration": 4, "teacher_mix": 1.0, "mse": 0.011556998826563358, "seconds": 2.07}
+{"iteration": 5, "teacher_mix": 1.0, "mse": 0.01789974980056286, "seconds": 2.75}
+{"iteration": 6, "teacher_mix": 1.0, "mse": 0.004540690220892429, "seconds": 2.14}
+{"iteration": 7, "teacher_mix": 1.0, "mse": 0.0009840885177254677, "seconds": 2.1}
+{"iteration": 8, "teacher_mix": 1.0, "mse": 0.0006658216007053852, "seconds": 2.11}
+{"iteration": 9, "teacher_mix": 1.0, "mse": 0.0006662854575552046, "seconds": 2.22}
+{"iteration": 10, "teacher_mix": 1.0, "mse": 0.0006402035942301154, "seconds": 2.23}
+{"iteration": 11, "teacher_mix": 1.0, "mse": 0.0005619665025733411, "seconds": 2.18}
+{"iteration": 12, "teacher_mix": 1.0, "mse": 0.0005200562300160527, "seconds": 2.09}
+{"iteration": 13, "teacher_mix": 1.0, "mse": 0.00046225544065237045, "seconds": 2.09}
+{"iteration": 14, "teacher_mix": 1.0, "mse": 0.0004203151911497116, "seconds": 2.17}
+{"iteration": 15, "teacher_mix": 1.0, "mse": 0.0004060080973431468, "seconds": 2.07}
+{"iteration": 16, "teacher_mix": 1.0, "mse": 0.0003898345457855612, "seconds": 2.29}
+{"iteration": 17, "teacher_mix": 1.0, "mse": 0.00035461224615573883, "seconds": 2.17}
+{"iteration": 18, "teacher_mix": 1.0, "mse": 0.0017821828369051218, "seconds": 2.07}
+{"iteration": 19, "teacher_mix": 1.0, "mse": 0.0020699731539934874, "seconds": 2.05}
+{"iteration": 20, "teacher_mix": 1.0, "mse": 0.005503377411514521, "seconds": 2.01}
+{"iteration": 21, "teacher_mix": 1.0, "mse": 0.002435463946312666, "seconds": 2.07}
+{"iteration": 22, "teacher_mix": 1.0, "mse": 0.0017440167721360922, "seconds": 1.94}
+{"iteration": 23, "teacher_mix": 1.0, "mse": 0.003753721946850419, "seconds": 2.1}
+{"iteration": 24, "teacher_mix": 1.0, "mse": 0.0017227190546691418, "seconds": 2.02}
+{"iteration": 25, "teacher_mix": 1.0, "mse": 0.0005596210830844939, "seconds": 2.12}
+{"iteration": 26, "teacher_mix": 1.0, "mse": 0.00031596666667610407, "seconds": 2.04}
+{"iteration": 27, "teacher_mix": 1.0, "mse": 0.00029068015282973647, "seconds": 2.15}
+{"iteration": 28, "teacher_mix": 1.0, "mse": 0.00030743604293093085, "seconds": 2.04}
+{"iteration": 29, "teacher_mix": 1.0, "mse": 0.0003003273159265518, "seconds": 2.13}
+{"iteration": 30, "teacher_mix": 1.0, "mse": 0.00027783619589172304, "seconds": 2.06}
+{"iteration": 31, "teacher_mix": 1.0, "mse": 0.0002754769229795784, "seconds": 2.02}
+{"iteration": 32, "teacher_mix": 1.0, "mse": 0.00026479747612029314, "seconds": 2.13}
+{"iteration": 33, "teacher_mix": 1.0, "mse": 0.00024577154545113444, "seconds": 2.01}
+{"iteration": 34, "teacher_mix": 1.0, "mse": 0.0002341901999898255, "seconds": 2.23}
+{"iteration": 35, "teacher_mix": 1.0, "mse": 0.00022831550450064242, "seconds": 2.06}
+{"iteration": 36, "teacher_mix": 1.0, "mse": 0.00020816829055547714, "seconds": 2.08}
+{"iteration": 37, "teacher_mix": 1.0, "mse": 0.0010208082385361195, "seconds": 2.65}
+{"iteration": 38, "teacher_mix": 1.0, "mse": 0.0007281845901161432, "seconds": 2.11}
+{"iteration": 39, "teacher_mix": 1.0, "mse": 0.0007224261062219739, "seconds": 2.03}
+{"iteration": 40, "teacher_mix": 1.0, "mse": 0.0004739248543046415, "seconds": 2.01}
+{"iteration": 41, "teacher_mix": 1.0, "mse": 0.00018704072863329202, "seconds": 1.99}
+{"iteration": 42, "teacher_mix": 1.0, "mse": 0.0011454573832452297, "seconds": 1.98}
+{"iteration": 43, "teacher_mix": 1.0, "mse": 0.0008355826721526682, "seconds": 2.0}
+{"iteration": 44, "teacher_mix": 1.0, "mse": 0.00044341397006064653, "seconds": 2.02}
+{"iteration": 45, "teacher_mix": 1.0, "mse": 0.00022996042389422655, "seconds": 2.03}
+{"iteration": 46, "teacher_mix": 1.0, "mse": 0.00019572961900848895, "seconds": 2.01}
+{"iteration": 47, "teacher_mix": 1.0, "mse": 0.00021928336354903877, "seconds": 2.02}
+{"iteration": 48, "teacher_mix": 1.0, "mse": 0.000180266477400437, "seconds": 1.98}
+{"iteration": 49, "teacher_mix": 1.0, "mse": 0.00018617344903759658, "seconds": 2.02}
+{"iteration": 50, "teacher_mix": 1.0, "mse": 0.00017861764354165643, "seconds": 2.03}
+{"iteration": 51, "teacher_mix": 1.0, "mse": 0.00016324614989571273, "seconds": 1.95}
+{"iteration": 52, "teacher_mix": 1.0, "mse": 0.00015958314179442823, "seconds": 1.95}
+{"iteration": 53, "teacher_mix": 1.0, "mse": 0.00015473997336812317, "seconds": 2.01}
+{"iteration": 54, "teacher_mix": 1.0, "mse": 0.00015886656183283776, "seconds": 2.1}
+{"iteration": 55, "teacher_mix": 1.0, "mse": 0.00013308376946952194, "seconds": 2.08}
+{"iteration": 56, "teacher_mix": 1.0, "mse": 0.00043237381032668054, "seconds": 2.08}
+{"iteration": 57, "teacher_mix": 1.0, "mse": 0.00033148564398288727, "seconds": 2.04}
+{"iteration": 58, "teacher_mix": 1.0, "mse": 0.00035290620871819556, "seconds": 2.05}
+{"iteration": 59, "teacher_mix": 1.0, "mse": 0.0002540352288633585, "seconds": 2.01}
+{"iteration": 60, "teacher_mix": 1.0, "mse": 0.00023036310449242592, "seconds": 1.98}
+{"iteration": 61, "teacher_mix": 1.0, "mse": 0.0009314463241025805, "seconds": 2.04}
+{"iteration": 62, "teacher_mix": 1.0, "mse": 0.0004721286823041737, "seconds": 2.03}
+{"iteration": 63, "teacher_mix": 1.0, "mse": 0.00023816811153665185, "seconds": 2.05}
+{"iteration": 64, "teacher_mix": 1.0, "mse": 0.00016095511091407388, "seconds": 2.08}
+{"iteration": 65, "teacher_mix": 1.0, "mse": 0.000138535862788558, "seconds": 2.1}
+{"iteration": 66, "teacher_mix": 1.0, "mse": 0.0001391716650687158, "seconds": 2.06}
+{"iteration": 67, "teacher_mix": 1.0, "mse": 0.0001312223612330854, "seconds": 2.0}
+{"iteration": 68, "teacher_mix": 1.0, "mse": 0.00012587656965479255, "seconds": 2.08}
+{"iteration": 69, "teacher_mix": 1.0, "mse": 0.00013259216211736202, "seconds": 2.15}
+{"iteration": 70, "teacher_mix": 1.0, "mse": 0.00011848684516735375, "seconds": 2.03}
+{"iteration": 71, "teacher_mix": 1.0, "mse": 0.00012127320223953575, "seconds": 1.98}
+{"iteration": 72, "teacher_mix": 1.0, "mse": 0.00011243303015362471, "seconds": 2.07}
+{"iteration": 73, "teacher_mix": 1.0, "mse": 0.00010620364628266543, "seconds": 2.07}
+{"iteration": 74, "teacher_mix": 1.0, "mse": 0.00018191787239629775, "seconds": 1.98}
+{"iteration": 75, "teacher_mix": 1.0, "mse": 0.00020316988229751587, "seconds": 2.05}
+{"iteration": 76, "teacher_mix": 1.0, "mse": 0.0002062753919744864, "seconds": 2.01}
+{"iteration": 77, "teacher_mix": 1.0, "mse": 0.00023228899226523936, "seconds": 2.01}
+{"iteration": 78, "teacher_mix": 1.0, "mse": 0.00015913351671770215, "seconds": 2.03}
+{"iteration": 79, "teacher_mix": 1.0, "mse": 0.0002617586578708142, "seconds": 2.0}
+{"iteration": 80, "teacher_mix": 1.0, "mse": 0.00038092152681201696, "seconds": 2.04}
+{"iteration": 81, "teacher_mix": 1.0, "mse": 0.00021010087220929563, "seconds": 1.97}
+{"iteration": 82, "teacher_mix": 1.0, "mse": 0.0001882172655314207, "seconds": 2.03}
+{"iteration": 83, "teacher_mix": 1.0, "mse": 9.495844278717414e-05, "seconds": 2.11}
+{"iteration": 84, "teacher_mix": 1.0, "mse": 0.00010326836491003633, "seconds": 2.12}
+{"iteration": 85, "teacher_mix": 1.0, "mse": 0.00010578571527730674, "seconds": 2.01}
+{"iteration": 86, "teacher_mix": 1.0, "mse": 0.00010276586544932798, "seconds": 2.06}
+{"iteration": 87, "teacher_mix": 1.0, "mse": 9.778868115972728e-05, "seconds": 2.02}
+{"iteration": 88, "teacher_mix": 1.0, "mse": 0.0001126045681303367, "seconds": 2.05}
+{"iteration": 89, "teacher_mix": 1.0, "mse": 9.0963309048675e-05, "seconds": 2.04}
+{"iteration": 90, "teacher_mix": 1.0, "mse": 8.325386443175375e-05, "seconds": 2.02}
+{"iteration": 91, "teacher_mix": 1.0, "mse": 0.00011375101894373074, "seconds": 2.06}
+{"iteration": 92, "teacher_mix": 1.0, "mse": 0.00010220531839877367, "seconds": 2.13}
+{"iteration": 93, "teacher_mix": 1.0, "mse": 0.00016463251085951924, "seconds": 2.13}
+{"iteration": 94, "teacher_mix": 1.0, "mse": 0.00012676490587182343, "seconds": 2.02}
+{"iteration": 95, "teacher_mix": 1.0, "mse": 0.00014863885007798672, "seconds": 2.09}
+{"iteration": 96, "teacher_mix": 1.0, "mse": 0.00017780030611902475, "seconds": 2.01}
+{"iteration": 97, "teacher_mix": 1.0, "mse": 0.00020759883045684546, "seconds": 2.11}
+{"iteration": 98, "teacher_mix": 1.0, "mse": 0.00023218453861773014, "seconds": 2.19}
+{"iteration": 99, "teacher_mix": 1.0, "mse": 0.0002353960444452241, "seconds": 2.03}
+{"iteration": 100, "teacher_mix": 1.0, "mse": 0.0001303104218095541, "seconds": 2.1}
+{"iteration": 101, "teacher_mix": 0.9966666666666667, "mse": 0.00015917664859443903, "seconds": 2.24}
+{"iteration": 102, "teacher_mix": 0.9933333333333333, "mse": 8.469079330097884e-05, "seconds": 2.1}
+{"iteration": 103, "teacher_mix": 0.99, "mse": 0.00010604977433104068, "seconds": 2.19}
+{"iteration": 104, "teacher_mix": 0.9866666666666667, "mse": 9.96193484752439e-05, "seconds": 2.02}
+{"iteration": 105, "teacher_mix": 0.9833333333333333, "mse": 7.56577865104191e-05, "seconds": 2.19}
+{"iteration": 106, "teacher_mix": 0.98, "mse": 7.5555857620202e-05, "seconds": 1.99}
+{"iteration": 107, "teacher_mix": 0.9766666666666667, "mse": 7.270551577676088e-05, "seconds": 2.23}
+{"iteration": 108, "teacher_mix": 0.9733333333333334, "mse": 6.937161379028112e-05, "seconds": 2.09}
+{"iteration": 109, "teacher_mix": 0.97, "mse": 8.842154056765139e-05, "seconds": 2.15}
+{"iteration": 110, "teacher_mix": 0.9666666666666667, "mse": 7.739324792055413e-05, "seconds": 2.09}
+{"iteration": 111, "teacher_mix": 0.9633333333333334, "mse": 7.072632433846593e-05, "seconds": 2.12}
+{"iteration": 112, "teacher_mix": 0.96, "mse": 0.000114226590085309, "seconds": 2.21}
+{"iteration": 113, "teacher_mix": 0.9566666666666667, "mse": 0.00010342967289034277, "seconds": 2.1}
+{"iteration": 114, "teacher_mix": 0.9533333333333334, "mse": 0.00016325106844305992, "seconds": 2.16}
+{"iteration": 115, "teacher_mix": 0.95, "mse": 0.00016171240713447332, "seconds": 2.01}
+{"iteration": 116, "teacher_mix": 0.9466666666666667, "mse": 5.951143248239532e-05, "seconds": 2.13}
+{"iteration": 117, "teacher_mix": 0.9433333333333334, "mse": 0.00028352998197078705, "seconds": 2.05}
+{"iteration": 118, "teacher_mix": 0.94, "mse": 0.0002698838943615556, "seconds": 2.19, "success": 0.0, "best_hold_s": 1.9599984884262085, "reward": 196.22265625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 119, "teacher_mix": 0.9366666666666666, "mse": 0.00021072612435091287, "seconds": 2.13}
+{"iteration": 120, "teacher_mix": 0.9333333333333333, "mse": 9.205180685967207e-05, "seconds": 2.08}
+{"iteration": 121, "teacher_mix": 0.9299999999999999, "mse": 9.913738176692277e-05, "seconds": 2.14}
+{"iteration": 122, "teacher_mix": 0.9266666666666666, "mse": 0.00011270518007222563, "seconds": 2.04}
+{"iteration": 123, "teacher_mix": 0.9233333333333333, "mse": 9.045592742040753e-05, "seconds": 2.12}
+{"iteration": 124, "teacher_mix": 0.92, "mse": 8.226317004300654e-05, "seconds": 2.05}
+{"iteration": 125, "teacher_mix": 0.9166666666666666, "mse": 6.94738409947604e-05, "seconds": 2.17}
+{"iteration": 126, "teacher_mix": 0.9133333333333333, "mse": 7.20564421499148e-05, "seconds": 2.17}
+{"iteration": 127, "teacher_mix": 0.91, "mse": 7.604778511449695e-05, "seconds": 2.03}
+{"iteration": 128, "teacher_mix": 0.9066666666666666, "mse": 7.54176580812782e-05, "seconds": 2.14}
+{"iteration": 129, "teacher_mix": 0.9033333333333333, "mse": 7.088510028552264e-05, "seconds": 2.04}
+{"iteration": 130, "teacher_mix": 0.9, "mse": 7.290727080544457e-05, "seconds": 2.21}
+{"iteration": 131, "teacher_mix": 0.8966666666666667, "mse": 9.997776214731857e-05, "seconds": 2.17}
+{"iteration": 132, "teacher_mix": 0.8933333333333333, "mse": 9.421998402103782e-05, "seconds": 2.0}
+{"iteration": 133, "teacher_mix": 0.89, "mse": 0.0001728061615722254, "seconds": 2.09}
+{"iteration": 134, "teacher_mix": 0.8866666666666667, "mse": 0.00017915028729476035, "seconds": 1.98}
+{"iteration": 135, "teacher_mix": 0.8833333333333333, "mse": 0.00013760107685811818, "seconds": 2.16}
+{"iteration": 136, "teacher_mix": 0.88, "mse": 0.00020351613056845963, "seconds": 2.07}
+{"iteration": 137, "teacher_mix": 0.8766666666666667, "mse": 0.00015964085469022393, "seconds": 2.08}
+{"iteration": 138, "teacher_mix": 0.8733333333333333, "mse": 0.0003028008504770696, "seconds": 2.11}
+{"iteration": 139, "teacher_mix": 0.87, "mse": 9.204789239447564e-05, "seconds": 2.1}
+{"iteration": 140, "teacher_mix": 0.8666666666666667, "mse": 8.150891517288983e-05, "seconds": 2.09}
+{"iteration": 141, "teacher_mix": 0.8633333333333333, "mse": 8.286971569759771e-05, "seconds": 1.68}
+{"iteration": 142, "teacher_mix": 0.86, "mse": 7.989876030478626e-05, "seconds": 1.53}
+{"iteration": 143, "teacher_mix": 0.8566666666666667, "mse": 6.812122592236847e-05, "seconds": 1.52}
+{"iteration": 144, "teacher_mix": 0.8533333333333333, "mse": 6.715458584949374e-05, "seconds": 1.55}
+{"iteration": 145, "teacher_mix": 0.85, "mse": 6.799599941587076e-05, "seconds": 1.52}
+{"iteration": 146, "teacher_mix": 0.8466666666666667, "mse": 6.927349022589624e-05, "seconds": 1.54}
+{"iteration": 147, "teacher_mix": 0.8433333333333333, "mse": 7.226102752611041e-05, "seconds": 1.58}
+{"iteration": 148, "teacher_mix": 0.84, "mse": 6.386970926541835e-05, "seconds": 1.52}
+{"iteration": 149, "teacher_mix": 0.8366666666666667, "mse": 9.881294681690633e-05, "seconds": 1.55}
+{"iteration": 150, "teacher_mix": 0.8333333333333334, "mse": 7.437171007040888e-05, "seconds": 1.48}
+{"iteration": 151, "teacher_mix": 0.83, "mse": 0.00012506403436418623, "seconds": 1.53}
+{"iteration": 152, "teacher_mix": 0.8266666666666667, "mse": 0.0001497102784924209, "seconds": 1.52}
+{"iteration": 153, "teacher_mix": 0.8233333333333334, "mse": 0.0003071392420679331, "seconds": 1.53}
+{"iteration": 154, "teacher_mix": 0.8200000000000001, "mse": 0.00010967368871206418, "seconds": 1.54, "success": 0.0, "best_hold_s": 4.859996318817139, "reward": 226.42160034179688, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 155, "teacher_mix": 0.8166666666666667, "mse": 0.00016818524454720318, "seconds": 1.54}
+{"iteration": 156, "teacher_mix": 0.8133333333333334, "mse": 0.000146586011396721, "seconds": 1.54}
+{"iteration": 157, "teacher_mix": 0.81, "mse": 0.0001649711630307138, "seconds": 1.58}
+{"iteration": 158, "teacher_mix": 0.8066666666666666, "mse": 0.00012636551400646567, "seconds": 1.54}
+{"iteration": 159, "teacher_mix": 0.8033333333333333, "mse": 0.00011148049088660628, "seconds": 1.6}
+{"iteration": 160, "teacher_mix": 0.8, "mse": 8.431265450781211e-05, "seconds": 1.61}
+{"iteration": 161, "teacher_mix": 0.7966666666666666, "mse": 8.949062612373382e-05, "seconds": 1.56}
+{"iteration": 162, "teacher_mix": 0.7933333333333333, "mse": 9.838154073804617e-05, "seconds": 1.49}
+{"iteration": 163, "teacher_mix": 0.79, "mse": 8.223098120652139e-05, "seconds": 1.49}
+{"iteration": 164, "teacher_mix": 0.7866666666666666, "mse": 7.26853177184239e-05, "seconds": 1.45}
+{"iteration": 165, "teacher_mix": 0.7833333333333333, "mse": 7.205005385912955e-05, "seconds": 1.57}
+{"iteration": 166, "teacher_mix": 0.78, "mse": 7.136161730159074e-05, "seconds": 1.52}
+{"iteration": 167, "teacher_mix": 0.7766666666666666, "mse": 6.708689033985138e-05, "seconds": 1.56}
+{"iteration": 168, "teacher_mix": 0.7733333333333333, "mse": 8.541632269043475e-05, "seconds": 1.54}
+{"iteration": 169, "teacher_mix": 0.77, "mse": 6.975785072427243e-05, "seconds": 1.51}
+{"iteration": 170, "teacher_mix": 0.7666666666666666, "mse": 0.00015247972623910755, "seconds": 1.5}
+{"iteration": 171, "teacher_mix": 0.7633333333333333, "mse": 0.0001500821381341666, "seconds": 1.55}
+{"iteration": 172, "teacher_mix": 0.76, "mse": 8.322775829583406e-05, "seconds": 1.54}
+{"iteration": 173, "teacher_mix": 0.7566666666666666, "mse": 0.00021016885875724256, "seconds": 1.62}
+{"iteration": 174, "teacher_mix": 0.7533333333333333, "mse": 0.00022744323359802365, "seconds": 1.57}
+{"iteration": 175, "teacher_mix": 0.75, "mse": 0.00021874677622690797, "seconds": 1.59}
+{"iteration": 176, "teacher_mix": 0.7466666666666666, "mse": 0.00016656906518619508, "seconds": 1.59}
+{"iteration": 177, "teacher_mix": 0.7433333333333334, "mse": 0.00012503363541327417, "seconds": 1.55}
+{"iteration": 178, "teacher_mix": 0.74, "mse": 0.0001804015482775867, "seconds": 1.62}
+{"iteration": 179, "teacher_mix": 0.7366666666666667, "mse": 0.00011263405031058937, "seconds": 1.6}
+{"iteration": 180, "teacher_mix": 0.7333333333333334, "mse": 0.00011917358642676845, "seconds": 1.61}
+{"iteration": 181, "teacher_mix": 0.73, "mse": 0.00010414693679194897, "seconds": 1.5}
+{"iteration": 182, "teacher_mix": 0.7266666666666667, "mse": 9.118380694417283e-05, "seconds": 1.49}
+{"iteration": 183, "teacher_mix": 0.7233333333333334, "mse": 7.947139965835959e-05, "seconds": 1.55}
+{"iteration": 184, "teacher_mix": 0.72, "mse": 9.783231507753953e-05, "seconds": 1.54}
+{"iteration": 185, "teacher_mix": 0.7166666666666667, "mse": 0.00011570702190510929, "seconds": 1.64}
+{"iteration": 186, "teacher_mix": 0.7133333333333334, "mse": 0.0001354423293378204, "seconds": 1.55}
+{"iteration": 187, "teacher_mix": 0.71, "mse": 9.945169585989788e-05, "seconds": 1.54}
+{"iteration": 188, "teacher_mix": 0.7066666666666667, "mse": 7.310236105695367e-05, "seconds": 1.5}
+{"iteration": 189, "teacher_mix": 0.7033333333333334, "mse": 0.000191570317838341, "seconds": 1.47}
+{"iteration": 190, "teacher_mix": 0.7, "mse": 0.0002492785861250013, "seconds": 1.48}
+{"iteration": 191, "teacher_mix": 0.6966666666666667, "mse": 0.00047049776185303926, "seconds": 1.57}
+{"iteration": 192, "teacher_mix": 0.6933333333333334, "mse": 0.00043864245526492596, "seconds": 1.69}
+{"iteration": 193, "teacher_mix": 0.69, "mse": 0.0002941104175988585, "seconds": 1.6}
+{"iteration": 194, "teacher_mix": 0.6866666666666666, "mse": 0.00020252401009202003, "seconds": 1.61}
+{"iteration": 195, "teacher_mix": 0.6833333333333333, "mse": 0.00018698637722991407, "seconds": 1.53}
+{"iteration": 196, "teacher_mix": 0.6799999999999999, "mse": 0.0002149506181012839, "seconds": 1.58}
+{"iteration": 197, "teacher_mix": 0.6766666666666667, "mse": 0.00018517288845032454, "seconds": 1.55}
+{"iteration": 198, "teacher_mix": 0.6733333333333333, "mse": 0.0001328023208770901, "seconds": 1.63}
+{"iteration": 199, "teacher_mix": 0.6699999999999999, "mse": 0.00012968556256964803, "seconds": 1.64}
+{"iteration": 200, "teacher_mix": 0.6666666666666667, "mse": 0.00010381067841080949, "seconds": 1.51}
+{"iteration": 201, "teacher_mix": 0.6633333333333333, "mse": 9.600095654604957e-05, "seconds": 1.52}
+{"iteration": 202, "teacher_mix": 0.6599999999999999, "mse": 9.656361362431198e-05, "seconds": 1.5}
+{"iteration": 203, "teacher_mix": 0.6566666666666667, "mse": 9.564062929712236e-05, "seconds": 1.57}
+{"iteration": 204, "teacher_mix": 0.6533333333333333, "mse": 8.464479469694197e-05, "seconds": 1.6}
+{"iteration": 205, "teacher_mix": 0.65, "mse": 0.00010114387987414375, "seconds": 1.57}
+{"iteration": 206, "teacher_mix": 0.6466666666666667, "mse": 0.00011128644837299362, "seconds": 1.55}
+{"iteration": 207, "teacher_mix": 0.6433333333333333, "mse": 0.00011665555939543992, "seconds": 1.53}
+{"iteration": 208, "teacher_mix": 0.64, "mse": 0.00016251207853201777, "seconds": 1.51}
+{"iteration": 209, "teacher_mix": 0.6366666666666667, "mse": 0.00014639634173363447, "seconds": 1.51}
+{"iteration": 210, "teacher_mix": 0.6333333333333333, "mse": 0.00037639110814779997, "seconds": 1.57, "success": 0.0, "best_hold_s": 3.2199976444244385, "reward": 220.42787170410156, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 211, "teacher_mix": 0.63, "mse": 0.0006076344870962203, "seconds": 1.72, "success": 0.0, "best_hold_s": 1.1199995279312134, "reward": 201.27178955078125, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 212, "teacher_mix": 0.6266666666666667, "mse": 0.0007380105089396238, "seconds": 1.75}
+{"iteration": 213, "teacher_mix": 0.6233333333333333, "mse": 0.0008232437539845705, "seconds": 1.7, "success": 0.0, "best_hold_s": 1.7599987983703613, "reward": 143.40447998046875, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 214, "teacher_mix": 0.62, "mse": 0.0004788614169228822, "seconds": 1.63}
+{"iteration": 215, "teacher_mix": 0.6166666666666667, "mse": 0.0002259081811644137, "seconds": 1.62, "success": 0.0, "best_hold_s": 3.7599971294403076, "reward": 215.62515258789062, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 216, "teacher_mix": 0.6133333333333333, "mse": 0.00018684074166230857, "seconds": 1.61}
+{"iteration": 217, "teacher_mix": 0.61, "mse": 0.00017827565898187459, "seconds": 1.54}
+{"iteration": 218, "teacher_mix": 0.6066666666666667, "mse": 0.00016394216800108552, "seconds": 1.6}
+{"iteration": 219, "teacher_mix": 0.6033333333333333, "mse": 0.00012086648348486051, "seconds": 1.51}
+{"iteration": 220, "teacher_mix": 0.6, "mse": 0.00010209546599071473, "seconds": 1.49}
+{"iteration": 221, "teacher_mix": 0.5966666666666667, "mse": 0.00011148098565172404, "seconds": 1.48}
+{"iteration": 222, "teacher_mix": 0.5933333333333333, "mse": 0.00015354360220953822, "seconds": 1.52}
+{"iteration": 223, "teacher_mix": 0.5900000000000001, "mse": 0.0001040393253788352, "seconds": 1.57}
+{"iteration": 224, "teacher_mix": 0.5866666666666667, "mse": 0.00011193545651622117, "seconds": 1.54}
+{"iteration": 225, "teacher_mix": 0.5833333333333333, "mse": 7.060140342218801e-05, "seconds": 1.48}
+{"iteration": 226, "teacher_mix": 0.5800000000000001, "mse": 0.00011235231067985296, "seconds": 1.48}
+{"iteration": 227, "teacher_mix": 0.5766666666666667, "mse": 0.00014880983508192003, "seconds": 1.46}
+{"iteration": 228, "teacher_mix": 0.5733333333333333, "mse": 9.096002031583339e-05, "seconds": 1.47}
+{"iteration": 229, "teacher_mix": 0.5700000000000001, "mse": 0.00015187352255452424, "seconds": 1.56, "success": 0.0, "best_hold_s": 3.559997320175171, "reward": 219.9723663330078, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 230, "teacher_mix": 0.5666666666666667, "mse": 0.0003047275240533054, "seconds": 1.62, "success": 0.0, "best_hold_s": 4.1399970054626465, "reward": 223.14532470703125, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 231, "teacher_mix": 0.5633333333333334, "mse": 0.00027195908478461206, "seconds": 1.72}
+{"iteration": 232, "teacher_mix": 0.56, "mse": 0.0003461088635958731, "seconds": 1.69, "success": 0.0, "best_hold_s": 1.139999508857727, "reward": 81.8754653930664, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 233, "teacher_mix": 0.5566666666666666, "mse": 0.0003925097989849746, "seconds": 1.71}
+{"iteration": 234, "teacher_mix": 0.5533333333333333, "mse": 0.00037195271579548717, "seconds": 1.68}
+{"iteration": 235, "teacher_mix": 0.55, "mse": 0.00025410635862499475, "seconds": 1.77}
+{"iteration": 236, "teacher_mix": 0.5466666666666666, "mse": 0.00015900789003353566, "seconds": 1.65}
+{"iteration": 237, "teacher_mix": 0.5433333333333333, "mse": 0.00012087782670278102, "seconds": 1.64}
+{"iteration": 238, "teacher_mix": 0.54, "mse": 0.0001239849516423419, "seconds": 1.56}
+{"iteration": 239, "teacher_mix": 0.5366666666666666, "mse": 0.00015886389883235097, "seconds": 1.51}
+{"iteration": 240, "teacher_mix": 0.5333333333333333, "mse": 9.60720208240673e-05, "seconds": 1.57}
+{"iteration": 241, "teacher_mix": 0.53, "mse": 7.810787064954638e-05, "seconds": 1.58}
+{"iteration": 242, "teacher_mix": 0.5266666666666666, "mse": 8.506426092935726e-05, "seconds": 1.6}
+{"iteration": 243, "teacher_mix": 0.5233333333333333, "mse": 8.007322321645916e-05, "seconds": 1.59}
+{"iteration": 244, "teacher_mix": 0.52, "mse": 5.56391169084236e-05, "seconds": 1.6}
+{"iteration": 245, "teacher_mix": 0.5166666666666666, "mse": 0.00011578002158785239, "seconds": 1.57}
+{"iteration": 246, "teacher_mix": 0.5133333333333333, "mse": 0.0001771584793459624, "seconds": 1.52}
+{"iteration": 247, "teacher_mix": 0.51, "mse": 0.00013262448192108423, "seconds": 1.52}
+{"iteration": 248, "teacher_mix": 0.5066666666666666, "mse": 0.00021352438488975167, "seconds": 1.68}
+{"iteration": 249, "teacher_mix": 0.5033333333333334, "mse": 0.0003251240705139935, "seconds": 1.7, "success": 0.0, "best_hold_s": 3.6599972248077393, "reward": 218.92739868164062, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 250, "teacher_mix": 0.5, "mse": 0.00022538466146215796, "seconds": 1.76}
+{"iteration": 251, "teacher_mix": 0.4966666666666667, "mse": 0.00026362529024481773, "seconds": 1.74}
+{"iteration": 252, "teacher_mix": 0.4933333333333333, "mse": 0.00024611662956885993, "seconds": 1.76}
+{"iteration": 253, "teacher_mix": 0.49, "mse": 0.00024649035185575485, "seconds": 1.74}
+{"iteration": 254, "teacher_mix": 0.4866666666666667, "mse": 0.00021479238057509065, "seconds": 1.82, "success": 0.0, "best_hold_s": 2.019998788833618, "reward": 121.50547790527344, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 255, "teacher_mix": 0.4833333333333333, "mse": 0.00018928482313640416, "seconds": 1.76, "success": 0.0, "best_hold_s": 3.0866646766662598, "reward": 138.43014526367188, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 256, "teacher_mix": 0.48, "mse": 0.00021576280414592475, "seconds": 1.7}
+{"iteration": 257, "teacher_mix": 0.4766666666666667, "mse": 0.00022051806445233524, "seconds": 1.55}
+{"iteration": 258, "teacher_mix": 0.4733333333333334, "mse": 0.00019520410569384694, "seconds": 1.61, "success": 0.0, "best_hold_s": 3.11999773979187, "reward": 166.48004150390625, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 259, "teacher_mix": 0.47, "mse": 0.00021387822926044464, "seconds": 1.67}
+{"iteration": 260, "teacher_mix": 0.4666666666666667, "mse": 0.00022385382908396423, "seconds": 1.69}
+{"iteration": 261, "teacher_mix": 0.4633333333333334, "mse": 0.00022655315115116537, "seconds": 1.64}
+{"iteration": 262, "teacher_mix": 0.45999999999999996, "mse": 0.0001255388924619183, "seconds": 1.57}
+{"iteration": 263, "teacher_mix": 0.45666666666666667, "mse": 8.974467345979065e-05, "seconds": 1.58}
+{"iteration": 264, "teacher_mix": 0.45333333333333337, "mse": 9.734003833727911e-05, "seconds": 1.54}
+{"iteration": 265, "teacher_mix": 0.44999999999999996, "mse": 8.678129961481318e-05, "seconds": 1.51}
+{"iteration": 266, "teacher_mix": 0.44666666666666666, "mse": 7.041408389341086e-05, "seconds": 1.6}
+{"iteration": 267, "teacher_mix": 0.44333333333333336, "mse": 0.00010731501970440149, "seconds": 1.62}
+{"iteration": 268, "teacher_mix": 0.43999999999999995, "mse": 0.0001793889532564208, "seconds": 1.68}
+{"iteration": 269, "teacher_mix": 0.43666666666666665, "mse": 9.803770808503032e-05, "seconds": 1.66, "success": 0.0, "best_hold_s": 3.259997844696045, "reward": 211.95773315429688, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 270, "teacher_mix": 0.43333333333333335, "mse": 0.00018701679073274136, "seconds": 1.72, "success": 0.0, "best_hold_s": 2.8599979877471924, "reward": 215.2978973388672, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 271, "teacher_mix": 0.43000000000000005, "mse": 0.00014321584603749216, "seconds": 1.61, "success": 0.0, "best_hold_s": 4.119997024536133, "reward": 216.45213317871094, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 272, "teacher_mix": 0.42666666666666664, "mse": 0.0002519986010156572, "seconds": 1.72, "success": 0.0, "best_hold_s": 3.299997568130493, "reward": 215.47055053710938, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 273, "teacher_mix": 0.42333333333333334, "mse": 0.00021849641052540392, "seconds": 1.74}
+{"iteration": 274, "teacher_mix": 0.42000000000000004, "mse": 0.00021327660942915827, "seconds": 1.76, "success": 0.0, "best_hold_s": 3.179997682571411, "reward": 143.1859893798828, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 275, "teacher_mix": 0.41666666666666663, "mse": 0.00020832318114116788, "seconds": 1.71}
+{"iteration": 276, "teacher_mix": 0.41333333333333333, "mse": 0.00016270758351311088, "seconds": 1.6, "success": 0.0, "best_hold_s": 0.2799999713897705, "reward": 67.20465850830078, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 277, "teacher_mix": 0.41000000000000003, "mse": 0.00014858967915643007, "seconds": 1.7, "success": 0.0, "best_hold_s": 4.119997024536133, "reward": 221.8011016845703, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 278, "teacher_mix": 0.4066666666666666, "mse": 0.00013612938346341252, "seconds": 1.68}
+{"iteration": 279, "teacher_mix": 0.4033333333333333, "mse": 0.0002597573329694569, "seconds": 1.63}
+{"iteration": 280, "teacher_mix": 0.4, "mse": 0.0002096200769301504, "seconds": 1.69}
+{"iteration": 281, "teacher_mix": 0.3966666666666666, "mse": 0.0001467673573642969, "seconds": 1.64, "success": 0.0, "best_hold_s": 1.6199990510940552, "reward": 199.71463012695312, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 282, "teacher_mix": 0.3933333333333333, "mse": 0.00014575365639757365, "seconds": 1.6, "success": 0.0, "best_hold_s": 2.219998598098755, "reward": 120.97064208984375, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 283, "teacher_mix": 0.39, "mse": 0.00014893246407154948, "seconds": 1.61}
+{"iteration": 284, "teacher_mix": 0.3866666666666667, "mse": 0.00031278791720978916, "seconds": 1.63}
+{"iteration": 285, "teacher_mix": 0.3833333333333333, "mse": 0.00022792338859289885, "seconds": 1.66}
+{"iteration": 286, "teacher_mix": 0.38, "mse": 0.00020343180221971124, "seconds": 1.56}
+{"iteration": 287, "teacher_mix": 0.3766666666666667, "mse": 0.00015133702254388481, "seconds": 1.68, "success": 0.0, "best_hold_s": 2.999997854232788, "reward": 183.5596466064453, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 288, "teacher_mix": 0.3733333333333333, "mse": 0.00020523696730379015, "seconds": 1.7, "success": 0.0, "best_hold_s": 3.2049977779388428, "reward": 210.58355712890625, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 289, "teacher_mix": 0.37, "mse": 0.00014933329657651484, "seconds": 1.68, "success": 0.0, "best_hold_s": 2.7799980640411377, "reward": 212.32200622558594, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 290, "teacher_mix": 0.3666666666666667, "mse": 0.00013176255743019283, "seconds": 1.69}
+{"iteration": 291, "teacher_mix": 0.3633333333333333, "mse": 0.00011591051588766277, "seconds": 1.69}
+{"iteration": 292, "teacher_mix": 0.36, "mse": 0.00010976135672535747, "seconds": 1.71, "success": 0.0, "best_hold_s": 2.8999979496002197, "reward": 211.6211395263672, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 293, "teacher_mix": 0.3566666666666667, "mse": 0.00010073899466078728, "seconds": 1.7, "success": 0.0, "best_hold_s": 3.5133309364318848, "reward": 214.28811645507812, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 294, "teacher_mix": 0.3533333333333334, "mse": 0.00013733511150348932, "seconds": 1.69}
+{"iteration": 295, "teacher_mix": 0.35, "mse": 0.00018468074267730117, "seconds": 1.6}
+{"iteration": 296, "teacher_mix": 0.3466666666666667, "mse": 0.000302885688142851, "seconds": 1.7, "success": 0.0, "best_hold_s": 4.253330230712891, "reward": 226.2024383544922, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 297, "teacher_mix": 0.3433333333333334, "mse": 0.00022904157231096178, "seconds": 1.68, "success": 0.0, "best_hold_s": 4.1999969482421875, "reward": 188.4218292236328, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 298, "teacher_mix": 0.33999999999999997, "mse": 0.0003496082790661603, "seconds": 1.66, "success": 0.0, "best_hold_s": 2.7533316612243652, "reward": 199.04443359375, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 299, "teacher_mix": 0.33666666666666667, "mse": 0.000347321416484192, "seconds": 1.63, "success": 0.0, "best_hold_s": 3.4599974155426025, "reward": 205.1452178955078, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 300, "teacher_mix": 0.33333333333333337, "mse": 0.00022502847423311323, "seconds": 1.75, "success": 0.0, "best_hold_s": 1.2199994325637817, "reward": 91.05867004394531, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 301, "teacher_mix": 0.32999999999999996, "mse": 0.00018931491649709642, "seconds": 1.73}
+{"iteration": 302, "teacher_mix": 0.32666666666666666, "mse": 0.00016962317749857903, "seconds": 1.74, "success": 0.0, "best_hold_s": 0.9999995827674866, "reward": 214.26783752441406, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 303, "teacher_mix": 0.32333333333333336, "mse": 0.0002931737108156085, "seconds": 1.65}
+{"iteration": 304, "teacher_mix": 0.31999999999999995, "mse": 0.00025230651954188943, "seconds": 1.63, "success": 0.0, "best_hold_s": 2.1199986934661865, "reward": 203.2088623046875, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 305, "teacher_mix": 0.31666666666666665, "mse": 0.0003242340753786266, "seconds": 1.58}
+{"iteration": 306, "teacher_mix": 0.31333333333333335, "mse": 0.0002642543986439705, "seconds": 1.72, "success": 0.0, "best_hold_s": 1.7999986410140991, "reward": 141.4505157470703, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 307, "teacher_mix": 0.31000000000000005, "mse": 0.00021447340259328485, "seconds": 1.78, "success": 0.0, "best_hold_s": 2.819998025894165, "reward": 218.7973175048828, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 308, "teacher_mix": 0.30666666666666664, "mse": 0.00017849443247541785, "seconds": 1.78, "success": 0.0, "best_hold_s": 0.019999999552965164, "reward": 57.50810623168945, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 309, "teacher_mix": 0.30333333333333334, "mse": 0.00014858113718219101, "seconds": 1.77, "success": 0.0, "best_hold_s": 3.1599977016448975, "reward": 215.2659454345703, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 310, "teacher_mix": 0.30000000000000004, "mse": 0.00016316852997988462, "seconds": 1.65}
+{"iteration": 311, "teacher_mix": 0.29666666666666663, "mse": 0.00016555667389184237, "seconds": 1.7}
+{"iteration": 312, "teacher_mix": 0.29333333333333333, "mse": 0.00025678848032839596, "seconds": 1.64}
+{"iteration": 313, "teacher_mix": 0.29000000000000004, "mse": 0.0002942520077340305, "seconds": 1.72, "success": 0.0, "best_hold_s": 0.5999999642372131, "reward": 137.44210815429688, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 314, "teacher_mix": 0.2866666666666666, "mse": 0.0006259230431169271, "seconds": 1.8, "success": 0.0, "best_hold_s": 2.9133315086364746, "reward": 162.56137084960938, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 315, "teacher_mix": 0.2833333333333333, "mse": 0.000956126837991178, "seconds": 1.88, "success": 0.0, "best_hold_s": 1.898180603981018, "reward": 146.7553253173828, "completed_count": 11, "domain_level": 0.2}
+{"iteration": 316, "teacher_mix": 0.28, "mse": 0.0010563231771811843, "seconds": 1.9, "success": 0.0, "best_hold_s": 2.7333316802978516, "reward": 173.35690307617188, "completed_count": 39, "domain_level": 0.2}
+{"iteration": 317, "teacher_mix": 0.2766666666666666, "mse": 0.0006039650179445744, "seconds": 1.8, "success": 0.0, "best_hold_s": 2.26999831199646, "reward": 153.703369140625, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 318, "teacher_mix": 0.2733333333333333, "mse": 0.0002336442266823724, "seconds": 1.67}
+{"iteration": 319, "teacher_mix": 0.27, "mse": 0.00019120340584777296, "seconds": 1.7, "success": 0.0, "best_hold_s": 1.0149993896484375, "reward": 142.42129516601562, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 320, "teacher_mix": 0.2666666666666667, "mse": 0.00024191377451643348, "seconds": 1.75}
+{"iteration": 321, "teacher_mix": 0.2633333333333333, "mse": 0.0003396610263735056, "seconds": 1.69}
+{"iteration": 322, "teacher_mix": 0.26, "mse": 0.000288999464828521, "seconds": 1.6}
+{"iteration": 323, "teacher_mix": 0.2566666666666667, "mse": 0.0002654390409588814, "seconds": 1.63}
+{"iteration": 324, "teacher_mix": 0.2533333333333333, "mse": 0.0002688988170120865, "seconds": 1.65}
+{"iteration": 325, "teacher_mix": 0.25, "mse": 0.0001893995504360646, "seconds": 1.64, "success": 0.0, "best_hold_s": 0.3800000250339508, "reward": 70.1241683959961, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 326, "teacher_mix": 0.2466666666666667, "mse": 0.00026419374626129866, "seconds": 1.67}
+{"iteration": 327, "teacher_mix": 0.2433333333333333, "mse": 0.00026488176081329584, "seconds": 1.65}
+{"iteration": 328, "teacher_mix": 0.24, "mse": 0.0002813360479194671, "seconds": 1.7, "success": 0.0, "best_hold_s": 2.2849984169006348, "reward": 105.3814697265625, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 329, "teacher_mix": 0.2366666666666667, "mse": 0.00027414067881181836, "seconds": 1.73, "success": 0.0, "best_hold_s": 3.319997549057007, "reward": 135.49517822265625, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 330, "teacher_mix": 0.23333333333333328, "mse": 0.000272033445071429, "seconds": 1.75, "success": 0.0, "best_hold_s": 1.659999132156372, "reward": 185.91946411132812, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 331, "teacher_mix": 0.22999999999999998, "mse": 0.00018610905681271106, "seconds": 1.78, "success": 0.0, "best_hold_s": 1.0266661643981934, "reward": 154.31759643554688, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 332, "teacher_mix": 0.22666666666666668, "mse": 0.0001518207136541605, "seconds": 1.74, "success": 0.3333333432674408, "best_hold_s": 2.286665201187134, "reward": 213.02243041992188, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 333, "teacher_mix": 0.22333333333333338, "mse": 0.00014595204265788198, "seconds": 1.7, "success": 0.0, "best_hold_s": 0.14000001549720764, "reward": 174.0767822265625, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 334, "teacher_mix": 0.21999999999999997, "mse": 0.0001260527060367167, "seconds": 1.77, "success": 0.0, "best_hold_s": 3.6999969482421875, "reward": 215.57518005371094, "completed_count": 10, "domain_level": 0.2}
+{"iteration": 335, "teacher_mix": 0.21666666666666667, "mse": 0.00014230198576115072, "seconds": 1.77, "success": 0.0, "best_hold_s": 2.0079987049102783, "reward": 198.2650146484375, "completed_count": 15, "domain_level": 0.2}
+{"iteration": 336, "teacher_mix": 0.21333333333333337, "mse": 0.00010278179979650304, "seconds": 1.72, "success": 0.0, "best_hold_s": 2.569998264312744, "reward": 206.70330810546875, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 337, "teacher_mix": 0.20999999999999996, "mse": 0.00010165487765334547, "seconds": 1.67, "success": 0.0, "best_hold_s": 1.7399989366531372, "reward": 195.73936462402344, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 338, "teacher_mix": 0.20666666666666667, "mse": 9.796257654670626e-05, "seconds": 1.72, "success": 0.0, "best_hold_s": 1.0999995470046997, "reward": 189.68801879882812, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 339, "teacher_mix": 0.20333333333333337, "mse": 9.736088395584375e-05, "seconds": 1.6}
+{"iteration": 340, "teacher_mix": 0.19999999999999996, "mse": 0.00012513264664448798, "seconds": 1.53}
+{"iteration": 341, "teacher_mix": 0.19666666666666666, "mse": 0.00012477286509238183, "seconds": 1.54}
+{"iteration": 342, "teacher_mix": 0.19333333333333336, "mse": 0.00011480502871563658, "seconds": 1.62, "success": 0.0, "best_hold_s": 0.0, "reward": 166.68960571289062, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 343, "teacher_mix": 0.18999999999999995, "mse": 0.00011297286982880905, "seconds": 1.73, "success": 0.0, "best_hold_s": 2.7199981212615967, "reward": 191.84388732910156, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 344, "teacher_mix": 0.18666666666666665, "mse": 0.0002572383382357657, "seconds": 1.67}
+{"iteration": 345, "teacher_mix": 0.18333333333333335, "mse": 0.00017849277355708182, "seconds": 1.66}
+{"iteration": 346, "teacher_mix": 0.18000000000000005, "mse": 0.00015087935025803745, "seconds": 1.66}
+{"iteration": 347, "teacher_mix": 0.17666666666666664, "mse": 0.00024098565336316824, "seconds": 1.75, "success": 0.0, "best_hold_s": 4.029996871948242, "reward": 219.13668823242188, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 348, "teacher_mix": 0.17333333333333334, "mse": 0.00016530370339751244, "seconds": 1.68}
+{"iteration": 349, "teacher_mix": 0.17000000000000004, "mse": 0.00025091489078477025, "seconds": 1.87, "success": 0.0, "best_hold_s": 3.2759976387023926, "reward": 196.78024291992188, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 350, "teacher_mix": 0.16666666666666663, "mse": 0.00032582294079475105, "seconds": 1.75, "success": 0.0, "best_hold_s": 1.6199990510940552, "reward": 202.94837951660156, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 351, "teacher_mix": 0.16333333333333333, "mse": 0.00023727025836706161, "seconds": 1.82, "success": 0.0, "best_hold_s": 3.417928695678711, "reward": 180.4259033203125, "completed_count": 29, "domain_level": 0.2}
+{"iteration": 352, "teacher_mix": 0.16000000000000003, "mse": 0.0002575695398263633, "seconds": 1.75, "success": 0.0, "best_hold_s": 3.2636337280273438, "reward": 187.2113800048828, "completed_count": 11, "domain_level": 0.2}
+{"iteration": 353, "teacher_mix": 0.15666666666666662, "mse": 0.00027341992245055735, "seconds": 1.76, "success": 0.3076923191547394, "best_hold_s": 4.152304649353027, "reward": 215.79725646972656, "completed_count": 13, "domain_level": 0.2}
+{"iteration": 354, "teacher_mix": 0.15333333333333332, "mse": 0.00022280226403381675, "seconds": 1.78, "success": 0.0, "best_hold_s": 1.6111100912094116, "reward": 138.39462280273438, "completed_count": 9, "domain_level": 0.2}
+{"iteration": 355, "teacher_mix": 0.15000000000000002, "mse": 0.00018173061835113913, "seconds": 1.7, "success": 0.0, "best_hold_s": 0.929999589920044, "reward": 105.777587890625, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 356, "teacher_mix": 0.1466666666666666, "mse": 0.00018577725859358907, "seconds": 1.61}
+{"iteration": 357, "teacher_mix": 0.1433333333333333, "mse": 0.0002115242532454431, "seconds": 1.67}
+{"iteration": 358, "teacher_mix": 0.14, "mse": 0.00024987710639834404, "seconds": 1.55, "success": 0.0, "best_hold_s": 0.17999997735023499, "reward": 57.767860412597656, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 359, "teacher_mix": 0.13666666666666671, "mse": 0.0002489705802872777, "seconds": 1.61, "success": 0.0, "best_hold_s": 0.10999998450279236, "reward": 59.1533203125, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 360, "teacher_mix": 0.1333333333333333, "mse": 0.00022588748834095895, "seconds": 1.71, "success": 0.0, "best_hold_s": 0.0, "reward": 47.47650146484375, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 361, "teacher_mix": 0.13, "mse": 0.0002963207080028951, "seconds": 1.71}
+{"iteration": 362, "teacher_mix": 0.1266666666666667, "mse": 0.0002124285965692252, "seconds": 1.66, "success": 0.0, "best_hold_s": 0.9885709881782532, "reward": 104.16751861572266, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 363, "teacher_mix": 0.1233333333333333, "mse": 0.00023214405518956482, "seconds": 1.76, "success": 0.0, "best_hold_s": 1.8079990148544312, "reward": 106.17801666259766, "completed_count": 15, "domain_level": 0.2}
+{"iteration": 364, "teacher_mix": 0.12, "mse": 0.0002215815766248852, "seconds": 1.79, "success": 0.0, "best_hold_s": 1.8249988555908203, "reward": 115.03092193603516, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 365, "teacher_mix": 0.1166666666666667, "mse": 0.00026422442169860005, "seconds": 1.81, "success": 0.0, "best_hold_s": 1.8549988269805908, "reward": 120.85566711425781, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 366, "teacher_mix": 0.11333333333333329, "mse": 0.00023084139684215188, "seconds": 1.75, "success": 0.0, "best_hold_s": 2.207998752593994, "reward": 148.74363708496094, "completed_count": 10, "domain_level": 0.2}
+{"iteration": 367, "teacher_mix": 0.10999999999999999, "mse": 0.00019345265172887594, "seconds": 1.83, "success": 0.0, "best_hold_s": 1.083999514579773, "reward": 137.17430114746094, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 368, "teacher_mix": 0.10666666666666669, "mse": 0.00016263083671219647, "seconds": 1.75, "success": 0.0, "best_hold_s": 1.3299990892410278, "reward": 105.3558578491211, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 369, "teacher_mix": 0.10333333333333339, "mse": 0.00017370845307596028, "seconds": 1.66}
+{"iteration": 370, "teacher_mix": 0.09999999999999998, "mse": 0.00018335992353968322, "seconds": 1.76, "success": 0.0, "best_hold_s": 2.1266651153564453, "reward": 174.24801635742188, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 371, "teacher_mix": 0.09666666666666668, "mse": 0.0001564905687700957, "seconds": 1.78, "success": 0.0, "best_hold_s": 0.8899996280670166, "reward": 115.89039611816406, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 372, "teacher_mix": 0.09333333333333338, "mse": 0.00017630253569222987, "seconds": 1.81, "success": 0.0, "best_hold_s": 2.039998769760132, "reward": 199.9384002685547, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 373, "teacher_mix": 0.08999999999999997, "mse": 0.00019130785949528217, "seconds": 1.83, "success": 0.0, "best_hold_s": 4.179996967315674, "reward": 147.64915466308594, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 374, "teacher_mix": 0.08666666666666667, "mse": 0.00021554256090894341, "seconds": 1.75, "success": 0.0, "best_hold_s": 1.6999989748001099, "reward": 97.33300018310547, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 375, "teacher_mix": 0.08333333333333337, "mse": 0.0003094632993452251, "seconds": 1.69, "success": 0.0, "best_hold_s": 0.0, "reward": 51.47080993652344, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 376, "teacher_mix": 0.07999999999999996, "mse": 0.00022226106375455856, "seconds": 1.74, "success": 0.0, "best_hold_s": 1.8149988651275635, "reward": 111.03952026367188, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 377, "teacher_mix": 0.07666666666666666, "mse": 0.00021297347848303616, "seconds": 1.84, "success": 0.0, "best_hold_s": 1.3199992179870605, "reward": 118.9814682006836, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 378, "teacher_mix": 0.07333333333333336, "mse": 0.00021569657837972045, "seconds": 1.81, "success": 0.0, "best_hold_s": 3.6999974250793457, "reward": 163.30953979492188, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 379, "teacher_mix": 0.06999999999999995, "mse": 0.0001792008988559246, "seconds": 1.74, "success": 0.0, "best_hold_s": 1.689998984336853, "reward": 185.2537841796875, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 380, "teacher_mix": 0.06666666666666665, "mse": 0.00016583722026553005, "seconds": 1.71, "success": 0.0, "best_hold_s": 1.4999991655349731, "reward": 91.99060821533203, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 381, "teacher_mix": 0.06333333333333335, "mse": 0.00015861060819588602, "seconds": 1.62, "success": 0.0, "best_hold_s": 2.2599985599517822, "reward": 205.9163360595703, "completed_count": 11, "domain_level": 0.2}
+{"iteration": 382, "teacher_mix": 0.06000000000000005, "mse": 0.00015790655743330717, "seconds": 1.8, "success": 0.125, "best_hold_s": 2.469998359680176, "reward": 202.08529663085938, "completed_count": 8, "domain_level": 0.2}
+{"iteration": 383, "teacher_mix": 0.05666666666666664, "mse": 0.0001357522705802694, "seconds": 1.8, "success": 0.0, "best_hold_s": 1.8799986839294434, "reward": 197.7998046875, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 384, "teacher_mix": 0.053333333333333344, "mse": 0.0001425973023287952, "seconds": 1.82, "success": 0.0, "best_hold_s": 0.8799996972084045, "reward": 203.5428924560547, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 385, "teacher_mix": 0.050000000000000044, "mse": 0.00014421372907236218, "seconds": 1.83, "success": 0.0, "best_hold_s": 2.4979984760284424, "reward": 200.55523681640625, "completed_count": 10, "domain_level": 0.2}
+{"iteration": 386, "teacher_mix": 0.046666666666666634, "mse": 0.00012371063348837197, "seconds": 1.77}
+{"iteration": 387, "teacher_mix": 0.043333333333333335, "mse": 0.0001229348999913782, "seconds": 1.62, "success": 0.0, "best_hold_s": 1.0999995470046997, "reward": 144.68978881835938, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 388, "teacher_mix": 0.040000000000000036, "mse": 0.00012437073746696115, "seconds": 1.75, "success": 0.0, "best_hold_s": 2.2399985790252686, "reward": 192.5438232421875, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 389, "teacher_mix": 0.036666666666666625, "mse": 0.00016098911873996258, "seconds": 1.81, "success": 0.0, "best_hold_s": 1.079999566078186, "reward": 200.38876342773438, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 390, "teacher_mix": 0.033333333333333326, "mse": 0.0001453484146622941, "seconds": 1.77, "success": 0.0, "best_hold_s": 1.079999327659607, "reward": 174.14511108398438, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 391, "teacher_mix": 0.030000000000000027, "mse": 0.0002023524430114776, "seconds": 1.82, "success": 0.0, "best_hold_s": 1.7999989986419678, "reward": 183.3324432373047, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 392, "teacher_mix": 0.026666666666666616, "mse": 0.00020316257723607123, "seconds": 1.78, "success": 0.0, "best_hold_s": 1.8399989604949951, "reward": 159.17852783203125, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 393, "teacher_mix": 0.023333333333333317, "mse": 0.00017575695528648794, "seconds": 1.72}
+{"iteration": 394, "teacher_mix": 0.020000000000000018, "mse": 0.00021392243797890842, "seconds": 1.85, "success": 0.0, "best_hold_s": 0.3999999463558197, "reward": 126.51069641113281, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 395, "teacher_mix": 0.01666666666666672, "mse": 0.0001761708699632436, "seconds": 1.81, "success": 0.0, "best_hold_s": 2.637498140335083, "reward": 204.23638916015625, "completed_count": 16, "domain_level": 0.2}
+{"iteration": 396, "teacher_mix": 0.013333333333333308, "mse": 0.00014204668696038425, "seconds": 1.82, "success": 0.0, "best_hold_s": 3.0549979209899902, "reward": 174.18399047851562, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 397, "teacher_mix": 0.010000000000000009, "mse": 0.0001444975787308067, "seconds": 1.78, "success": 0.0, "best_hold_s": 2.889997959136963, "reward": 207.59588623046875, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 398, "teacher_mix": 0.00666666666666671, "mse": 0.00012215191964060068, "seconds": 1.74, "success": 0.0, "best_hold_s": 2.6599981784820557, "reward": 190.27110290527344, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 399, "teacher_mix": 0.0033333333333332993, "mse": 0.00011014645860996097, "seconds": 1.72, "success": 0.0, "best_hold_s": 3.5399973392486572, "reward": 201.9716796875, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 400, "teacher_mix": 0.0, "mse": 0.0001356078137177974, "seconds": 1.8, "success": 0.0, "best_hold_s": 1.828887939453125, "reward": 193.80398559570312, "completed_count": 9, "domain_level": 0.2}
+{"iteration": 401, "teacher_mix": 0.0, "mse": 0.00011073260975535959, "seconds": 1.89, "success": 0.0, "best_hold_s": 3.5099973678588867, "reward": 204.50250244140625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 402, "teacher_mix": 0.0, "mse": 0.00011322455975459889, "seconds": 1.77, "success": 0.0, "best_hold_s": 2.611426830291748, "reward": 199.76657104492188, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 403, "teacher_mix": 0.0, "mse": 0.00011496228398755193, "seconds": 1.78, "success": 0.0, "best_hold_s": 0.5000000596046448, "reward": 186.06320190429688, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 404, "teacher_mix": 0.0, "mse": 0.0001096526175388135, "seconds": 1.72, "success": 0.0, "best_hold_s": 0.5166666507720947, "reward": 175.69546508789062, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 405, "teacher_mix": 0.0, "mse": 0.00012085692287655547, "seconds": 1.62, "success": 0.0, "best_hold_s": 0.019999999552965164, "reward": 175.4581298828125, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 406, "teacher_mix": 0.0, "mse": 0.00012026738841086626, "seconds": 1.64}
+{"iteration": 407, "teacher_mix": 0.0, "mse": 0.00017619409481994808, "seconds": 1.76, "success": 0.0, "best_hold_s": 1.1399993896484375, "reward": 187.49822998046875, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 408, "teacher_mix": 0.0, "mse": 0.00016461963241454214, "seconds": 1.72, "success": 0.0, "best_hold_s": 0.5733330249786377, "reward": 191.33102416992188, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 409, "teacher_mix": 0.0, "mse": 0.000177444628207013, "seconds": 1.75, "success": 0.0, "best_hold_s": 1.8674988746643066, "reward": 197.26824951171875, "completed_count": 8, "domain_level": 0.2}
+{"iteration": 410, "teacher_mix": 0.0, "mse": 0.00019736887770704925, "seconds": 1.75, "success": 0.0, "best_hold_s": 1.599999189376831, "reward": 164.50985717773438, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 411, "teacher_mix": 0.0, "mse": 0.00019117907504551113, "seconds": 1.76, "success": 0.0, "best_hold_s": 1.4519991874694824, "reward": 168.33152770996094, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 412, "teacher_mix": 0.0, "mse": 0.0001449266856070608, "seconds": 1.94, "success": 0.0, "best_hold_s": 1.9733320474624634, "reward": 143.25668334960938, "completed_count": 9, "domain_level": 0.2}
+{"iteration": 413, "teacher_mix": 0.0, "mse": 0.0001718781713861972, "seconds": 1.87, "success": 0.0, "best_hold_s": 2.3133318424224854, "reward": 146.9652099609375, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 414, "teacher_mix": 0.0, "mse": 0.00014564490993507206, "seconds": 1.81, "success": 0.0, "best_hold_s": 1.3699992895126343, "reward": 199.8278045654297, "completed_count": 10, "domain_level": 0.2}
+{"iteration": 415, "teacher_mix": 0.0, "mse": 0.00013720101560465991, "seconds": 1.79, "success": 0.0, "best_hold_s": 2.459998369216919, "reward": 205.391357421875, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 416, "teacher_mix": 0.0, "mse": 0.00011108556645922363, "seconds": 1.85, "success": 0.0, "best_hold_s": 1.7099989652633667, "reward": 135.33929443359375, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 417, "teacher_mix": 0.0, "mse": 0.00012472530943341553, "seconds": 1.79}
+{"iteration": 418, "teacher_mix": 0.0, "mse": 0.00013284810120239854, "seconds": 1.7, "success": 0.0, "best_hold_s": 1.4599992036819458, "reward": 201.6721954345703, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 419, "teacher_mix": 0.0, "mse": 0.0001464409870095551, "seconds": 1.77, "success": 0.0, "best_hold_s": 1.8971418142318726, "reward": 203.8723907470703, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 420, "teacher_mix": 0.0, "mse": 0.00011010006710421294, "seconds": 1.73, "success": 0.0, "best_hold_s": 3.3399975299835205, "reward": 212.72048950195312, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 421, "teacher_mix": 0.0, "mse": 0.00015086458006408066, "seconds": 1.66, "success": 0.0, "best_hold_s": 2.1099987030029297, "reward": 210.25326538085938, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 422, "teacher_mix": 0.0, "mse": 0.0001331240200670436, "seconds": 1.73, "success": 0.0, "best_hold_s": 2.199998617172241, "reward": 214.46778869628906, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 423, "teacher_mix": 0.0, "mse": 0.00011644425103440881, "seconds": 1.79, "success": 0.0, "best_hold_s": 1.9279987812042236, "reward": 196.81838989257812, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 424, "teacher_mix": 0.0, "mse": 0.00011551263014553115, "seconds": 1.76}
+{"iteration": 425, "teacher_mix": 0.0, "mse": 0.0001038798363879323, "seconds": 1.68}
+{"iteration": 426, "teacher_mix": 0.0, "mse": 0.00019561671069823205, "seconds": 1.73, "success": 0.0, "best_hold_s": 2.371426820755005, "reward": 186.37982177734375, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 427, "teacher_mix": 0.0, "mse": 0.0001294364337809384, "seconds": 1.78, "success": 0.0, "best_hold_s": 3.2699975967407227, "reward": 213.05909729003906, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 428, "teacher_mix": 0.0, "mse": 0.0001380331814289093, "seconds": 1.76, "success": 0.0, "best_hold_s": 2.954998016357422, "reward": 202.30014038085938, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 429, "teacher_mix": 0.0, "mse": 0.0001470397983212024, "seconds": 1.79, "success": 0.0, "best_hold_s": 2.2959983348846436, "reward": 170.4169464111328, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 430, "teacher_mix": 0.0, "mse": 0.00014772765280213207, "seconds": 1.83, "success": 0.0, "best_hold_s": 1.6599990129470825, "reward": 167.18508911132812, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 431, "teacher_mix": 0.0, "mse": 0.00017903864500112832, "seconds": 1.75, "success": 0.0, "best_hold_s": 1.8352370262145996, "reward": 195.07830810546875, "completed_count": 21, "domain_level": 0.2}
+{"iteration": 432, "teacher_mix": 0.0, "mse": 0.00014117354294285178, "seconds": 1.77, "success": 0.0, "best_hold_s": 1.9555543661117554, "reward": 183.77073669433594, "completed_count": 9, "domain_level": 0.2}
+{"iteration": 433, "teacher_mix": 0.0, "mse": 0.00011026627180399373, "seconds": 1.76, "success": 0.0, "best_hold_s": 2.3199985027313232, "reward": 205.1120147705078, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 434, "teacher_mix": 0.0, "mse": 0.00013872201088815928, "seconds": 1.84, "success": 0.0, "best_hold_s": 3.2299976348876953, "reward": 212.9422149658203, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 435, "teacher_mix": 0.0, "mse": 0.00014147383626550436, "seconds": 1.84, "success": 0.0, "best_hold_s": 0.0, "reward": 52.797332763671875, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 436, "teacher_mix": 0.0, "mse": 0.0001544784172438085, "seconds": 1.79, "success": 0.0, "best_hold_s": 0.0, "reward": 50.05830001831055, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 437, "teacher_mix": 0.0, "mse": 0.0001468484551878646, "seconds": 1.67, "success": 0.0, "best_hold_s": 2.8599979877471924, "reward": 188.2882080078125, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 438, "teacher_mix": 0.0, "mse": 0.000152674998389557, "seconds": 1.7, "success": 0.0, "best_hold_s": 1.7666656970977783, "reward": 184.00534057617188, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 439, "teacher_mix": 0.0, "mse": 0.00010907741670962423, "seconds": 1.66}
+{"iteration": 440, "teacher_mix": 0.0, "mse": 0.00011578814883250743, "seconds": 1.79, "success": 0.0, "best_hold_s": 1.232499361038208, "reward": 137.57171630859375, "completed_count": 8, "domain_level": 0.2}
+{"iteration": 441, "teacher_mix": 0.0, "mse": 0.00014004099648445845, "seconds": 1.77}
+{"iteration": 442, "teacher_mix": 0.0, "mse": 0.00012053152750013396, "seconds": 1.82}
+{"iteration": 443, "teacher_mix": 0.0, "mse": 0.00010486425890121609, "seconds": 1.63, "success": 0.0, "best_hold_s": 0.3400000035762787, "reward": 61.87526321411133, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 444, "teacher_mix": 0.0, "mse": 0.0001818230957724154, "seconds": 1.71, "success": 0.0, "best_hold_s": 3.369997501373291, "reward": 208.58441162109375, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 445, "teacher_mix": 0.0, "mse": 0.0001681166177149862, "seconds": 1.79, "success": 0.0, "best_hold_s": 1.1799994707107544, "reward": 209.14620971679688, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 446, "teacher_mix": 0.0, "mse": 0.00014107231982052326, "seconds": 1.78, "success": 0.0, "best_hold_s": 7.409994125366211, "reward": 237.87351989746094, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 447, "teacher_mix": 0.0, "mse": 0.00012977025471627712, "seconds": 1.82, "success": 0.0, "best_hold_s": 1.8979988098144531, "reward": 196.52239990234375, "completed_count": 10, "domain_level": 0.2}
+{"iteration": 448, "teacher_mix": 0.0, "mse": 0.00014420601655729115, "seconds": 1.76, "success": 0.0, "best_hold_s": 2.1866652965545654, "reward": 153.73052978515625, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 449, "teacher_mix": 0.0, "mse": 9.830544149735942e-05, "seconds": 1.66, "success": 0.0, "best_hold_s": 1.6599990129470825, "reward": 93.02043914794922, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 450, "teacher_mix": 0.0, "mse": 9.939182928064838e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 3.114997625350952, "reward": 198.03579711914062, "completed_count": 12, "domain_level": 0.2}
+{"iteration": 451, "teacher_mix": 0.0, "mse": 8.909636380849406e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 3.5359973907470703, "reward": 215.87841796875, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 452, "teacher_mix": 0.0, "mse": 7.931927393656224e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 3.11999773979187, "reward": 215.36483764648438, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 453, "teacher_mix": 0.0, "mse": 8.749002881813794e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 2.649998188018799, "reward": 203.53707885742188, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 454, "teacher_mix": 0.0, "mse": 8.113296644296497e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 1.779999017715454, "reward": 206.8037567138672, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 455, "teacher_mix": 0.0, "mse": 8.432071626884863e-05, "seconds": 1.64}
+{"iteration": 456, "teacher_mix": 0.0, "mse": 8.667194924782962e-05, "seconds": 1.67, "success": 0.0, "best_hold_s": 3.619997262954712, "reward": 210.91159057617188, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 457, "teacher_mix": 0.0, "mse": 8.742392674321309e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 1.359999179840088, "reward": 195.32244873046875, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 458, "teacher_mix": 0.0, "mse": 9.284648695029318e-05, "seconds": 1.8}
+{"iteration": 459, "teacher_mix": 0.0, "mse": 0.00015083409380167723, "seconds": 1.75}
+{"iteration": 460, "teacher_mix": 0.0, "mse": 0.00011707811790984124, "seconds": 1.74}
+{"iteration": 461, "teacher_mix": 0.0, "mse": 0.0001375084393657744, "seconds": 1.72, "success": 0.0, "best_hold_s": 4.91999626159668, "reward": 229.54234313964844, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 462, "teacher_mix": 0.0, "mse": 9.624753874959424e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 3.2366645336151123, "reward": 169.22491455078125, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 463, "teacher_mix": 0.0, "mse": 0.00012980848259758204, "seconds": 1.82, "success": 0.0, "best_hold_s": 2.2849984169006348, "reward": 161.661865234375, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 464, "teacher_mix": 0.0, "mse": 0.00012922409223392606, "seconds": 1.82, "success": 0.0, "best_hold_s": 3.9599969387054443, "reward": 215.14999389648438, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 465, "teacher_mix": 0.0, "mse": 0.00013234541984274983, "seconds": 2.59, "success": 0.0, "best_hold_s": 4.504996299743652, "reward": 224.979248046875, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 466, "teacher_mix": 0.0, "mse": 9.794337529456243e-05, "seconds": 1.86, "success": 0.0, "best_hold_s": 2.707998275756836, "reward": 201.4894256591797, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 467, "teacher_mix": 0.0, "mse": 9.020512516144663e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 3.199997663497925, "reward": 171.9995574951172, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 468, "teacher_mix": 0.0, "mse": 0.00010976531484629959, "seconds": 1.84, "success": 0.0, "best_hold_s": 3.2759978771209717, "reward": 208.59716796875, "completed_count": 10, "domain_level": 0.2}
+{"iteration": 469, "teacher_mix": 0.0, "mse": 0.00010133975592907518, "seconds": 1.8, "success": 0.0, "best_hold_s": 2.428887367248535, "reward": 206.3279266357422, "completed_count": 9, "domain_level": 0.2}
+{"iteration": 470, "teacher_mix": 0.0, "mse": 8.13843944342807e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 1.913332223892212, "reward": 187.3636474609375, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 471, "teacher_mix": 0.0, "mse": 8.008774602785707e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 2.339998483657837, "reward": 195.92520141601562, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 472, "teacher_mix": 0.0, "mse": 8.676992729306221e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 1.4599993228912354, "reward": 203.25625610351562, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 473, "teacher_mix": 0.0, "mse": 8.208633516915143e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 3.5999972820281982, "reward": 215.5830841064453, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 474, "teacher_mix": 0.0, "mse": 0.00011084135621786118, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.6299972534179688, "reward": 215.38475036621094, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 475, "teacher_mix": 0.0, "mse": 0.00011409765284042805, "seconds": 1.7, "success": 0.0, "best_hold_s": 2.707998037338257, "reward": 204.67185974121094, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 476, "teacher_mix": 0.0, "mse": 9.085454803425819e-05, "seconds": 1.68}
+{"iteration": 477, "teacher_mix": 0.0, "mse": 9.36582509893924e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 1.6266658306121826, "reward": 212.07420349121094, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 478, "teacher_mix": 0.0, "mse": 0.00011884788546012715, "seconds": 1.72, "success": 0.0, "best_hold_s": 2.2299983501434326, "reward": 190.59918212890625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 479, "teacher_mix": 0.0, "mse": 0.00010620689135976136, "seconds": 1.82}
+{"iteration": 480, "teacher_mix": 0.0, "mse": 0.00013807359209749848, "seconds": 1.76}
+{"iteration": 481, "teacher_mix": 0.0, "mse": 9.97845345409587e-05, "seconds": 1.81, "success": 0.0, "best_hold_s": 2.936997890472412, "reward": 156.4397735595703, "completed_count": 20, "domain_level": 0.2}
+{"iteration": 482, "teacher_mix": 0.0, "mse": 0.00013942932127974927, "seconds": 1.88, "success": 0.0, "best_hold_s": 2.397498369216919, "reward": 161.26593017578125, "completed_count": 8, "domain_level": 0.2}
+{"iteration": 483, "teacher_mix": 0.0, "mse": 9.726175630930811e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 5.199995994567871, "reward": 207.50926208496094, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 484, "teacher_mix": 0.0, "mse": 9.572932322043926e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 1.2399992942810059, "reward": 191.1145782470703, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 485, "teacher_mix": 0.0, "mse": 8.182116289390251e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 2.2949986457824707, "reward": 205.67958068847656, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 486, "teacher_mix": 0.0, "mse": 8.517883543390781e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 2.4999983310699463, "reward": 164.20535278320312, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 487, "teacher_mix": 0.0, "mse": 0.00013855985889676958, "seconds": 1.74, "success": 0.0, "best_hold_s": 2.1199986934661865, "reward": 193.00987243652344, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 488, "teacher_mix": 0.0, "mse": 0.00010634509089868516, "seconds": 1.73, "success": 0.0, "best_hold_s": 2.6599981784820557, "reward": 203.14474487304688, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 489, "teacher_mix": 0.0, "mse": 8.295483712572604e-05, "seconds": 1.69, "success": 0.0, "best_hold_s": 2.9299979209899902, "reward": 198.47430419921875, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 490, "teacher_mix": 0.0, "mse": 8.91843083081767e-05, "seconds": 1.72, "success": 0.0, "best_hold_s": 0.0, "reward": 175.55364990234375, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 491, "teacher_mix": 0.0, "mse": 8.293828432215378e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 1.5199991464614868, "reward": 171.3218994140625, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 492, "teacher_mix": 0.0, "mse": 7.733715756330639e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 1.7099989652633667, "reward": 202.60423278808594, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 493, "teacher_mix": 0.0, "mse": 8.599227294325829e-05, "seconds": 1.68, "success": 0.0, "best_hold_s": 2.339998483657837, "reward": 150.76260375976562, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 494, "teacher_mix": 0.0, "mse": 0.0001377619046252221, "seconds": 1.71, "success": 0.0, "best_hold_s": 2.9699978828430176, "reward": 202.92051696777344, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 495, "teacher_mix": 0.0, "mse": 8.84062610566616e-05, "seconds": 1.67, "success": 0.0, "best_hold_s": 1.2199994325637817, "reward": 182.890625, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 496, "teacher_mix": 0.0, "mse": 0.00010760045552160591, "seconds": 1.77, "success": 0.0, "best_hold_s": 1.8999987840652466, "reward": 202.8040008544922, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 497, "teacher_mix": 0.0, "mse": 0.00010401116742286831, "seconds": 1.83, "success": 0.0, "best_hold_s": 2.399998426437378, "reward": 207.7654571533203, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 498, "teacher_mix": 0.0, "mse": 0.00015753274783492088, "seconds": 1.76, "success": 0.0, "best_hold_s": 3.249997615814209, "reward": 213.60260009765625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 499, "teacher_mix": 0.0, "mse": 0.00013358147407416254, "seconds": 1.63, "success": 0.0, "best_hold_s": 6.539994716644287, "reward": 233.54916381835938, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 500, "teacher_mix": 0.0, "mse": 9.239827340934426e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 2.080998659133911, "reward": 202.83909606933594, "completed_count": 20, "domain_level": 0.2}
+{"iteration": 501, "teacher_mix": 0.0, "mse": 7.689013727940619e-05, "seconds": 1.75, "success": 0.1666666716337204, "best_hold_s": 3.3499975204467773, "reward": 212.9091033935547, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 502, "teacher_mix": 0.0, "mse": 7.12667970219627e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 4.206663608551025, "reward": 219.70956420898438, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 503, "teacher_mix": 0.0, "mse": 7.048992847558111e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 5.119996070861816, "reward": 228.49758911132812, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 504, "teacher_mix": 0.0, "mse": 9.428976045455784e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 3.489997386932373, "reward": 224.49459838867188, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 505, "teacher_mix": 0.0, "mse": 7.60243710828945e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 3.11999773979187, "reward": 215.86248779296875, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 506, "teacher_mix": 0.0, "mse": 9.009724453790113e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 2.2466652393341064, "reward": 204.6247100830078, "completed_count": 9, "domain_level": 0.2}
+{"iteration": 507, "teacher_mix": 0.0, "mse": 8.347752009285614e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 2.4399983882904053, "reward": 210.1112060546875, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 508, "teacher_mix": 0.0, "mse": 7.040624041110277e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 1.3399991989135742, "reward": 210.6748046875, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 509, "teacher_mix": 0.0, "mse": 7.228940376080573e-05, "seconds": 1.8}
+{"iteration": 510, "teacher_mix": 0.0, "mse": 8.561024151276797e-05, "seconds": 1.65, "success": 0.0, "best_hold_s": 2.9699978828430176, "reward": 216.29925537109375, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 511, "teacher_mix": 0.0, "mse": 8.507039456162602e-05, "seconds": 1.68, "success": 0.0, "best_hold_s": 2.5599982738494873, "reward": 207.3294677734375, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 512, "teacher_mix": 0.0, "mse": 0.00010576577915344387, "seconds": 1.64}
+{"iteration": 513, "teacher_mix": 0.0, "mse": 7.843890489311889e-05, "seconds": 1.78}
+{"iteration": 514, "teacher_mix": 0.0, "mse": 8.597604755777866e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 3.9399969577789307, "reward": 169.72964477539062, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 515, "teacher_mix": 0.0, "mse": 8.980724669527262e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 3.0999977588653564, "reward": 211.00453186035156, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 516, "teacher_mix": 0.0, "mse": 0.00011519195686560124, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.875997304916382, "reward": 213.70132446289062, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 517, "teacher_mix": 0.0, "mse": 8.03986331447959e-05, "seconds": 1.63}
+{"iteration": 518, "teacher_mix": 0.0, "mse": 7.452962745446712e-05, "seconds": 1.62, "success": 0.0, "best_hold_s": 3.739997386932373, "reward": 214.79183959960938, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 519, "teacher_mix": 0.0, "mse": 6.937297439435497e-05, "seconds": 1.66, "success": 0.0, "best_hold_s": 2.4566650390625, "reward": 201.14505004882812, "completed_count": 18, "domain_level": 0.2}
+{"iteration": 520, "teacher_mix": 0.0, "mse": 6.1032224039081484e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 2.7199981212615967, "reward": 196.0635528564453, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 521, "teacher_mix": 0.0, "mse": 6.494348053820431e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 2.819998264312744, "reward": 204.04884338378906, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 522, "teacher_mix": 0.0, "mse": 7.477181497961283e-05, "seconds": 1.64, "success": 0.0, "best_hold_s": 2.4399983882904053, "reward": 211.2104034423828, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 523, "teacher_mix": 0.0, "mse": 6.856194522697479e-05, "seconds": 1.63, "success": 0.0, "best_hold_s": 0.5200000405311584, "reward": 193.0640411376953, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 524, "teacher_mix": 0.0, "mse": 8.739900658838451e-05, "seconds": 1.68, "success": 0.0, "best_hold_s": 2.2266652584075928, "reward": 201.75433349609375, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 525, "teacher_mix": 0.0, "mse": 8.323119982378557e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.179997682571411, "reward": 212.742431640625, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 526, "teacher_mix": 0.0, "mse": 7.356762944255024e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 2.5999982357025146, "reward": 204.62435913085938, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 527, "teacher_mix": 0.0, "mse": 6.248500721994787e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 3.62666392326355, "reward": 216.64718627929688, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 528, "teacher_mix": 0.0, "mse": 7.079982606228441e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.0999977588653564, "reward": 210.1671600341797, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 529, "teacher_mix": 0.0, "mse": 0.00010032128921011463, "seconds": 1.61, "success": 0.0, "best_hold_s": 2.019998788833618, "reward": 201.8092041015625, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 530, "teacher_mix": 0.0, "mse": 0.0001240453711943701, "seconds": 1.66}
+{"iteration": 531, "teacher_mix": 0.0, "mse": 9.69942775554955e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 4.213330268859863, "reward": 215.75296020507812, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 532, "teacher_mix": 0.0, "mse": 0.00011528429604368284, "seconds": 1.8, "success": 0.0, "best_hold_s": 3.429997444152832, "reward": 190.56423950195312, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 533, "teacher_mix": 0.0, "mse": 0.00012245465768501163, "seconds": 1.7}
+{"iteration": 534, "teacher_mix": 0.0, "mse": 8.227420767070726e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 3.733330488204956, "reward": 209.84991455078125, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 535, "teacher_mix": 0.0, "mse": 8.278803579742089e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 2.9133315086364746, "reward": 209.2615203857422, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 536, "teacher_mix": 0.0, "mse": 6.937754369573668e-05, "seconds": 1.79}
+{"iteration": 537, "teacher_mix": 0.0, "mse": 8.20361019577831e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 2.491426944732666, "reward": 205.7659149169922, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 538, "teacher_mix": 0.0, "mse": 8.024256385397166e-05, "seconds": 1.91, "success": 0.0, "best_hold_s": 2.7959980964660645, "reward": 206.57412719726562, "completed_count": 10, "domain_level": 0.2}
+{"iteration": 539, "teacher_mix": 0.0, "mse": 6.407081673387438e-05, "seconds": 1.84, "success": 0.0, "best_hold_s": 2.459998369216919, "reward": 198.99554443359375, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 540, "teacher_mix": 0.0, "mse": 6.476491398643702e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 1.9199988842010498, "reward": 197.23793029785156, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 541, "teacher_mix": 0.0, "mse": 7.517499034292996e-05, "seconds": 1.76}
+{"iteration": 542, "teacher_mix": 0.0, "mse": 8.069764589890838e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 2.7399981021881104, "reward": 200.3483428955078, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 543, "teacher_mix": 0.0, "mse": 0.00011708161036949605, "seconds": 1.86, "success": 0.0, "best_hold_s": 2.763331890106201, "reward": 205.4586639404297, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 544, "teacher_mix": 0.0, "mse": 8.951978088589385e-05, "seconds": 1.85, "success": 0.0, "best_hold_s": 3.0533313751220703, "reward": 213.90719604492188, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 545, "teacher_mix": 0.0, "mse": 7.72959174355492e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 3.0199978351593018, "reward": 209.3562774658203, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 546, "teacher_mix": 0.0, "mse": 8.62158922245726e-05, "seconds": 1.86}
+{"iteration": 547, "teacher_mix": 0.0, "mse": 0.00010316664702259004, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.139997720718384, "reward": 233.1035614013672, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 548, "teacher_mix": 0.0, "mse": 9.923859033733606e-05, "seconds": 1.82, "success": 0.0, "best_hold_s": 1.7799988985061646, "reward": 193.1366729736328, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 549, "teacher_mix": 0.0, "mse": 9.298104123445228e-05, "seconds": 1.87, "success": 1.0, "best_hold_s": 4.239996910095215, "reward": 225.98501586914062, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 550, "teacher_mix": 0.0, "mse": 0.0001259837590623647, "seconds": 1.85, "success": 0.0, "best_hold_s": 3.5133309364318848, "reward": 215.76939392089844, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 551, "teacher_mix": 0.0, "mse": 0.00011620398436207324, "seconds": 1.8, "success": 0.0, "best_hold_s": 2.759998083114624, "reward": 203.4510498046875, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 552, "teacher_mix": 0.0, "mse": 0.00017158826813101768, "seconds": 1.8, "success": 0.0, "best_hold_s": 2.8499979972839355, "reward": 200.93609619140625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 553, "teacher_mix": 0.0, "mse": 0.00012775120558217168, "seconds": 1.82, "success": 0.0, "best_hold_s": 3.2699975967407227, "reward": 147.3597412109375, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 554, "teacher_mix": 0.0, "mse": 9.657230111770332e-05, "seconds": 1.83, "success": 0.0, "best_hold_s": 2.023998975753784, "reward": 203.79527282714844, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 555, "teacher_mix": 0.0, "mse": 0.00010473838483449072, "seconds": 1.83, "success": 0.0, "best_hold_s": 0.4200000464916229, "reward": 93.44364929199219, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 556, "teacher_mix": 0.0, "mse": 9.083715849556029e-05, "seconds": 1.83, "success": 0.0, "best_hold_s": 2.521998167037964, "reward": 202.69635009765625, "completed_count": 20, "domain_level": 0.2}
+{"iteration": 557, "teacher_mix": 0.0, "mse": 8.41969158500433e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 3.3533310890197754, "reward": 204.3450164794922, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 558, "teacher_mix": 0.0, "mse": 6.780168041586876e-05, "seconds": 1.74}
+{"iteration": 559, "teacher_mix": 0.0, "mse": 6.332948396448046e-05, "seconds": 1.81, "success": 0.0, "best_hold_s": 2.759998083114624, "reward": 203.75238037109375, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 560, "teacher_mix": 0.0, "mse": 6.69398796162568e-05, "seconds": 1.87, "success": 0.0, "best_hold_s": 2.639998197555542, "reward": 204.36102294921875, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 561, "teacher_mix": 0.0, "mse": 7.961246592458338e-05, "seconds": 1.83, "success": 0.0, "best_hold_s": 1.079999566078186, "reward": 194.50711059570312, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 562, "teacher_mix": 0.0, "mse": 6.467827188316733e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 0.9109086990356445, "reward": 194.44407653808594, "completed_count": 11, "domain_level": 0.2}
+{"iteration": 563, "teacher_mix": 0.0, "mse": 6.959812890272588e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 0.019999999552965164, "reward": 172.55694580078125, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 564, "teacher_mix": 0.0, "mse": 5.504591536009684e-05, "seconds": 1.84, "success": 0.0, "best_hold_s": 2.6199982166290283, "reward": 211.0757598876953, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 565, "teacher_mix": 0.0, "mse": 5.728973701479845e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 1.209999442100525, "reward": 187.58978271484375, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 566, "teacher_mix": 0.0, "mse": 6.730583845637739e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 0.13999998569488525, "reward": 194.69459533691406, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 567, "teacher_mix": 0.0, "mse": 6.896394188515842e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 1.7533323764801025, "reward": 206.74252319335938, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 568, "teacher_mix": 0.0, "mse": 0.000117167663120199, "seconds": 1.69}
+{"iteration": 569, "teacher_mix": 0.0, "mse": 9.77393938228488e-05, "seconds": 1.68, "success": 0.0, "best_hold_s": 4.037139892578125, "reward": 216.91856384277344, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 570, "teacher_mix": 0.0, "mse": 0.00010612563346512616, "seconds": 1.82, "success": 0.0, "best_hold_s": 4.53999662399292, "reward": 222.3784637451172, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 571, "teacher_mix": 0.0, "mse": 7.250034104799852e-05, "seconds": 1.82, "success": 0.0, "best_hold_s": 3.13199782371521, "reward": 214.20547485351562, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 572, "teacher_mix": 0.0, "mse": 6.284151459112763e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 3.793330669403076, "reward": 211.93655395507812, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 573, "teacher_mix": 0.0, "mse": 6.493021646747366e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 3.06908917427063, "reward": 202.3397674560547, "completed_count": 11, "domain_level": 0.2}
+{"iteration": 574, "teacher_mix": 0.0, "mse": 6.467068305937573e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 4.123996734619141, "reward": 217.44248962402344, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 575, "teacher_mix": 0.0, "mse": 6.127545202616602e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 3.1106646060943604, "reward": 209.51876831054688, "completed_count": 15, "domain_level": 0.2}
+{"iteration": 576, "teacher_mix": 0.0, "mse": 5.4560587159357965e-05, "seconds": 1.86, "success": 0.0, "best_hold_s": 2.8033313751220703, "reward": 215.75283813476562, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 577, "teacher_mix": 0.0, "mse": 5.6879318435676396e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 3.129997730255127, "reward": 214.10963439941406, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 578, "teacher_mix": 0.0, "mse": 5.9479905758053064e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 2.6799983978271484, "reward": 213.8973846435547, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 579, "teacher_mix": 0.0, "mse": 7.510091381845996e-05, "seconds": 1.69, "success": 0.0, "best_hold_s": 1.5399991273880005, "reward": 205.69862365722656, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 580, "teacher_mix": 0.0, "mse": 7.045296661090106e-05, "seconds": 1.69, "success": 0.0, "best_hold_s": 1.5733325481414795, "reward": 211.138427734375, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 581, "teacher_mix": 0.0, "mse": 8.637232531327754e-05, "seconds": 1.69, "success": 0.0, "best_hold_s": 4.084441184997559, "reward": 215.9729766845703, "completed_count": 9, "domain_level": 0.2}
+{"iteration": 582, "teacher_mix": 0.0, "mse": 6.63459359202534e-05, "seconds": 1.69, "success": 0.0, "best_hold_s": 3.013331174850464, "reward": 214.39256286621094, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 583, "teacher_mix": 0.0, "mse": 7.333100802497938e-05, "seconds": 1.76}
+{"iteration": 584, "teacher_mix": 0.0, "mse": 8.195079863071442e-05, "seconds": 1.59}
+{"iteration": 585, "teacher_mix": 0.0, "mse": 0.00010220475087407976, "seconds": 1.66, "success": 0.0, "best_hold_s": 4.459996700286865, "reward": 217.89208984375, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 586, "teacher_mix": 0.0, "mse": 7.738397835055366e-05, "seconds": 1.65, "success": 0.0, "best_hold_s": 3.5149974822998047, "reward": 215.94334411621094, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 587, "teacher_mix": 0.0, "mse": 8.355292084161192e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 4.879996299743652, "reward": 221.99827575683594, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 588, "teacher_mix": 0.0, "mse": 6.798085814807564e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 3.5299973487854004, "reward": 218.22488403320312, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 589, "teacher_mix": 0.0, "mse": 8.511253690812737e-05, "seconds": 1.81, "success": 0.0, "best_hold_s": 2.6099982261657715, "reward": 209.1983642578125, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 590, "teacher_mix": 0.0, "mse": 5.919794784858823e-05, "seconds": 1.84, "success": 0.0, "best_hold_s": 3.5149974822998047, "reward": 214.2002410888672, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 591, "teacher_mix": 0.0, "mse": 7.886482489993796e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 2.0599987506866455, "reward": 208.493896484375, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 592, "teacher_mix": 0.0, "mse": 6.164427031762898e-05, "seconds": 1.81, "success": 0.13333334028720856, "best_hold_s": 3.5279974937438965, "reward": 217.01039123535156, "completed_count": 15, "domain_level": 0.2}
+{"iteration": 593, "teacher_mix": 0.0, "mse": 6.081795072532259e-05, "seconds": 1.82, "success": 0.0, "best_hold_s": 2.5599985122680664, "reward": 211.36598205566406, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 594, "teacher_mix": 0.0, "mse": 5.539234552998096e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 3.1524977684020996, "reward": 213.24484252929688, "completed_count": 8, "domain_level": 0.2}
+{"iteration": 595, "teacher_mix": 0.0, "mse": 5.15726933372207e-05, "seconds": 1.87, "success": 0.0, "best_hold_s": 5.89999532699585, "reward": 227.55975341796875, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 596, "teacher_mix": 0.0, "mse": 5.398153007263318e-05, "seconds": 1.67, "success": 0.0, "best_hold_s": 4.119997024536133, "reward": 221.01205444335938, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 597, "teacher_mix": 0.0, "mse": 5.475891521200538e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 2.814998149871826, "reward": 207.96163940429688, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 598, "teacher_mix": 0.0, "mse": 5.932642670813948e-05, "seconds": 1.74}
+{"iteration": 599, "teacher_mix": 0.0, "mse": 6.059509178157896e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 3.319997549057007, "reward": 211.22442626953125, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 600, "teacher_mix": 0.0, "mse": 8.2295824540779e-05, "seconds": 1.93, "success": 0.0, "best_hold_s": 2.6166648864746094, "reward": 214.0367889404297, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 601, "teacher_mix": 0.0, "mse": 8.370068098884076e-05, "seconds": 1.84, "success": 0.0, "best_hold_s": 3.7799973487854004, "reward": 222.84527587890625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 602, "teacher_mix": 0.0, "mse": 0.00010180727258557454, "seconds": 1.79}
+{"iteration": 603, "teacher_mix": 0.0, "mse": 9.03548498172313e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 2.219998598098755, "reward": 207.81468200683594, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 604, "teacher_mix": 0.0, "mse": 0.00011120595445390791, "seconds": 1.69, "success": 0.0, "best_hold_s": 2.7799980640411377, "reward": 209.912353515625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 605, "teacher_mix": 0.0, "mse": 7.452687714248896e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 3.8299970626831055, "reward": 216.75076293945312, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 606, "teacher_mix": 0.0, "mse": 7.426161027979106e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 5.874995231628418, "reward": 231.33758544921875, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 607, "teacher_mix": 0.0, "mse": 6.214730092324317e-05, "seconds": 1.69, "success": 0.0, "best_hold_s": 4.439996719360352, "reward": 223.71368408203125, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 608, "teacher_mix": 0.0, "mse": 6.671998562524095e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 2.2399985790252686, "reward": 207.30130004882812, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 609, "teacher_mix": 0.0, "mse": 7.994486077222973e-05, "seconds": 1.72}
+{"iteration": 610, "teacher_mix": 0.0, "mse": 7.320765143958852e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 4.3799967765808105, "reward": 221.0272979736328, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 611, "teacher_mix": 0.0, "mse": 6.636825855821371e-05, "seconds": 1.86, "success": 0.0, "best_hold_s": 2.0039987564086914, "reward": 208.4985809326172, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 612, "teacher_mix": 0.0, "mse": 6.205883255461231e-05, "seconds": 1.83, "success": 0.0, "best_hold_s": 3.192854881286621, "reward": 210.74349975585938, "completed_count": 14, "domain_level": 0.2}
+{"iteration": 613, "teacher_mix": 0.0, "mse": 5.5699543736409396e-05, "seconds": 1.78, "success": 0.1428571492433548, "best_hold_s": 3.9599971771240234, "reward": 221.5890655517578, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 614, "teacher_mix": 0.0, "mse": 5.21925394423306e-05, "seconds": 1.67, "success": 0.0, "best_hold_s": 2.339998483657837, "reward": 201.8566131591797, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 615, "teacher_mix": 0.0, "mse": 5.8360361435916275e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 3.543330669403076, "reward": 220.8863983154297, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 616, "teacher_mix": 0.0, "mse": 6.627803668379784e-05, "seconds": 1.81, "success": 0.0, "best_hold_s": 3.7799971103668213, "reward": 220.4104461669922, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 617, "teacher_mix": 0.0, "mse": 7.421120244544e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 1.8199987411499023, "reward": 199.46160888671875, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 618, "teacher_mix": 0.0, "mse": 7.465931412298232e-05, "seconds": 1.85, "success": 0.0, "best_hold_s": 3.2699975967407227, "reward": 208.80886840820312, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 619, "teacher_mix": 0.0, "mse": 6.404053419828415e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 3.4049975872039795, "reward": 212.07640075683594, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 620, "teacher_mix": 0.0, "mse": 6.054014011169784e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 5.319995880126953, "reward": 228.35992431640625, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 621, "teacher_mix": 0.0, "mse": 5.779620187240653e-05, "seconds": 1.77}
+{"iteration": 622, "teacher_mix": 0.0, "mse": 6.522543117171153e-05, "seconds": 1.72, "success": 0.0, "best_hold_s": 2.209998607635498, "reward": 202.28817749023438, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 623, "teacher_mix": 0.0, "mse": 7.313203241210431e-05, "seconds": 1.84, "success": 0.0, "best_hold_s": 3.2399978637695312, "reward": 215.28282165527344, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 624, "teacher_mix": 0.0, "mse": 8.307246025651693e-05, "seconds": 1.77}
+{"iteration": 625, "teacher_mix": 0.0, "mse": 9.690852311905473e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 3.6349973678588867, "reward": 211.83946228027344, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 626, "teacher_mix": 0.0, "mse": 7.960038783494383e-05, "seconds": 1.87, "success": 0.0, "best_hold_s": 1.9799987077713013, "reward": 206.75877380371094, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 627, "teacher_mix": 0.0, "mse": 0.00015830715710762888, "seconds": 1.9, "success": 0.0, "best_hold_s": 4.413330078125, "reward": 213.6658935546875, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 628, "teacher_mix": 0.0, "mse": 9.29558664211072e-05, "seconds": 1.81, "success": 0.0, "best_hold_s": 3.4039978981018066, "reward": 211.7822265625, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 629, "teacher_mix": 0.0, "mse": 0.0001066006298060529, "seconds": 1.83, "success": 0.0, "best_hold_s": 3.2679977416992188, "reward": 212.5584716796875, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 630, "teacher_mix": 0.0, "mse": 7.630819891346619e-05, "seconds": 1.81, "success": 0.0, "best_hold_s": 1.533332347869873, "reward": 193.20614624023438, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 631, "teacher_mix": 0.0, "mse": 7.287716289283708e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 1.7686947584152222, "reward": 198.31497192382812, "completed_count": 23, "domain_level": 0.2}
+{"iteration": 632, "teacher_mix": 0.0, "mse": 5.4417585488408804e-05, "seconds": 1.81, "success": 0.0, "best_hold_s": 2.1849985122680664, "reward": 205.82492065429688, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 633, "teacher_mix": 0.0, "mse": 4.9598966143094e-05, "seconds": 1.77}
+{"iteration": 634, "teacher_mix": 0.0, "mse": 4.9406713515054435e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 2.586664915084839, "reward": 207.49888610839844, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 635, "teacher_mix": 0.0, "mse": 5.350098217604682e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 1.5866658687591553, "reward": 203.49435424804688, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 636, "teacher_mix": 0.0, "mse": 6.198277696967125e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 1.7799988985061646, "reward": 214.12200927734375, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 637, "teacher_mix": 0.0, "mse": 5.773660814156756e-05, "seconds": 1.88, "success": 0.0, "best_hold_s": 2.589998245239258, "reward": 210.3244171142578, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 638, "teacher_mix": 0.0, "mse": 6.147362728370354e-05, "seconds": 1.89}
+{"iteration": 639, "teacher_mix": 0.0, "mse": 7.444800576195121e-05, "seconds": 1.81, "success": 0.0, "best_hold_s": 2.1299986839294434, "reward": 211.62234497070312, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 640, "teacher_mix": 0.0, "mse": 5.991537182126194e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 5.439995765686035, "reward": 227.13412475585938, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 641, "teacher_mix": 0.0, "mse": 6.30278664175421e-05, "seconds": 1.73}
+{"iteration": 642, "teacher_mix": 0.0, "mse": 8.945798617787659e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 6.479994773864746, "reward": 229.24072265625, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 643, "teacher_mix": 0.0, "mse": 6.927062349859625e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 3.2742834091186523, "reward": 215.17037963867188, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 644, "teacher_mix": 0.0, "mse": 8.033754420466721e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 4.111997127532959, "reward": 220.16307067871094, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 645, "teacher_mix": 0.0, "mse": 6.425785250030458e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 4.2285685539245605, "reward": 220.7999725341797, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 646, "teacher_mix": 0.0, "mse": 7.109723082976416e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 3.1599979400634766, "reward": 209.1632080078125, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 647, "teacher_mix": 0.0, "mse": 6.792524072807282e-05, "seconds": 1.73}
+{"iteration": 648, "teacher_mix": 0.0, "mse": 7.376869325526059e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 3.6066641807556152, "reward": 217.6566619873047, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 649, "teacher_mix": 0.0, "mse": 5.67523566132877e-05, "seconds": 1.86, "success": 0.0, "best_hold_s": 5.099996089935303, "reward": 226.1472625732422, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 650, "teacher_mix": 0.0, "mse": 6.044210749678314e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 2.536468982696533, "reward": 205.8836212158203, "completed_count": 17, "domain_level": 0.2}
+{"iteration": 651, "teacher_mix": 0.0, "mse": 6.461961311288178e-05, "seconds": 1.77}
+{"iteration": 652, "teacher_mix": 0.0, "mse": 5.921705087530427e-05, "seconds": 1.67, "success": 0.0, "best_hold_s": 3.5199973583221436, "reward": 210.9111785888672, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 653, "teacher_mix": 0.0, "mse": 6.171896529849619e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 3.055997848510742, "reward": 210.69302368164062, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 654, "teacher_mix": 0.0, "mse": 6.46735934424214e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 1.1499993801116943, "reward": 196.17613220214844, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 655, "teacher_mix": 0.0, "mse": 9.991014667320997e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 2.1749985218048096, "reward": 204.56509399414062, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 656, "teacher_mix": 0.0, "mse": 9.077937284018844e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 2.566664934158325, "reward": 205.7288055419922, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 657, "teacher_mix": 0.0, "mse": 6.942820618860424e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 2.1799986362457275, "reward": 204.3626708984375, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 658, "teacher_mix": 0.0, "mse": 9.328749001724645e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 1.3699991703033447, "reward": 198.3599853515625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 659, "teacher_mix": 0.0, "mse": 6.984271749388427e-05, "seconds": 1.64}
+{"iteration": 660, "teacher_mix": 0.0, "mse": 6.181005301186815e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 2.153331995010376, "reward": 209.46878051757812, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 661, "teacher_mix": 0.0, "mse": 5.7234312407672405e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 1.3999992609024048, "reward": 194.55186462402344, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 662, "teacher_mix": 0.0, "mse": 8.095001976471394e-05, "seconds": 1.66, "success": 0.0, "best_hold_s": 3.1499977111816406, "reward": 211.01620483398438, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 663, "teacher_mix": 0.0, "mse": 8.037961379159242e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 0.4200000464916229, "reward": 203.67489624023438, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 664, "teacher_mix": 0.0, "mse": 6.698255310766399e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 1.9149987697601318, "reward": 206.06600952148438, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 665, "teacher_mix": 0.0, "mse": 7.23678240319714e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 4.0099968910217285, "reward": 217.52386474609375, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 666, "teacher_mix": 0.0, "mse": 0.00010091321018990129, "seconds": 1.74, "success": 0.0, "best_hold_s": 4.087996959686279, "reward": 218.6460418701172, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 667, "teacher_mix": 0.0, "mse": 7.127728895284235e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 3.031108856201172, "reward": 210.37588500976562, "completed_count": 9, "domain_level": 0.2}
+{"iteration": 668, "teacher_mix": 0.0, "mse": 5.681752008968033e-05, "seconds": 1.88, "success": 0.0, "best_hold_s": 3.2414262294769287, "reward": 215.34999084472656, "completed_count": 14, "domain_level": 0.2}
+{"iteration": 669, "teacher_mix": 0.0, "mse": 5.4149841162143275e-05, "seconds": 1.82, "success": 0.0, "best_hold_s": 3.3924975395202637, "reward": 213.91732788085938, "completed_count": 8, "domain_level": 0.2}
+{"iteration": 670, "teacher_mix": 0.0, "mse": 5.527625762624666e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 2.8999979496002197, "reward": 209.68360900878906, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 671, "teacher_mix": 0.0, "mse": 6.430093344533816e-05, "seconds": 1.66, "success": 0.0, "best_hold_s": 2.939997911453247, "reward": 212.851318359375, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 672, "teacher_mix": 0.0, "mse": 6.679385114694014e-05, "seconds": 1.81}
+{"iteration": 673, "teacher_mix": 0.0, "mse": 5.912648339290172e-05, "seconds": 1.82}
+{"iteration": 674, "teacher_mix": 0.0, "mse": 6.869548815302551e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 3.0899977684020996, "reward": 212.20982360839844, "completed_count": 8, "domain_level": 0.2}
+{"iteration": 675, "teacher_mix": 0.0, "mse": 5.8054814871866256e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 1.8049988746643066, "reward": 205.34201049804688, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 676, "teacher_mix": 0.0, "mse": 5.083098221803084e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 1.1099995374679565, "reward": 199.3739776611328, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 677, "teacher_mix": 0.0, "mse": 5.8125930081587285e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 2.889997720718384, "reward": 208.51171875, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 678, "teacher_mix": 0.0, "mse": 6.0363927332218736e-05, "seconds": 1.74}
+{"iteration": 679, "teacher_mix": 0.0, "mse": 5.807921843370423e-05, "seconds": 1.86, "success": 0.0, "best_hold_s": 3.7199974060058594, "reward": 219.45947265625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 680, "teacher_mix": 0.0, "mse": 8.699318277649581e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 1.1899994611740112, "reward": 204.10626220703125, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 681, "teacher_mix": 0.0, "mse": 8.752203575568274e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 2.6049981117248535, "reward": 208.05775451660156, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 682, "teacher_mix": 0.0, "mse": 6.419217970687896e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 4.659996509552002, "reward": 220.16439819335938, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 683, "teacher_mix": 0.0, "mse": 7.1611168095842e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 2.626664876937866, "reward": 210.5101776123047, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 684, "teacher_mix": 0.0, "mse": 8.888576121535152e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 3.5959975719451904, "reward": 214.7325897216797, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 685, "teacher_mix": 0.0, "mse": 9.297708311351016e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 3.127997875213623, "reward": 212.7649383544922, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 686, "teacher_mix": 0.0, "mse": 8.038133819354698e-05, "seconds": 1.72, "success": 0.1666666716337204, "best_hold_s": 3.073331356048584, "reward": 216.0892791748047, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 687, "teacher_mix": 0.0, "mse": 7.924684905447066e-05, "seconds": 1.73, "success": 0.0357142873108387, "best_hold_s": 3.382855176925659, "reward": 216.05560302734375, "completed_count": 28, "domain_level": 0.2}
+{"iteration": 688, "teacher_mix": 0.0, "mse": 7.488933624699712e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 4.469996452331543, "reward": 223.06747436523438, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 689, "teacher_mix": 0.0, "mse": 5.816753764520399e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 2.9799976348876953, "reward": 214.79544067382812, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 690, "teacher_mix": 0.0, "mse": 5.8676137996371835e-05, "seconds": 1.81, "success": 0.0, "best_hold_s": 2.939997911453247, "reward": 211.4013214111328, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 691, "teacher_mix": 0.0, "mse": 4.938185520586558e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 3.49999737739563, "reward": 216.9312744140625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 692, "teacher_mix": 0.0, "mse": 6.715964991599321e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 0.8999996781349182, "reward": 201.57965087890625, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 693, "teacher_mix": 0.0, "mse": 7.586614810861647e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 3.976663589477539, "reward": 221.44613647460938, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 694, "teacher_mix": 0.0, "mse": 6.786452286178246e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 5.839995384216309, "reward": 233.0174102783203, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 695, "teacher_mix": 0.0, "mse": 5.135170795256272e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 3.373331069946289, "reward": 214.26962280273438, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 696, "teacher_mix": 0.0, "mse": 7.814444688847288e-05, "seconds": 1.72, "success": 0.0, "best_hold_s": 1.999998688697815, "reward": 205.60760498046875, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 697, "teacher_mix": 0.0, "mse": 8.01171554485336e-05, "seconds": 1.72, "success": 0.0, "best_hold_s": 2.5399982929229736, "reward": 213.06268310546875, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 698, "teacher_mix": 0.0, "mse": 6.89957378199324e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 1.779999017715454, "reward": 210.06101989746094, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 699, "teacher_mix": 0.0, "mse": 7.795357669238001e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 4.109996795654297, "reward": 219.8532257080078, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 700, "teacher_mix": 0.0, "mse": 8.185617480194196e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 3.8299975395202637, "reward": 217.26007080078125, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 701, "teacher_mix": 0.0, "mse": 8.444159175269306e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 2.7899980545043945, "reward": 211.45059204101562, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 702, "teacher_mix": 0.0, "mse": 8.286938827950507e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 5.779995441436768, "reward": 229.13575744628906, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 703, "teacher_mix": 0.0, "mse": 6.547140219481662e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 4.233330726623535, "reward": 218.0440673828125, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 704, "teacher_mix": 0.0, "mse": 5.728670657845214e-05, "seconds": 1.72, "success": 0.0, "best_hold_s": 3.8171401023864746, "reward": 220.12240600585938, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 705, "teacher_mix": 0.0, "mse": 5.9887133829761297e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 2.1099987030029297, "reward": 207.40699768066406, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 706, "teacher_mix": 0.0, "mse": 5.240710743237287e-05, "seconds": 1.82, "success": 0.0, "best_hold_s": 4.1399970054626465, "reward": 217.3741455078125, "completed_count": 13, "domain_level": 0.2}
+{"iteration": 707, "teacher_mix": 0.0, "mse": 4.7054105380084366e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 2.509998321533203, "reward": 212.81430053710938, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 708, "teacher_mix": 0.0, "mse": 4.9602691433392465e-05, "seconds": 1.7}
+{"iteration": 709, "teacher_mix": 0.0, "mse": 5.324737139744684e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 4.649996757507324, "reward": 223.07720947265625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 710, "teacher_mix": 0.0, "mse": 5.5252185120480135e-05, "seconds": 1.64, "success": 0.0, "best_hold_s": 3.679997205734253, "reward": 213.8257293701172, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 711, "teacher_mix": 0.0, "mse": 5.410330049926415e-05, "seconds": 1.66, "success": 0.0, "best_hold_s": 4.659996032714844, "reward": 225.61492919921875, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 712, "teacher_mix": 0.0, "mse": 5.8265919506084174e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 4.196663856506348, "reward": 220.47409057617188, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 713, "teacher_mix": 0.0, "mse": 5.601341763394885e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 2.1133320331573486, "reward": 207.2998046875, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 714, "teacher_mix": 0.0, "mse": 7.403515337500721e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 3.3399975299835205, "reward": 211.7421875, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 715, "teacher_mix": 0.0, "mse": 6.866345938760787e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 3.5999972820281982, "reward": 205.3626251220703, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 716, "teacher_mix": 0.0, "mse": 8.294518920592964e-05, "seconds": 1.64, "success": 0.0, "best_hold_s": 4.489996433258057, "reward": 225.73532104492188, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 717, "teacher_mix": 0.0, "mse": 5.4047581215854734e-05, "seconds": 1.72, "success": 0.0, "best_hold_s": 5.319995880126953, "reward": 229.33738708496094, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 718, "teacher_mix": 0.0, "mse": 6.018231579218991e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 3.809997081756592, "reward": 208.43136596679688, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 719, "teacher_mix": 0.0, "mse": 7.812902913428843e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 2.6099982261657715, "reward": 206.2927703857422, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 720, "teacher_mix": 0.0, "mse": 6.184944504639134e-05, "seconds": 1.72, "success": 0.0, "best_hold_s": 3.369997501373291, "reward": 210.26416015625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 721, "teacher_mix": 0.0, "mse": 5.680116737494245e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 2.2066650390625, "reward": 200.49981689453125, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 722, "teacher_mix": 0.0, "mse": 5.325638994690962e-05, "seconds": 1.72, "success": 0.0, "best_hold_s": 2.6649980545043945, "reward": 206.01705932617188, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 723, "teacher_mix": 0.0, "mse": 5.061850242782384e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 2.890907049179077, "reward": 209.87802124023438, "completed_count": 11, "domain_level": 0.2}
+{"iteration": 724, "teacher_mix": 0.0, "mse": 5.447509465739131e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 2.324998378753662, "reward": 205.85536193847656, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 725, "teacher_mix": 0.0, "mse": 6.145644147181883e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 2.7784595489501953, "reward": 211.31556701660156, "completed_count": 13, "domain_level": 0.2}
+{"iteration": 726, "teacher_mix": 0.0, "mse": 5.602309829555452e-05, "seconds": 1.72}
+{"iteration": 727, "teacher_mix": 0.0, "mse": 5.0752969400491565e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 2.079998731613159, "reward": 204.9564971923828, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 728, "teacher_mix": 0.0, "mse": 6.0995509556960315e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 0.9199996590614319, "reward": 203.21629333496094, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 729, "teacher_mix": 0.0, "mse": 7.620213727932423e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 5.0066633224487305, "reward": 223.07821655273438, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 730, "teacher_mix": 0.0, "mse": 9.208398114424199e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.195997476577759, "reward": 205.5423126220703, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 731, "teacher_mix": 0.0, "mse": 7.96950698713772e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 4.15999698638916, "reward": 221.25491333007812, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 732, "teacher_mix": 0.0, "mse": 8.307828102260828e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 4.779996395111084, "reward": 217.8930206298828, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 733, "teacher_mix": 0.0, "mse": 9.39336750889197e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 2.1299984455108643, "reward": 139.6490478515625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 734, "teacher_mix": 0.0, "mse": 0.00010131794260814786, "seconds": 1.72, "success": 0.0, "best_hold_s": 0.5400000214576721, "reward": 77.96931457519531, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 735, "teacher_mix": 0.0, "mse": 0.00010713740630308166, "seconds": 1.75, "success": 0.0, "best_hold_s": 2.999997854232788, "reward": 210.46206665039062, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 736, "teacher_mix": 0.0, "mse": 8.283618080895394e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 3.43499755859375, "reward": 213.4495849609375, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 737, "teacher_mix": 0.0, "mse": 0.00010216630471404642, "seconds": 1.78, "success": 0.0, "best_hold_s": 1.8599989414215088, "reward": 200.7154998779297, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 738, "teacher_mix": 0.0, "mse": 7.841569458832964e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 2.333331823348999, "reward": 205.23672485351562, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 739, "teacher_mix": 0.0, "mse": 6.791423220420256e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 2.6099982261657715, "reward": 200.05453491210938, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 740, "teacher_mix": 0.0, "mse": 5.724650691263378e-05, "seconds": 1.67, "success": 0.0, "best_hold_s": 4.909996032714844, "reward": 221.28530883789062, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 741, "teacher_mix": 0.0, "mse": 7.73005886003375e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 3.765711784362793, "reward": 211.2878875732422, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 742, "teacher_mix": 0.0, "mse": 7.751266821287572e-05, "seconds": 1.82, "success": 0.0, "best_hold_s": 2.5599982738494873, "reward": 202.19149780273438, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 743, "teacher_mix": 0.0, "mse": 7.561067468486726e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 2.8133316040039062, "reward": 203.9912109375, "completed_count": 15, "domain_level": 0.2}
+{"iteration": 744, "teacher_mix": 0.0, "mse": 6.387466419255361e-05, "seconds": 1.82, "success": 0.0, "best_hold_s": 1.5657135248184204, "reward": 199.91600036621094, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 745, "teacher_mix": 0.0, "mse": 6.763833516743034e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 1.8399988412857056, "reward": 209.83163452148438, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 746, "teacher_mix": 0.0, "mse": 5.592188972514123e-05, "seconds": 1.66}
+{"iteration": 747, "teacher_mix": 0.0, "mse": 5.7917066442314535e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.253330945968628, "reward": 212.1439208984375, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 748, "teacher_mix": 0.0, "mse": 5.205581692280248e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 2.6799981594085693, "reward": 215.31399536132812, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 749, "teacher_mix": 0.0, "mse": 6.085121276555583e-05, "seconds": 1.78, "success": 0.25, "best_hold_s": 2.559998035430908, "reward": 208.1388397216797, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 750, "teacher_mix": 0.0, "mse": 6.474048859672621e-05, "seconds": 1.72}
+{"iteration": 751, "teacher_mix": 0.0, "mse": 5.0265643949387595e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 2.639998197555542, "reward": 205.64892578125, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 752, "teacher_mix": 0.0, "mse": 6.224472599569708e-05, "seconds": 1.69, "success": 0.0, "best_hold_s": 2.1133322715759277, "reward": 197.16159057617188, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 753, "teacher_mix": 0.0, "mse": 4.910072311758995e-05, "seconds": 1.71}
+{"iteration": 754, "teacher_mix": 0.0, "mse": 4.7967238060664386e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 1.6999989748001099, "reward": 200.42262268066406, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 755, "teacher_mix": 0.0, "mse": 5.818705540150404e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 4.50999641418457, "reward": 215.04693603515625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 756, "teacher_mix": 0.0, "mse": 6.317126099020243e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 4.689996719360352, "reward": 225.01934814453125, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 757, "teacher_mix": 0.0, "mse": 5.271516056382097e-05, "seconds": 1.7}
+{"iteration": 758, "teacher_mix": 0.0, "mse": 6.368839967763051e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 3.849997043609619, "reward": 222.5108642578125, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 759, "teacher_mix": 0.0, "mse": 4.965902553522028e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 2.7899980545043945, "reward": 214.5616912841797, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 760, "teacher_mix": 0.0, "mse": 5.114234227221459e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 5.569995880126953, "reward": 229.7940673828125, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 761, "teacher_mix": 0.0, "mse": 4.909512063022703e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.1666646003723145, "reward": 217.36477661132812, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 762, "teacher_mix": 0.0, "mse": 4.421185440151021e-05, "seconds": 1.66, "success": 0.0, "best_hold_s": 4.809596061706543, "reward": 225.12667846679688, "completed_count": 25, "domain_level": 0.2}
+{"iteration": 763, "teacher_mix": 0.0, "mse": 4.419418837642297e-05, "seconds": 1.68}
+{"iteration": 764, "teacher_mix": 0.0, "mse": 5.863380283699371e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 3.5999975204467773, "reward": 218.332275390625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 765, "teacher_mix": 0.0, "mse": 5.198126382310875e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 4.202854156494141, "reward": 219.8120574951172, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 766, "teacher_mix": 0.0, "mse": 6.243165989872068e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 4.699996471405029, "reward": 222.60752868652344, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 767, "teacher_mix": 0.0, "mse": 5.179626896278933e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 4.219996929168701, "reward": 217.3523712158203, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 768, "teacher_mix": 0.0, "mse": 5.628694634651765e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 2.8454525470733643, "reward": 211.71287536621094, "completed_count": 11, "domain_level": 0.2}
+{"iteration": 769, "teacher_mix": 0.0, "mse": 5.576796684181318e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 2.2333319187164307, "reward": 207.58340454101562, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 770, "teacher_mix": 0.0, "mse": 4.918255945085548e-05, "seconds": 1.77}
+{"iteration": 771, "teacher_mix": 0.0, "mse": 5.101505666971207e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 3.2399978637695312, "reward": 215.4446258544922, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 772, "teacher_mix": 0.0, "mse": 0.00010276272951159626, "seconds": 1.68}
+{"iteration": 773, "teacher_mix": 0.0, "mse": 6.527220830321312e-05, "seconds": 1.68, "success": 0.0, "best_hold_s": 5.159996032714844, "reward": 225.96376037597656, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 774, "teacher_mix": 0.0, "mse": 0.00022274241200648248, "seconds": 1.71, "success": 0.0, "best_hold_s": 3.5399975776672363, "reward": 215.34912109375, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 775, "teacher_mix": 0.0, "mse": 9.144569048658013e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 2.953331470489502, "reward": 210.95248413085938, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 776, "teacher_mix": 0.0, "mse": 7.430500409100205e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 4.119997024536133, "reward": 218.7996826171875, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 777, "teacher_mix": 0.0, "mse": 0.00011647705105133355, "seconds": 1.82, "success": 0.0, "best_hold_s": 3.1499977111816406, "reward": 174.18394470214844, "completed_count": 10, "domain_level": 0.2}
+{"iteration": 778, "teacher_mix": 0.0, "mse": 8.688771049492061e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 4.119997024536133, "reward": 217.13528442382812, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 779, "teacher_mix": 0.0, "mse": 5.6221659178845584e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 2.1733319759368896, "reward": 209.30401611328125, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 780, "teacher_mix": 0.0, "mse": 6.510184903163463e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 2.949997901916504, "reward": 211.16085815429688, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 781, "teacher_mix": 0.0, "mse": 5.643183249048889e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.2409071922302246, "reward": 213.3580780029297, "completed_count": 22, "domain_level": 0.2}
+{"iteration": 782, "teacher_mix": 0.0, "mse": 5.3039468184579164e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 2.149998664855957, "reward": 211.2144012451172, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 783, "teacher_mix": 0.0, "mse": 5.35878716618754e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 0.19999997317790985, "reward": 164.19229125976562, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 784, "teacher_mix": 0.0, "mse": 5.585646067629568e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 3.2399978637695312, "reward": 212.57479858398438, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 785, "teacher_mix": 0.0, "mse": 4.6549968828912824e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 2.7799980640411377, "reward": 201.19078063964844, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 786, "teacher_mix": 0.0, "mse": 4.915671161143109e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 1.8299988508224487, "reward": 190.22726440429688, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 787, "teacher_mix": 0.0, "mse": 5.32596095581539e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 2.769998073577881, "reward": 209.21861267089844, "completed_count": 10, "domain_level": 0.2}
+{"iteration": 788, "teacher_mix": 0.0, "mse": 4.524210817180574e-05, "seconds": 1.77}
+{"iteration": 789, "teacher_mix": 0.0, "mse": 4.971132875652984e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 2.57999849319458, "reward": 207.9842987060547, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 790, "teacher_mix": 0.0, "mse": 6.201905489433557e-05, "seconds": 1.66, "success": 0.0, "best_hold_s": 1.4699989557266235, "reward": 183.69952392578125, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 791, "teacher_mix": 0.0, "mse": 9.451746882405132e-05, "seconds": 1.6, "success": 0.0, "best_hold_s": 2.5439984798431396, "reward": 206.7733917236328, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 792, "teacher_mix": 0.0, "mse": 7.606003055116162e-05, "seconds": 1.63, "success": 0.0, "best_hold_s": 1.5199991464614868, "reward": 194.797119140625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 793, "teacher_mix": 0.0, "mse": 6.019406646373682e-05, "seconds": 1.75}
+{"iteration": 794, "teacher_mix": 0.0, "mse": 8.288466051453725e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 2.209998607635498, "reward": 200.29104614257812, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 795, "teacher_mix": 0.0, "mse": 5.303382931742817e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 2.389998435974121, "reward": 205.48159790039062, "completed_count": 10, "domain_level": 0.2}
+{"iteration": 796, "teacher_mix": 0.0, "mse": 6.483400647994131e-05, "seconds": 1.82, "success": 0.0, "best_hold_s": 2.899998188018799, "reward": 212.2811279296875, "completed_count": 10, "domain_level": 0.2}
+{"iteration": 797, "teacher_mix": 0.0, "mse": 4.9215013859793544e-05, "seconds": 1.71}
+{"iteration": 798, "teacher_mix": 0.0, "mse": 5.287076055537909e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.426664352416992, "reward": 221.32418823242188, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 799, "teacher_mix": 0.0, "mse": 4.818650631932542e-05, "seconds": 1.84, "success": 0.0, "best_hold_s": 2.1333320140838623, "reward": 204.7559814453125, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 800, "teacher_mix": 0.0, "mse": 4.866581366513856e-05, "seconds": 1.83, "success": 0.0, "best_hold_s": 3.168569326400757, "reward": 219.28463745117188, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 801, "teacher_mix": 0.0, "mse": 4.3738804379245266e-05, "seconds": 1.72, "success": 0.0, "best_hold_s": 3.979996919631958, "reward": 217.6232147216797, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 802, "teacher_mix": 0.0, "mse": 4.097921191714704e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 3.419997453689575, "reward": 212.37208557128906, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 803, "teacher_mix": 0.0, "mse": 4.44713732576929e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 4.209996700286865, "reward": 222.08615112304688, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 804, "teacher_mix": 0.0, "mse": 5.2905896154697984e-05, "seconds": 1.69}
+{"iteration": 805, "teacher_mix": 0.0, "mse": 5.3549007134279236e-05, "seconds": 1.72, "success": 0.0, "best_hold_s": 2.7771410942077637, "reward": 213.3516082763672, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 806, "teacher_mix": 0.0, "mse": 5.6628414313308895e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 3.559997320175171, "reward": 213.48883056640625, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 807, "teacher_mix": 0.0, "mse": 6.69989240122959e-05, "seconds": 1.67, "success": 0.0, "best_hold_s": 4.279996871948242, "reward": 221.15081787109375, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 808, "teacher_mix": 0.0, "mse": 5.833548493683338e-05, "seconds": 1.65, "success": 0.0, "best_hold_s": 5.059996128082275, "reward": 223.14817810058594, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 809, "teacher_mix": 0.0, "mse": 5.6026743550319225e-05, "seconds": 1.59}
+{"iteration": 810, "teacher_mix": 0.0, "mse": 6.628794653806835e-05, "seconds": 1.64, "success": 0.0, "best_hold_s": 2.6066651344299316, "reward": 206.52151489257812, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 811, "teacher_mix": 0.0, "mse": 6.129994289949536e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 2.9666647911071777, "reward": 214.64474487304688, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 812, "teacher_mix": 0.0, "mse": 5.584245081990957e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 3.376664638519287, "reward": 218.45578002929688, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 813, "teacher_mix": 0.0, "mse": 5.94907978666015e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 3.243330955505371, "reward": 215.28720092773438, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 814, "teacher_mix": 0.0, "mse": 5.321280696080066e-05, "seconds": 1.66, "success": 0.0, "best_hold_s": 3.119997978210449, "reward": 219.08255004882812, "completed_count": 8, "domain_level": 0.2}
+{"iteration": 815, "teacher_mix": 0.0, "mse": 4.657777026295662e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.2399978637695312, "reward": 219.104736328125, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 816, "teacher_mix": 0.0, "mse": 4.370600072434172e-05, "seconds": 1.83, "success": 0.0, "best_hold_s": 3.747997283935547, "reward": 220.61924743652344, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 817, "teacher_mix": 0.0, "mse": 4.977655771654099e-05, "seconds": 1.82, "success": 0.0, "best_hold_s": 2.893331289291382, "reward": 214.06134033203125, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 818, "teacher_mix": 0.0, "mse": 5.5377087846864015e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 3.213843822479248, "reward": 216.08433532714844, "completed_count": 13, "domain_level": 0.2}
+{"iteration": 819, "teacher_mix": 0.0, "mse": 4.849907418247312e-05, "seconds": 1.83, "success": 0.0, "best_hold_s": 2.7866647243499756, "reward": 211.8045654296875, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 820, "teacher_mix": 0.0, "mse": 5.2198549383319914e-05, "seconds": 1.64}
+{"iteration": 821, "teacher_mix": 0.0, "mse": 5.072247950010933e-05, "seconds": 1.73, "success": 0.3333333432674408, "best_hold_s": 5.646662712097168, "reward": 231.47665405273438, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 822, "teacher_mix": 0.0, "mse": 5.4420448577729985e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 2.3599984645843506, "reward": 206.70408630371094, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 823, "teacher_mix": 0.0, "mse": 4.671304122894071e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 2.9199979305267334, "reward": 209.284423828125, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 824, "teacher_mix": 0.0, "mse": 5.434752529254183e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.1549978256225586, "reward": 211.48895263671875, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 825, "teacher_mix": 0.0, "mse": 5.459990643430501e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 4.0749969482421875, "reward": 221.23619079589844, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 826, "teacher_mix": 0.0, "mse": 6.415533425752074e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 3.059998035430908, "reward": 213.99351501464844, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 827, "teacher_mix": 0.0, "mse": 5.6457789469277486e-05, "seconds": 1.74}
+{"iteration": 828, "teacher_mix": 0.0, "mse": 7.550348527729511e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 3.6999971866607666, "reward": 219.919677734375, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 829, "teacher_mix": 0.0, "mse": 5.7892761105904356e-05, "seconds": 1.75}
+{"iteration": 830, "teacher_mix": 0.0, "mse": 5.129710916662589e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 1.9799987077713013, "reward": 202.16104125976562, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 831, "teacher_mix": 0.0, "mse": 5.164941103430465e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.6299972534179688, "reward": 217.73892211914062, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 832, "teacher_mix": 0.0, "mse": 6.167595711303875e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 2.839998245239258, "reward": 207.87974548339844, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 833, "teacher_mix": 0.0, "mse": 5.0663293222896755e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 3.474283456802368, "reward": 216.24830627441406, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 834, "teacher_mix": 0.0, "mse": 5.459121894091368e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 2.394284248352051, "reward": 202.32057189941406, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 835, "teacher_mix": 0.0, "mse": 5.7018758525373414e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 2.0599987506866455, "reward": 208.13392639160156, "completed_count": 8, "domain_level": 0.2}
+{"iteration": 836, "teacher_mix": 0.0, "mse": 5.129832061356865e-05, "seconds": 1.73}
+{"iteration": 837, "teacher_mix": 0.0, "mse": 4.864695074502379e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 1.6494108438491821, "reward": 206.55081176757812, "completed_count": 17, "domain_level": 0.2}
+{"iteration": 838, "teacher_mix": 0.0, "mse": 4.3872729293070734e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 1.5199991464614868, "reward": 200.3759307861328, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 839, "teacher_mix": 0.0, "mse": 4.611568874679506e-05, "seconds": 1.67, "success": 0.0, "best_hold_s": 2.759998083114624, "reward": 214.77963256835938, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 840, "teacher_mix": 0.0, "mse": 5.6132921599783e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 2.7299981117248535, "reward": 212.53924560546875, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 841, "teacher_mix": 0.0, "mse": 6.567760283360258e-05, "seconds": 1.67}
+{"iteration": 842, "teacher_mix": 0.0, "mse": 5.84152658120729e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 1.8599988222122192, "reward": 212.9330596923828, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 843, "teacher_mix": 0.0, "mse": 5.9218240494374186e-05, "seconds": 1.72, "success": 0.0, "best_hold_s": 2.9749979972839355, "reward": 216.70248413085938, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 844, "teacher_mix": 0.0, "mse": 5.3529169235844165e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 3.6999971866607666, "reward": 217.48989868164062, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 845, "teacher_mix": 0.0, "mse": 0.00010196027142228559, "seconds": 1.79, "success": 0.0, "best_hold_s": 3.8999972343444824, "reward": 222.32713317871094, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 846, "teacher_mix": 0.0, "mse": 6.59154902677983e-05, "seconds": 1.79}
+{"iteration": 847, "teacher_mix": 0.0, "mse": 6.0822872910648584e-05, "seconds": 1.66}
+{"iteration": 848, "teacher_mix": 0.0, "mse": 5.275164221529849e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.8799970149993896, "reward": 219.16912841796875, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 849, "teacher_mix": 0.0, "mse": 6.786487938370556e-05, "seconds": 1.72, "success": 0.0, "best_hold_s": 3.559997320175171, "reward": 214.2272491455078, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 850, "teacher_mix": 0.0, "mse": 5.5790245824027807e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 2.759998083114624, "reward": 214.83688354492188, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 851, "teacher_mix": 0.0, "mse": 5.614813562715426e-05, "seconds": 1.74, "success": 0.3333333432674408, "best_hold_s": 2.8533313274383545, "reward": 214.79434204101562, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 852, "teacher_mix": 0.0, "mse": 4.848783282795921e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 3.186664342880249, "reward": 218.2086639404297, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 853, "teacher_mix": 0.0, "mse": 4.209108737995848e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.006664752960205, "reward": 214.1990203857422, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 854, "teacher_mix": 0.0, "mse": 4.160350363235921e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 2.0514273643493652, "reward": 202.94261169433594, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 855, "teacher_mix": 0.0, "mse": 4.729659121949226e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 2.526664972305298, "reward": 209.4629364013672, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 856, "teacher_mix": 0.0, "mse": 4.020020060124807e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 4.0149970054626465, "reward": 222.18385314941406, "completed_count": 8, "domain_level": 0.2}
+{"iteration": 857, "teacher_mix": 0.0, "mse": 4.813609120901674e-05, "seconds": 1.67}
+{"iteration": 858, "teacher_mix": 0.0, "mse": 5.639427399728447e-05, "seconds": 1.65}
+{"iteration": 859, "teacher_mix": 0.0, "mse": 5.313519432093017e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 3.5999975204467773, "reward": 221.88604736328125, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 860, "teacher_mix": 0.0, "mse": 6.124572246335447e-05, "seconds": 1.63, "success": 0.0, "best_hold_s": 4.3299970626831055, "reward": 220.74172973632812, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 861, "teacher_mix": 0.0, "mse": 5.338249320629984e-05, "seconds": 1.69, "success": 0.0, "best_hold_s": 3.0233314037323, "reward": 215.3212127685547, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 862, "teacher_mix": 0.0, "mse": 6.0961196140851825e-05, "seconds": 1.83, "success": 0.0, "best_hold_s": 4.459996700286865, "reward": 224.153564453125, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 863, "teacher_mix": 0.0, "mse": 4.9222129746340215e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 1.1099995374679565, "reward": 201.33706665039062, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 864, "teacher_mix": 0.0, "mse": 6.71260931994766e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.239997625350952, "reward": 212.91212463378906, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 865, "teacher_mix": 0.0, "mse": 6.168628169689327e-05, "seconds": 1.69, "success": 0.0, "best_hold_s": 3.549997329711914, "reward": 214.17245483398438, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 866, "teacher_mix": 0.0, "mse": 5.68670075153932e-05, "seconds": 1.65, "success": 0.0, "best_hold_s": 3.0199978351593018, "reward": 211.39315795898438, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 867, "teacher_mix": 0.0, "mse": 7.985561387613416e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 3.359997510910034, "reward": 212.15196228027344, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 868, "teacher_mix": 0.0, "mse": 6.134222348919138e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 2.871426820755005, "reward": 216.36451721191406, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 869, "teacher_mix": 0.0, "mse": 6.842748553026468e-05, "seconds": 1.77}
+{"iteration": 870, "teacher_mix": 0.0, "mse": 5.2084891649428755e-05, "seconds": 1.73, "success": 0.10000000149011612, "best_hold_s": 4.433996677398682, "reward": 222.89866638183594, "completed_count": 10, "domain_level": 0.2}
+{"iteration": 871, "teacher_mix": 0.0, "mse": 6.054241384845227e-05, "seconds": 1.72, "success": 0.0, "best_hold_s": 2.668569803237915, "reward": 210.50457763671875, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 872, "teacher_mix": 0.0, "mse": 4.6585319068981335e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 3.439997434616089, "reward": 211.0352325439453, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 873, "teacher_mix": 0.0, "mse": 4.446891398401931e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 5.509995460510254, "reward": 223.98858642578125, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 874, "teacher_mix": 0.0, "mse": 4.357368015917018e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 3.3953824043273926, "reward": 213.38223266601562, "completed_count": 13, "domain_level": 0.2}
+{"iteration": 875, "teacher_mix": 0.0, "mse": 4.2135514377150685e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 4.034282684326172, "reward": 218.20596313476562, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 876, "teacher_mix": 0.0, "mse": 4.224472650093958e-05, "seconds": 1.66}
+{"iteration": 877, "teacher_mix": 0.0, "mse": 6.338127423077822e-05, "seconds": 1.68, "success": 0.0, "best_hold_s": 3.3999977111816406, "reward": 216.0299835205078, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 878, "teacher_mix": 0.0, "mse": 5.4604730394203216e-05, "seconds": 1.71}
+{"iteration": 879, "teacher_mix": 0.0, "mse": 5.8183297369396314e-05, "seconds": 1.72, "success": 0.0, "best_hold_s": 2.339998483657837, "reward": 198.84376525878906, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 880, "teacher_mix": 0.0, "mse": 5.114235682412982e-05, "seconds": 1.81, "success": 0.0, "best_hold_s": 2.459998369216919, "reward": 206.58497619628906, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 881, "teacher_mix": 0.0, "mse": 5.442546898848377e-05, "seconds": 1.78}
+{"iteration": 882, "teacher_mix": 0.0, "mse": 4.860250555793755e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.549997329711914, "reward": 213.02310180664062, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 883, "teacher_mix": 0.0, "mse": 6.741075776517391e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 3.194997787475586, "reward": 216.3555908203125, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 884, "teacher_mix": 0.0, "mse": 5.001411045668647e-05, "seconds": 1.68, "success": 0.0, "best_hold_s": 3.6399972438812256, "reward": 213.7723846435547, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 885, "teacher_mix": 0.0, "mse": 5.482201959239319e-05, "seconds": 1.72, "success": 0.0, "best_hold_s": 3.6999971866607666, "reward": 223.68736267089844, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 886, "teacher_mix": 0.0, "mse": 5.170005897525698e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 1.6999989748001099, "reward": 186.49366760253906, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 887, "teacher_mix": 0.0, "mse": 5.9967329434584826e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 2.9857125282287598, "reward": 212.5044403076172, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 888, "teacher_mix": 0.0, "mse": 5.376494664233178e-05, "seconds": 1.71, "success": 0.0, "best_hold_s": 2.695998191833496, "reward": 210.4189910888672, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 889, "teacher_mix": 0.0, "mse": 4.2406471038702875e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 2.9279980659484863, "reward": 217.9140625, "completed_count": 10, "domain_level": 0.2}
+{"iteration": 890, "teacher_mix": 0.0, "mse": 4.485280078370124e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 1.5999990701675415, "reward": 207.02633666992188, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 891, "teacher_mix": 0.0, "mse": 4.7210556658683345e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 2.4899985790252686, "reward": 210.9337615966797, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 892, "teacher_mix": 0.0, "mse": 6.433941598515958e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 5.699995517730713, "reward": 231.16241455078125, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 893, "teacher_mix": 0.0, "mse": 4.691772483056411e-05, "seconds": 1.73, "success": 0.043478261679410934, "best_hold_s": 2.859128475189209, "reward": 210.01416015625, "completed_count": 23, "domain_level": 0.2}
+{"iteration": 894, "teacher_mix": 0.0, "mse": 4.6452274546027184e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 0.5400000214576721, "reward": 190.3383026123047, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 895, "teacher_mix": 0.0, "mse": 4.2332929297117516e-05, "seconds": 1.64}
+{"iteration": 896, "teacher_mix": 0.0, "mse": 4.39866998931393e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 4.831996440887451, "reward": 222.6969451904297, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 897, "teacher_mix": 0.0, "mse": 4.3723506678361446e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 1.5799990892410278, "reward": 215.27609252929688, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 898, "teacher_mix": 0.0, "mse": 4.2260417103534564e-05, "seconds": 1.69, "success": 0.0, "best_hold_s": 3.746664047241211, "reward": 218.01104736328125, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 899, "teacher_mix": 0.0, "mse": 4.910063580609858e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 3.1371407508850098, "reward": 215.42283630371094, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 900, "teacher_mix": 0.0, "mse": 5.53405043319799e-05, "seconds": 1.73}
+{"iteration": 901, "teacher_mix": 0.0, "mse": 4.842228372581303e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 4.829996109008789, "reward": 218.97219848632812, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 902, "teacher_mix": 0.0, "mse": 4.066813926328905e-05, "seconds": 1.71, "success": 0.3333333432674408, "best_hold_s": 3.2266645431518555, "reward": 220.42356872558594, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 903, "teacher_mix": 0.0, "mse": 4.528841964202002e-05, "seconds": 1.73}
+{"iteration": 904, "teacher_mix": 0.0, "mse": 0.00010395577555755153, "seconds": 1.74, "success": 0.0, "best_hold_s": 2.3099985122680664, "reward": 210.99594116210938, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 905, "teacher_mix": 0.0, "mse": 6.259253132157028e-05, "seconds": 1.73}
+{"iteration": 906, "teacher_mix": 0.0, "mse": 0.00010123338870471343, "seconds": 1.8, "success": 0.0, "best_hold_s": 2.214998722076416, "reward": 175.1905059814453, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 907, "teacher_mix": 0.0, "mse": 0.00012431442155502737, "seconds": 1.72, "success": 0.0, "best_hold_s": 3.6399972438812256, "reward": 209.64334106445312, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 908, "teacher_mix": 0.0, "mse": 8.614888065494597e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 2.827997922897339, "reward": 206.72647094726562, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 909, "teacher_mix": 0.0, "mse": 5.556477844947949e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 3.5799975395202637, "reward": 204.75091552734375, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 910, "teacher_mix": 0.0, "mse": 4.831757541978732e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 3.139997720718384, "reward": 206.63018798828125, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 911, "teacher_mix": 0.0, "mse": 4.474243905860931e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 1.2499994039535522, "reward": 195.10903930664062, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 912, "teacher_mix": 0.0, "mse": 4.453271321835928e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 3.4739975929260254, "reward": 208.30479431152344, "completed_count": 10, "domain_level": 0.2}
+{"iteration": 913, "teacher_mix": 0.0, "mse": 4.5004919229540974e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 2.5999982357025146, "reward": 193.07127380371094, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 914, "teacher_mix": 0.0, "mse": 4.2240826587658376e-05, "seconds": 1.72}
+{"iteration": 915, "teacher_mix": 0.0, "mse": 4.3363834265619516e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 1.6199990510940552, "reward": 188.27890014648438, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 916, "teacher_mix": 0.0, "mse": 5.3233583457767963e-05, "seconds": 1.69, "success": 0.0, "best_hold_s": 0.9699996709823608, "reward": 187.34071350097656, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 917, "teacher_mix": 0.0, "mse": 4.7809764510020614e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 2.8499979972839355, "reward": 200.77305603027344, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 918, "teacher_mix": 0.0, "mse": 4.8745812819106504e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 2.219998598098755, "reward": 202.60809326171875, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 919, "teacher_mix": 0.0, "mse": 4.3772379285655916e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 1.8599989414215088, "reward": 193.768798828125, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 920, "teacher_mix": 0.0, "mse": 5.5304924899246544e-05, "seconds": 1.88, "success": 0.0, "best_hold_s": 2.019998788833618, "reward": 202.90943908691406, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 921, "teacher_mix": 0.0, "mse": 4.913726297672838e-05, "seconds": 1.94, "success": 0.0, "best_hold_s": 1.7599990367889404, "reward": 203.16265869140625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 922, "teacher_mix": 0.0, "mse": 4.808361700270325e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 1.7999988794326782, "reward": 197.5285186767578, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 923, "teacher_mix": 0.0, "mse": 4.3458428990561515e-05, "seconds": 1.86, "success": 0.0, "best_hold_s": 4.15999698638916, "reward": 220.34767150878906, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 924, "teacher_mix": 0.0, "mse": 4.834404535358772e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 3.809997081756592, "reward": 213.33502197265625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 925, "teacher_mix": 0.0, "mse": 4.355509372544475e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 3.1733310222625732, "reward": 217.57130432128906, "completed_count": 9, "domain_level": 0.2}
+{"iteration": 926, "teacher_mix": 0.0, "mse": 5.5553326092194766e-05, "seconds": 1.88, "success": 0.0, "best_hold_s": 4.039997100830078, "reward": 218.6355743408203, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 927, "teacher_mix": 0.0, "mse": 5.659153976012021e-05, "seconds": 1.88, "success": 0.0, "best_hold_s": 2.9199979305267334, "reward": 215.45013427734375, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 928, "teacher_mix": 0.0, "mse": 4.420998084242456e-05, "seconds": 1.81, "success": 0.0, "best_hold_s": 4.099997043609619, "reward": 222.98374938964844, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 929, "teacher_mix": 0.0, "mse": 4.5321368816075847e-05, "seconds": 1.81, "success": 0.0, "best_hold_s": 4.0199971199035645, "reward": 217.85092163085938, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 930, "teacher_mix": 0.0, "mse": 4.431361594470218e-05, "seconds": 2.04, "success": 0.0, "best_hold_s": 4.1299967765808105, "reward": 223.9749755859375, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 931, "teacher_mix": 0.0, "mse": 4.626977170119062e-05, "seconds": 2.57, "success": 0.125, "best_hold_s": 2.947497844696045, "reward": 214.82723999023438, "completed_count": 8, "domain_level": 0.2}
+{"iteration": 932, "teacher_mix": 0.0, "mse": 5.228600275586359e-05, "seconds": 2.48}
+{"iteration": 933, "teacher_mix": 0.0, "mse": 5.811404116684571e-05, "seconds": 2.5, "success": 0.0, "best_hold_s": 3.7249972820281982, "reward": 220.78048706054688, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 934, "teacher_mix": 0.0, "mse": 6.605002272408456e-05, "seconds": 2.59, "success": 0.0, "best_hold_s": 2.3599984645843506, "reward": 209.08078002929688, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 935, "teacher_mix": 0.0, "mse": 5.5891046940814704e-05, "seconds": 1.87}
+{"iteration": 936, "teacher_mix": 0.0, "mse": 6.455648690462112e-05, "seconds": 1.81, "success": 0.0, "best_hold_s": 3.1599977016448975, "reward": 220.68252563476562, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 937, "teacher_mix": 0.0, "mse": 6.31856091786176e-05, "seconds": 1.82, "success": 0.0, "best_hold_s": 3.62333083152771, "reward": 222.28561401367188, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 938, "teacher_mix": 0.0, "mse": 5.290628905640915e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 5.3079962730407715, "reward": 225.44595336914062, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 939, "teacher_mix": 0.0, "mse": 6.541100447066128e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 3.874997138977051, "reward": 220.93634033203125, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 940, "teacher_mix": 0.0, "mse": 6.325935100903735e-05, "seconds": 1.84, "success": 0.0, "best_hold_s": 4.349996566772461, "reward": 217.08761596679688, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 941, "teacher_mix": 0.0, "mse": 8.105033339234069e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 2.819998025894165, "reward": 222.33114624023438, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 942, "teacher_mix": 0.0, "mse": 5.4334785090759397e-05, "seconds": 1.81, "success": 0.0, "best_hold_s": 4.75999641418457, "reward": 226.5162353515625, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 943, "teacher_mix": 0.0, "mse": 6.394866795744747e-05, "seconds": 1.79, "success": 0.25, "best_hold_s": 4.429996490478516, "reward": 222.8578338623047, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 944, "teacher_mix": 0.0, "mse": 7.816532888682559e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 3.3839974403381348, "reward": 214.7760772705078, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 945, "teacher_mix": 0.0, "mse": 5.338923801900819e-05, "seconds": 1.83, "success": 0.0, "best_hold_s": 4.188568592071533, "reward": 221.70680236816406, "completed_count": 7, "domain_level": 0.2}
+{"iteration": 946, "teacher_mix": 0.0, "mse": 5.8068202633876354e-05, "seconds": 1.91, "success": 0.0, "best_hold_s": 4.173330307006836, "reward": 198.4583740234375, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 947, "teacher_mix": 0.0, "mse": 4.822396658710204e-05, "seconds": 2.44, "success": 0.0, "best_hold_s": 5.13999605178833, "reward": 224.90248107910156, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 948, "teacher_mix": 0.0, "mse": 4.4873137085232884e-05, "seconds": 2.52, "success": 0.0, "best_hold_s": 4.694996356964111, "reward": 217.97036743164062, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 949, "teacher_mix": 0.0, "mse": 4.160248499829322e-05, "seconds": 2.46, "success": 0.0, "best_hold_s": 3.718747138977051, "reward": 217.46336364746094, "completed_count": 16, "domain_level": 0.2}
+{"iteration": 950, "teacher_mix": 0.0, "mse": 3.995381121058017e-05, "seconds": 2.5, "success": 0.0, "best_hold_s": 6.9399943351745605, "reward": 233.2281951904297, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 951, "teacher_mix": 0.0, "mse": 4.1823514038696885e-05, "seconds": 2.38, "success": 0.0, "best_hold_s": 1.0999995470046997, "reward": 221.74244689941406, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 952, "teacher_mix": 0.0, "mse": 4.1995714127551764e-05, "seconds": 2.48, "success": 0.25, "best_hold_s": 4.089996814727783, "reward": 224.2708740234375, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 953, "teacher_mix": 0.0, "mse": 4.67702848254703e-05, "seconds": 2.46, "success": 0.0, "best_hold_s": 2.999997854232788, "reward": 222.031982421875, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 954, "teacher_mix": 0.0, "mse": 5.247597073321231e-05, "seconds": 2.4, "success": 0.5, "best_hold_s": 6.169995307922363, "reward": 227.0750732421875, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 955, "teacher_mix": 0.0, "mse": 5.876501018065028e-05, "seconds": 2.51, "success": 0.0, "best_hold_s": 2.3599984645843506, "reward": 213.00592041015625, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 956, "teacher_mix": 0.0, "mse": 4.535766856861301e-05, "seconds": 2.47, "success": 0.0, "best_hold_s": 4.279996871948242, "reward": 215.74917602539062, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 957, "teacher_mix": 0.0, "mse": 6.364722503349185e-05, "seconds": 2.41, "success": 0.0, "best_hold_s": 3.3299975395202637, "reward": 221.95230102539062, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 958, "teacher_mix": 0.0, "mse": 4.42138516518753e-05, "seconds": 2.53, "success": 0.0, "best_hold_s": 4.2599968910217285, "reward": 217.52395629882812, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 959, "teacher_mix": 0.0, "mse": 4.73703294119332e-05, "seconds": 2.4}
+{"iteration": 960, "teacher_mix": 0.0, "mse": 5.164193862583488e-05, "seconds": 2.47}
+{"iteration": 961, "teacher_mix": 0.0, "mse": 5.007638901588507e-05, "seconds": 2.54, "success": 0.0, "best_hold_s": 3.9666638374328613, "reward": 222.04173278808594, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 962, "teacher_mix": 0.0, "mse": 5.49665855942294e-05, "seconds": 2.57, "success": 0.0, "best_hold_s": 3.873330593109131, "reward": 217.41348266601562, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 963, "teacher_mix": 0.0, "mse": 4.240955240675248e-05, "seconds": 2.5, "success": 0.0, "best_hold_s": 4.306663513183594, "reward": 219.7564697265625, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 964, "teacher_mix": 0.0, "mse": 4.170466854702681e-05, "seconds": 2.55, "success": 0.0, "best_hold_s": 3.7133307456970215, "reward": 217.7496795654297, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 965, "teacher_mix": 0.0, "mse": 4.66696365037933e-05, "seconds": 2.52, "success": 0.0, "best_hold_s": 3.139997720718384, "reward": 209.15953063964844, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 966, "teacher_mix": 0.0, "mse": 3.677066706586629e-05, "seconds": 2.54, "success": 0.0, "best_hold_s": 2.6879982948303223, "reward": 206.1103973388672, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 967, "teacher_mix": 0.0, "mse": 4.628148235497065e-05, "seconds": 1.88, "success": 0.0, "best_hold_s": 3.633330821990967, "reward": 216.4524383544922, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 968, "teacher_mix": 0.0, "mse": 3.8751350075472146e-05, "seconds": 1.82, "success": 0.0, "best_hold_s": 4.283633232116699, "reward": 221.6170196533203, "completed_count": 11, "domain_level": 0.2}
+{"iteration": 969, "teacher_mix": 0.0, "mse": 3.82251528208144e-05, "seconds": 1.78}
+{"iteration": 970, "teacher_mix": 0.0, "mse": 4.027627073810436e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 5.819995403289795, "reward": 231.9690704345703, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 971, "teacher_mix": 0.0, "mse": 4.809235178981908e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 2.7299981117248535, "reward": 207.866455078125, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 972, "teacher_mix": 0.0, "mse": 4.005733717349358e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 3.55999755859375, "reward": 218.00546264648438, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 973, "teacher_mix": 0.0, "mse": 8.071697084233165e-05, "seconds": 1.72, "success": 0.0, "best_hold_s": 1.8999987840652466, "reward": 205.4327392578125, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 974, "teacher_mix": 0.0, "mse": 5.9805352066177875e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 3.6044421195983887, "reward": 216.21620178222656, "completed_count": 9, "domain_level": 0.2}
+{"iteration": 975, "teacher_mix": 0.0, "mse": 9.254504402633756e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 2.6099979877471924, "reward": 176.85293579101562, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 976, "teacher_mix": 0.0, "mse": 5.9737176343332976e-05, "seconds": 1.77, "success": 0.0, "best_hold_s": 4.179997444152832, "reward": 218.92941284179688, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 977, "teacher_mix": 0.0, "mse": 4.8845860874280334e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 1.9199988842010498, "reward": 204.98580932617188, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 978, "teacher_mix": 0.0, "mse": 4.5946995669510216e-05, "seconds": 1.7, "success": 0.0, "best_hold_s": 1.6399987936019897, "reward": 193.9337158203125, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 979, "teacher_mix": 0.0, "mse": 4.8134847020264715e-05, "seconds": 1.84, "success": 0.0, "best_hold_s": 3.0199978351593018, "reward": 208.6677703857422, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 980, "teacher_mix": 0.0, "mse": 5.1523686124710366e-05, "seconds": 1.79, "success": 0.0, "best_hold_s": 3.674997329711914, "reward": 220.39825439453125, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 981, "teacher_mix": 0.0, "mse": 4.9069232773035765e-05, "seconds": 1.69, "success": 0.0, "best_hold_s": 4.124997138977051, "reward": 220.75015258789062, "completed_count": 4, "domain_level": 0.2}
+{"iteration": 982, "teacher_mix": 0.0, "mse": 5.139492714079097e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 2.026665449142456, "reward": 208.99459838867188, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 983, "teacher_mix": 0.0, "mse": 4.264258677721955e-05, "seconds": 1.8, "success": 0.0, "best_hold_s": 3.3999974727630615, "reward": 211.1111297607422, "completed_count": 6, "domain_level": 0.2}
+{"iteration": 984, "teacher_mix": 0.0, "mse": 3.759360333788209e-05, "seconds": 1.87, "success": 0.0, "best_hold_s": 2.6699981689453125, "reward": 212.44088745117188, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 985, "teacher_mix": 0.0, "mse": 3.353121428517625e-05, "seconds": 1.76, "success": 0.0, "best_hold_s": 3.379997730255127, "reward": 217.1192169189453, "completed_count": 5, "domain_level": 0.2}
+{"iteration": 986, "teacher_mix": 0.0, "mse": 3.5770979593507946e-05, "seconds": 1.75, "success": 0.0, "best_hold_s": 3.2933309078216553, "reward": 218.1455078125, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 987, "teacher_mix": 0.0, "mse": 4.305316906538792e-05, "seconds": 1.78, "success": 0.0, "best_hold_s": 3.0644421577453613, "reward": 213.91256713867188, "completed_count": 9, "domain_level": 0.2}
+{"iteration": 988, "teacher_mix": 0.0, "mse": 3.8205020246095955e-05, "seconds": 1.74, "success": 0.0, "best_hold_s": 4.579996585845947, "reward": 225.09657287597656, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 989, "teacher_mix": 0.0, "mse": 4.363664993434213e-05, "seconds": 1.79}
+{"iteration": 990, "teacher_mix": 0.0, "mse": 4.454583176993765e-05, "seconds": 1.78}
+{"iteration": 991, "teacher_mix": 0.0, "mse": 4.882199573330581e-05, "seconds": 1.7}
+{"iteration": 992, "teacher_mix": 0.0, "mse": 6.618443876504898e-05, "seconds": 1.73, "success": 0.0, "best_hold_s": 3.799997091293335, "reward": 215.48541259765625, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 993, "teacher_mix": 0.0, "mse": 5.573151429416612e-05, "seconds": 1.85, "success": 0.0, "best_hold_s": 4.059997081756592, "reward": 220.50950622558594, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 994, "teacher_mix": 0.0, "mse": 5.9186742873862386e-05, "seconds": 2.43, "success": 0.0, "best_hold_s": 3.5199973583221436, "reward": 215.27928161621094, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 995, "teacher_mix": 0.0, "mse": 5.655541463056579e-05, "seconds": 2.49, "success": 0.0, "best_hold_s": 2.946664571762085, "reward": 212.57717895507812, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 996, "teacher_mix": 0.0, "mse": 0.00010653212666511536, "seconds": 2.24, "success": 0.0, "best_hold_s": 3.9399971961975098, "reward": 222.2529754638672, "completed_count": 2, "domain_level": 0.2}
+{"iteration": 997, "teacher_mix": 0.0, "mse": 6.227029371075332e-05, "seconds": 2.37, "success": 0.0, "best_hold_s": 4.753329753875732, "reward": 224.62901306152344, "completed_count": 3, "domain_level": 0.2}
+{"iteration": 998, "teacher_mix": 0.0, "mse": 6.713376933475956e-05, "seconds": 2.51, "success": 0.0, "best_hold_s": 0.7399998307228088, "reward": 198.80003356933594, "completed_count": 1, "domain_level": 0.2}
+{"iteration": 999, "teacher_mix": 0.0, "mse": 5.203156979405321e-05, "seconds": 2.33, "success": 0.0, "best_hold_s": 3.3999974727630615, "reward": 216.6920166015625, "completed_count": 4, "domain_level": 0.2}

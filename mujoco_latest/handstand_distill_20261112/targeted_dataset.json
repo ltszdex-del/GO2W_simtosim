@@ -1,0 +1,103 @@
+{
+  "samples": 5552,
+  "episodes": [
+    {
+      "case": "idle",
+      "student_fraction": 0.0,
+      "end_mode": "handstand",
+      "h_age": 12.0,
+      "total_samples": 600
+    },
+    {
+      "case": "idle",
+      "student_fraction": 0.5,
+      "end_mode": "handstand",
+      "h_age": 12.0,
+      "total_samples": 1200
+    },
+    {
+      "case": "idle",
+      "student_fraction": 1.0,
+      "end_mode": "error",
+      "h_age": 4.88,
+      "total_samples": 1444
+    },
+    {
+      "case": "W",
+      "student_fraction": 0.0,
+      "end_mode": "handstand",
+      "h_age": 12.0,
+      "total_samples": 2044
+    },
+    {
+      "case": "W",
+      "student_fraction": 0.5,
+      "end_mode": "handstand",
+      "h_age": 12.0,
+      "total_samples": 2644
+    },
+    {
+      "case": "W",
+      "student_fraction": 1.0,
+      "end_mode": "error",
+      "h_age": 3.2800000000000002,
+      "total_samples": 2808
+    },
+    {
+      "case": "E",
+      "student_fraction": 0.0,
+      "end_mode": "handstand",
+      "h_age": 12.0,
+      "total_samples": 3408
+    },
+    {
+      "case": "E",
+      "student_fraction": 0.5,
+      "end_mode": "handstand",
+      "h_age": 12.0,
+      "total_samples": 4008
+    },
+    {
+      "case": "E",
+      "student_fraction": 1.0,
+      "end_mode": "error",
+      "h_age": 3.36,
+      "total_samples": 4176
+    },
+    {
+      "case": "wheel",
+      "student_fraction": 0.0,
+      "end_mode": "handstand",
+      "h_age": 12.0,
+      "total_samples": 4776
+    },
+    {
+      "case": "wheel",
+      "student_fraction": 0.5,
+      "end_mode": "handstand",
+      "h_age": 12.0,
+      "total_samples": 5376
+    },
+    {
+      "case": "wheel",
+      "student_fraction": 1.0,
+      "end_mode": "error",
+      "h_age": 3.52,
+      "total_samples": 5552
+    }
+  ],
+  "bucket_counts": [
+    900,
+    760,
+    1880,
+    2012
+  ],
+  "sha256": "a56691bc6617b366180eea568ed01290208e0ae95cde8671afa4c0e803737d5f",
+  "teacher_sha256": "6a8978ed66ebd850072a689d6f57694946e818fd812fb835c8a478be30d65eaa",
+  "observation_dim": 2657,
+  "label_dim": 16,
+  "physics_motor_dt": 0.001,
+  "control_dt": 0.02,
+  "note": "Labels are always teacher4179 on the actual visited state; no state edits or external forces; production config unchanged",
+  "hard_partition": "half hard samples kept in phase; half reserved hard replay"
+}

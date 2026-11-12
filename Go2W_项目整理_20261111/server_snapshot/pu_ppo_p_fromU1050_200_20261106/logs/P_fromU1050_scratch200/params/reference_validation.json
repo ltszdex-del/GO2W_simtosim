@@ -1,0 +1,123 @@
+{
+  "0": {
+    "step": 0,
+    "height": 0.10167518258094788,
+    "body_angle_max_deg": 0.016490519046783447,
+    "qe": 0.5407263040542603,
+    "belly_gap": 0.00554659403860569,
+    "camber_max_deg": 28.894254684448242,
+    "failures": {
+      "body_tilt": 0.0,
+      "head": 0.0,
+      "wheel": 0.0,
+      "limits": 0.0,
+      "impact": 0.0,
+      "drift": 0.0
+    }
+  },
+  "4": {
+    "step": 4,
+    "height": 0.10452157258987427,
+    "body_angle_max_deg": 1.4191429615020752,
+    "qe": 0.5280500054359436,
+    "belly_gap": 0.01134894322603941,
+    "camber_max_deg": 29.113651275634766,
+    "failures": {
+      "body_tilt": 0.0,
+      "head": 0.0,
+      "wheel": 0.0,
+      "limits": 0.0,
+      "impact": 0.0,
+      "drift": 0.0
+    }
+  },
+  "9": {
+    "step": 9,
+    "height": 0.11086077988147736,
+    "body_angle_max_deg": 1.6778998374938965,
+    "qe": 0.5124577283859253,
+    "belly_gap": 0.01642683893442154,
+    "camber_max_deg": 27.976877212524414,
+    "failures": {
+      "body_tilt": 0.0,
+      "head": 0.0,
+      "wheel": 0.0,
+      "limits": 0.0,
+      "impact": 0.0,
+      "drift": 0.0
+    }
+  },
+  "19": {
+    "step": 19,
+    "height": 0.10812946408987045,
+    "body_angle_max_deg": 1.6778998374938965,
+    "qe": 0.5197750926017761,
+    "belly_gap": 0.014083344489336014,
+    "camber_max_deg": 28.494482040405273,
+    "failures": {
+      "body_tilt": 0.0,
+      "head": 0.0,
+      "wheel": 0.0,
+      "limits": 0.0,
+      "impact": 0.0,
+      "drift": 0.0
+    }
+  },
+  "49": {
+    "step": 49,
+    "height": 0.10893663018941879,
+    "body_angle_max_deg": 1.6778998374938965,
+    "qe": 0.5178031921386719,
+    "belly_gap": 0.014865769073367119,
+    "camber_max_deg": 28.343124389648438,
+    "failures": {
+      "body_tilt": 0.0,
+      "head": 0.0,
+      "wheel": 0.0,
+      "limits": 0.0,
+      "impact": 0.0,
+      "drift": 0.0
+    }
+  },
+  "99": {
+    "step": 99,
+    "height": 0.10894028842449188,
+    "body_angle_max_deg": 1.6778998374938965,
+    "qe": 0.5177856683731079,
+    "belly_gap": 0.014870130456984043,
+    "camber_max_deg": 28.352275848388672,
+    "failures": {
+      "body_tilt": 0.0,
+      "head": 0.0,
+      "wheel": 0.0,
+      "limits": 0.0,
+      "impact": 0.0,
+      "drift": 0.0
+    }
+  },
+  "199": {
+    "step": 199,
+    "height": 0.10893869400024414,
+    "body_angle_max_deg": 1.6778998374938965,
+    "qe": 0.5177541971206665,
+    "belly_gap": 0.014868355356156826,
+    "camber_max_deg": 28.36697769165039,
+    "failures": {
+      "body_tilt": 0.0,
+      "head": 0.0,
+      "wheel": 0.0,
+      "limits": 0.0,
+      "impact": 0.0,
+      "drift": 0.0
+    }
+  },
+  "adjusted_reference_joints": true,
+  "reference_wheel_angles_preserved": true,
+  "initial_torque_zero": true,
+  "pd_substeps": 4,
+  "finite": true,
+  "self_collision": true,
+  "pose_hold_only": true,
+  "policy_performance_passed": false,
+  "maximum_pose_hold_angle_deg": 1.6778998374938965
+}

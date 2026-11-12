@@ -1,0 +1,93 @@
+{
+  "quaternion_convention": "xyzw",
+  "joint_order": [
+    "FR_hip_joint",
+    "FR_thigh_joint",
+    "FR_calf_joint",
+    "FL_hip_joint",
+    "FL_thigh_joint",
+    "FL_calf_joint",
+    "RR_hip_joint",
+    "RR_thigh_joint",
+    "RR_calf_joint",
+    "RL_hip_joint",
+    "RL_thigh_joint",
+    "RL_calf_joint"
+  ],
+  "stand": {
+    "q": [
+      -0.04446496296674013,
+      1.0443831551074982,
+      -1.4801510202884673,
+      0.0425675343722105,
+      1.0441973686218262,
+      -1.4795274364948272,
+      -0.0045409135217778385,
+      1.0589676880836487,
+      -1.5740259850025178,
+      0.0019824427168350666,
+      1.058742127418518,
+      -1.5741818499565126
+    ],
+    "height": 0.391015527844429,
+    "pitch": -0.01533540615811944,
+    "roll": 0.0009186503716045991,
+    "wheel_q": [
+      0.38201396226882933,
+      0.11230428609327646,
+      2.5255113077163696,
+      2.3288837099075317
+    ],
+    "definition": "Accepted U1050 measured settled standing pose"
+  },
+  "prone": {
+    "q": [
+      -0.5,
+      0.9853399090831637,
+      -2.65,
+      0.5,
+      0.9968946992627451,
+      -2.65,
+      -0.5,
+      1.0132565617889466,
+      -2.65,
+      0.5,
+      1.0116265074647364,
+      -2.65
+    ],
+    "height": 0.10376055407878562,
+    "pitch": 0.0,
+    "definition": "User reference posture with small documented calf adjustments; self collision enabled"
+  },
+  "allowed_contact_bodies": [
+    "base",
+    "FR_foot",
+    "FL_foot",
+    "RR_foot",
+    "RL_foot",
+    "FR_calf",
+    "FL_calf",
+    "RR_calf",
+    "RL_calf"
+  ],
+  "tolerances": {
+    "joint_rms_rad": 0.18,
+    "height_m": 0.035,
+    "gravity_error": 0.16,
+    "linear_speed_m_s": 0.08,
+    "angular_speed_rad_s": 0.18,
+    "hold_s": 1.0,
+    "head_clearance_m": 0.01
+  },
+  "note": "User reference joints replace all inferred passive poses. Exact joint degrees extracted from USD physics state.",
+  "completion": {
+    "belly_clearance_m": 0.004,
+    "min_belly_weight_fraction": 0.25,
+    "min_head_clearance_m": 0.015,
+    "max_linear_speed": 0.035,
+    "max_angular_speed": 0.1,
+    "max_leg_speed_rms": 0.12,
+    "max_torque_rms": 3.5,
+    "hold_s": 1.5
+  }
+}

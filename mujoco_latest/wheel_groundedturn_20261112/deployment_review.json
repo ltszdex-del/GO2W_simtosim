@@ -1,0 +1,19 @@
+{
+  "state": "final_policy_rejected_by_mujoco_validation",
+  "updated_at": "2026-11-11T18:24:15.486548+00:00",
+  "training_updates": 200,
+  "target": 200,
+  "final_iteration": 4224,
+  "downloaded": true,
+  "active_iteration": 4149,
+  "active_checkpoint": "E:\\CODEX PROJ\\IS\\mujoco_latest\\policies\\wheel_groundedturn_20261112\\checkpoint_4149\\logs\\train\\policy_4149.pt",
+  "rejected_iterations": [
+    4224,
+    4199,
+    4174
+  ],
+  "reason": "W+Q triggered existing MuJoCo fall protection",
+  "configuration_changed": false,
+  "source_and_weight_hashes_checked": true,
+  "automatic_import_worker_finished": true
+}

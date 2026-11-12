@@ -1,0 +1,79 @@
+{
+  "policies": {
+    "locomotion": {
+      "factory": "wasd_adapter:create",
+      "checkpoint": "/home/ubuntu/Go2W/go2w_wasd_directional_resume300_20261106/logs/continue300/policy_3399.pt",
+      "training_root": "/home/ubuntu/Go2W/go2w_wasd_directional_resume300_20261106",
+      "asset_root": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/assets/go2w_description",
+      "collision_geometry_override": true
+    },
+    "handstand": {
+      "factory": "handstand_adapter:create",
+      "checkpoint": "/home/ubuntu/Go2W/go2w_handstand_fromU300_20261106/logs/train300/teacher_4099.pt",
+      "code_root": "/home/ubuntu/Go2W/go2w_handstand_fromU300_20261106",
+      "motion": "/home/ubuntu/Go2W/go2w_handstand_fromU300_20261106/motions/stand_to_handstand.npz",
+      "asset_root": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/assets/go2w_description"
+    },
+    "lying_down": {
+      "factory": "pu_adapter:create",
+      "mode": "lying_down",
+      "checkpoint": "/home/ubuntu/Go2W/pu_ppo_p_fromU1050_200_20261106/logs/P_fromU1050_scratch200/final.pt",
+      "source_root": "/home/ubuntu/Go2W/pu_ppo_p_fromU1050_200_20261106",
+      "runtime_package": "pu_p_runtime",
+      "asset_root": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/assets/go2w_description"
+    },
+    "getting_up": {
+      "factory": "pu_adapter:create",
+      "mode": "getting_up",
+      "checkpoint": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/logs/U_vertical_resume100/final.pt",
+      "source_root": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106",
+      "runtime_package": "pu_u_runtime",
+      "asset_root": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/assets/go2w_description"
+    },
+    "standing_hold": {
+      "factory": "pu_adapter:create",
+      "mode": "standing_hold",
+      "checkpoint": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/logs/U_vertical_resume100/final.pt",
+      "source_root": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106",
+      "runtime_package": "pu_u_runtime",
+      "asset_root": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/assets/go2w_description"
+    }
+  },
+  "integration_test": [
+    {
+      "step": 550,
+      "phase": "brake",
+      "mode": "standing_hold"
+    },
+    {
+      "step": 950,
+      "phase": "P_pose_ready_without_training_success",
+      "mode": "lying_down"
+    },
+    {
+      "step": 1044,
+      "phase": "U_complete",
+      "mode": "standing_hold"
+    }
+  ],
+  "getup_test": "passed",
+  "handstand_short_test": {
+    "handstand_seconds": 13.22,
+    "handstand_peak_pitch": 1.619651436805725,
+    "handstand_upright_seconds": 10.32
+  },
+  "training": "3799 -> 4099, 300 iterations, 1024 environments, U1099 captured standing pose",
+  "training_statistics": {
+    "iterations": 300,
+    "console_last_iteration": 4099,
+    "checkpoint_iteration": 4099,
+    "last_success": 0.0,
+    "last100_episode_weighted_success": 0.0004206730796655533,
+    "last_hold_s": 0.7416420598183909
+  },
+  "limitations": [
+    "P original strict training success 0%; belly pose reached but unload/poweroff incomplete",
+    "U standing runtime handoff differs from original strict training success; high-frequency velocities remain",
+    "H short replay passed; strict training success remains low and jitter/drift remain"
+  ]
+}

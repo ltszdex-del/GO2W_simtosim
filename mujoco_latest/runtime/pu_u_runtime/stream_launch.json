@@ -1,0 +1,19 @@
+{
+  "pid": 36316,
+  "checkpoint": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/logs/U_vertical_resume100/policy_1049.pt",
+  "output": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/logs/stream_U_policy_1049_123736",
+  "command": [
+    "/home/ubuntu/envs/isaac62/bin/python",
+    "-u",
+    "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/replay.py",
+    "--checkpoint",
+    "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/logs/U_vertical_resume100/policy_1049.pt",
+    "--output",
+    "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/logs/stream_U_policy_1049_123736",
+    "--livestream",
+    "1",
+    "--device",
+    "cuda:0",
+    "--kit_args=--/ngx/enabled=true --/exts/omni.kit.livestream.app/primaryStream/publicIp=106.75.23.13 --/exts/omni.kit.livestream.app/primaryStream/signalPort=49100 --/exts/omni.kit.livestream.app/primaryStream/streamPort=47998"
+  ]
+}

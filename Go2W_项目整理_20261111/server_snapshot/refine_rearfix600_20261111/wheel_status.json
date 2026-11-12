@@ -1,0 +1,10 @@
+{
+  "state": "running",
+  "phase": "train",
+  "pid": 13279,
+  "log": "/home/ubuntu/Go2W/go2w_wheel_rearfix600_20261111/logs/train",
+  "num_envs": 2048,
+  "goal_iteration": 3324,
+  "remaining_updates": 600,
+  "time_utc": "2026-11-10T17:45:56.794421+00:00"
+}

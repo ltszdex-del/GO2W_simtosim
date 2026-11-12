@@ -1,0 +1,5 @@
+# Tested inference environment: CPython 3.9, CPU PyTorch; GPU is optional.
+mujoco==3.3.2
+numpy==2.0.2
+torch==2.8.0
+glfw==2.9.0

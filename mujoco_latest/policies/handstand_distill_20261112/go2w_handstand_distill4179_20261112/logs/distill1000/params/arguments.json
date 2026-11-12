@@ -1,0 +1,19 @@
+{
+  "num_envs": 2048,
+  "iterations": 1000,
+  "checkpoint": "/home/ubuntu/Go2W/go2w_handstand_currentU80_20261108/logs/train80/teacher_4179.pt",
+  "log_dir": "/home/ubuntu/Go2W/go2w_handstand_distill4179_20261112/logs/distill1000",
+  "livestream": 0,
+  "xr": false,
+  "device": "cuda:0",
+  "visualizer": null,
+  "verbose": false,
+  "info": false,
+  "experience": "",
+  "deterministic": false,
+  "kit_args": "",
+  "anim_recording_enabled": false,
+  "anim_recording_start_time": 0,
+  "anim_recording_stop_time": 10,
+  "device_explicit": true
+}

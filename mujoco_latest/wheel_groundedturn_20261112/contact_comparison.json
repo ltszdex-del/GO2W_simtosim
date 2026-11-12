@@ -1,0 +1,462 @@
+{
+  "parent_iteration": 4024,
+  "final_iteration": 4224,
+  "seed": 934024,
+  "num_envs": 1024,
+  "forward_turns": {
+    "forward_Q": {
+      "inner_rear_airborne_fraction": {
+        "before": 0.001976397354155779,
+        "after": 0.00041973672341555357
+      },
+      "inner_rear_vertical_rms_m_s": {
+        "before": 0.004694010173756377,
+        "after": 0.005523961215557628
+      },
+      "inner_rear_contact_switch_rate_hz": {
+        "before": 0.21538488566875458,
+        "after": 0.16789469122886658
+      },
+      "inner_rear_support_force_n": {
+        "before": 23.66706085205078,
+        "after": 24.224254608154297
+      },
+      "rmse_xy": {
+        "before": 0.18455097079277039,
+        "after": 0.16354092955589294
+      },
+      "rmse_yaw": {
+        "before": 0.2438962757587433,
+        "after": 0.5703446269035339
+      },
+      "roll_peak_deg": {
+        "before": 14.311245849056235,
+        "after": 14.737506002325683
+      },
+      "stop_speed": {
+        "before": 0.036996789276599884,
+        "after": 0.03059842251241207
+      },
+      "stop_yaw": {
+        "before": 0.03217963129281998,
+        "after": 0.03888547047972679
+      },
+      "survived": {
+        "before": 128,
+        "after": 128
+      },
+      "trials": {
+        "before": 128,
+        "after": 128
+      }
+    },
+    "forward_E": {
+      "inner_rear_airborne_fraction": {
+        "before": 0.0022338982671499252,
+        "after": 0.00040006154449656606
+      },
+      "inner_rear_vertical_rms_m_s": {
+        "before": 0.00478643334477611,
+        "after": 0.005605351715473586
+      },
+      "inner_rear_contact_switch_rate_hz": {
+        "before": 0.21538488566875458,
+        "after": 0.16002461314201355
+      },
+      "inner_rear_support_force_n": {
+        "before": 23.452327728271484,
+        "after": 24.207923889160156
+      },
+      "rmse_xy": {
+        "before": 0.1829460710287094,
+        "after": 0.1560523360967636
+      },
+      "rmse_yaw": {
+        "before": 0.23838651180267334,
+        "after": 0.5787861347198486
+      },
+      "roll_peak_deg": {
+        "before": 14.306818178926774,
+        "after": 14.896782598675795
+      },
+      "stop_speed": {
+        "before": 0.03742927312850952,
+        "after": 0.03212576359510422
+      },
+      "stop_yaw": {
+        "before": 0.0338902622461319,
+        "after": 0.039436329156160355
+      },
+      "survived": {
+        "before": 128,
+        "after": 128
+      },
+      "trials": {
+        "before": 128,
+        "after": 128
+      }
+    }
+  },
+  "baseline": {
+    "checkpoint": "/home/ubuntu/Go2W/go2w_wheel_groundedturn200_20261112/resume/parent.pt",
+    "iteration": 4024,
+    "seed": 934024,
+    "num_envs": 1024,
+    "result": {
+      "iteration": 4024,
+      "rate": 0.4609375,
+      "groups": [
+        {
+          "task": "forward_brake",
+          "rate": 1.0,
+          "survived": 128,
+          "trials": 128,
+          "rmse_xy": 0.07177320122718811,
+          "rmse_yaw": 0.0032777483575046062,
+          "mean_abs_reference_yaw": 0.0,
+          "mean_abs_actual_yaw": 0.0013351599918678403,
+          "roll_peak_deg": 0.6103177431454246,
+          "pitch_peak_deg": 8.096428548731307,
+          "four_contact": 1.0,
+          "stop_speed": 0.0442185141146183,
+          "stop_yaw": 0.03453820198774338,
+          "com_drift_m": null,
+          "inner_rear_airborne_fraction": null,
+          "inner_rear_vertical_rms_m_s": null,
+          "inner_rear_contact_switch_rate_hz": null,
+          "inner_rear_lift_m": null,
+          "inner_rear_support_force_n": null
+        },
+        {
+          "task": "backward_brake",
+          "rate": 1.0,
+          "survived": 128,
+          "trials": 128,
+          "rmse_xy": 0.07709257304668427,
+          "rmse_yaw": 0.00805239100009203,
+          "mean_abs_reference_yaw": 0.0,
+          "mean_abs_actual_yaw": 0.004974131006747484,
+          "roll_peak_deg": 1.1106818203715147,
+          "pitch_peak_deg": 7.4162586743875725,
+          "four_contact": 1.0,
+          "stop_speed": 0.026277124881744385,
+          "stop_yaw": 0.035641033202409744,
+          "com_drift_m": null,
+          "inner_rear_airborne_fraction": null,
+          "inner_rear_vertical_rms_m_s": null,
+          "inner_rear_contact_switch_rate_hz": null,
+          "inner_rear_lift_m": null,
+          "inner_rear_support_force_n": null
+        },
+        {
+          "task": "pure_Q",
+          "rate": 0.8828125,
+          "survived": 128,
+          "trials": 128,
+          "rmse_xy": 0.06696245074272156,
+          "rmse_yaw": 0.15994948148727417,
+          "mean_abs_reference_yaw": 2.7928340435028076,
+          "mean_abs_actual_yaw": 2.655041456222534,
+          "roll_peak_deg": 8.352872269987666,
+          "pitch_peak_deg": 6.649458949479628,
+          "four_contact": 0.9999804496765137,
+          "stop_speed": 0.049779634922742844,
+          "stop_yaw": 0.059192899614572525,
+          "com_drift_m": 0.12164466083049774,
+          "inner_rear_airborne_fraction": null,
+          "inner_rear_vertical_rms_m_s": null,
+          "inner_rear_contact_switch_rate_hz": null,
+          "inner_rear_lift_m": null,
+          "inner_rear_support_force_n": null
+        },
+        {
+          "task": "pure_E",
+          "rate": 0.8046875,
+          "survived": 128,
+          "trials": 128,
+          "rmse_xy": 0.06815755367279053,
+          "rmse_yaw": 0.15990345180034637,
+          "mean_abs_reference_yaw": 2.7928340435028076,
+          "mean_abs_actual_yaw": 2.655149459838867,
+          "roll_peak_deg": 8.326779239810925,
+          "pitch_peak_deg": 6.678900053010145,
+          "four_contact": 0.999941349029541,
+          "stop_speed": 0.05026650428771973,
+          "stop_yaw": 0.0603967122733593,
+          "com_drift_m": 0.1365445852279663,
+          "inner_rear_airborne_fraction": null,
+          "inner_rear_vertical_rms_m_s": null,
+          "inner_rear_contact_switch_rate_hz": null,
+          "inner_rear_lift_m": null,
+          "inner_rear_support_force_n": null
+        },
+        {
+          "task": "forward_Q",
+          "rate": 0.0,
+          "survived": 128,
+          "trials": 128,
+          "rmse_xy": 0.18455097079277039,
+          "rmse_yaw": 0.2438962757587433,
+          "mean_abs_reference_yaw": 1.1908950805664062,
+          "mean_abs_actual_yaw": 1.0267003774642944,
+          "roll_peak_deg": 14.311245849056235,
+          "pitch_peak_deg": 9.619805766680624,
+          "four_contact": 0.860292911529541,
+          "stop_speed": 0.036996789276599884,
+          "stop_yaw": 0.03217963129281998,
+          "com_drift_m": null,
+          "inner_rear_airborne_fraction": 0.001976397354155779,
+          "inner_rear_vertical_rms_m_s": 0.004694010173756377,
+          "inner_rear_contact_switch_rate_hz": 0.21538488566875458,
+          "inner_rear_lift_m": 0.0,
+          "inner_rear_support_force_n": 23.66706085205078
+        },
+        {
+          "task": "forward_E",
+          "rate": 0.0,
+          "survived": 128,
+          "trials": 128,
+          "rmse_xy": 0.1829460710287094,
+          "rmse_yaw": 0.23838651180267334,
+          "mean_abs_reference_yaw": 1.1908950805664062,
+          "mean_abs_actual_yaw": 1.0287619829177856,
+          "roll_peak_deg": 14.306818178926774,
+          "pitch_peak_deg": 9.59525977435089,
+          "four_contact": 0.8290820121765137,
+          "stop_speed": 0.03742927312850952,
+          "stop_yaw": 0.0338902622461319,
+          "com_drift_m": null,
+          "inner_rear_airborne_fraction": 0.0022338982671499252,
+          "inner_rear_vertical_rms_m_s": 0.00478643334477611,
+          "inner_rear_contact_switch_rate_hz": 0.21538488566875458,
+          "inner_rear_lift_m": 0.0,
+          "inner_rear_support_force_n": 23.452327728271484
+        },
+        {
+          "task": "backward_Q",
+          "rate": 0.0,
+          "survived": 128,
+          "trials": 128,
+          "rmse_xy": 0.23417934775352478,
+          "rmse_yaw": 0.14325353503227234,
+          "mean_abs_reference_yaw": 1.1908950805664062,
+          "mean_abs_actual_yaw": 1.0965068340301514,
+          "roll_peak_deg": 11.10194998638422,
+          "pitch_peak_deg": 7.564180081242538,
+          "four_contact": 1.0,
+          "stop_speed": 0.03589322417974472,
+          "stop_yaw": 0.052811309695243835,
+          "com_drift_m": null,
+          "inner_rear_airborne_fraction": null,
+          "inner_rear_vertical_rms_m_s": null,
+          "inner_rear_contact_switch_rate_hz": null,
+          "inner_rear_lift_m": null,
+          "inner_rear_support_force_n": null
+        },
+        {
+          "task": "backward_E",
+          "rate": 0.0,
+          "survived": 128,
+          "trials": 128,
+          "rmse_xy": 0.23519271612167358,
+          "rmse_yaw": 0.14329075813293457,
+          "mean_abs_reference_yaw": 1.1908950805664062,
+          "mean_abs_actual_yaw": 1.0964962244033813,
+          "roll_peak_deg": 11.1009638778228,
+          "pitch_peak_deg": 7.536466588685212,
+          "four_contact": 1.0,
+          "stop_speed": 0.03622136637568474,
+          "stop_yaw": 0.05150136351585388,
+          "com_drift_m": null,
+          "inner_rear_airborne_fraction": null,
+          "inner_rear_vertical_rms_m_s": null,
+          "inner_rear_contact_switch_rate_hz": null,
+          "inner_rear_lift_m": null,
+          "inner_rear_support_force_n": null
+        }
+      ],
+      "note": "Full command envelope; any reset invalidates survival; 10deg roll/25deg pitch limits unchanged."
+    }
+  },
+  "final": {
+    "checkpoint": "/home/ubuntu/Go2W/go2w_wheel_groundedturn200_20261112/logs/train/policy_4224.pt",
+    "iteration": 4224,
+    "seed": 934024,
+    "num_envs": 1024,
+    "result": {
+      "iteration": 4224,
+      "rate": 0.625,
+      "groups": [
+        {
+          "task": "forward_brake",
+          "rate": 1.0,
+          "survived": 128,
+          "trials": 128,
+          "rmse_xy": 0.0939950942993164,
+          "rmse_yaw": 0.008320866152644157,
+          "mean_abs_reference_yaw": 0.0,
+          "mean_abs_actual_yaw": 0.0031322138383984566,
+          "roll_peak_deg": 0.9796341824176535,
+          "pitch_peak_deg": 6.989644631941753,
+          "four_contact": 1.0,
+          "stop_speed": 0.03102404624223709,
+          "stop_yaw": 0.02280450239777565,
+          "com_drift_m": null,
+          "inner_rear_airborne_fraction": null,
+          "inner_rear_vertical_rms_m_s": null,
+          "inner_rear_contact_switch_rate_hz": null,
+          "inner_rear_lift_m": null,
+          "inner_rear_support_force_n": null
+        },
+        {
+          "task": "backward_brake",
+          "rate": 1.0,
+          "survived": 128,
+          "trials": 128,
+          "rmse_xy": 0.02576785534620285,
+          "rmse_yaw": 0.010241834446787834,
+          "mean_abs_reference_yaw": 0.0,
+          "mean_abs_actual_yaw": 0.003267439780756831,
+          "roll_peak_deg": 1.2410976658271498,
+          "pitch_peak_deg": 7.204256432739546,
+          "four_contact": 1.0,
+          "stop_speed": 0.055958181619644165,
+          "stop_yaw": 0.046538110822439194,
+          "com_drift_m": null,
+          "inner_rear_airborne_fraction": null,
+          "inner_rear_vertical_rms_m_s": null,
+          "inner_rear_contact_switch_rate_hz": null,
+          "inner_rear_lift_m": null,
+          "inner_rear_support_force_n": null
+        },
+        {
+          "task": "pure_Q",
+          "rate": 0.5,
+          "survived": 128,
+          "trials": 128,
+          "rmse_xy": 0.06997287273406982,
+          "rmse_yaw": 0.20178288221359253,
+          "mean_abs_reference_yaw": 2.7928340435028076,
+          "mean_abs_actual_yaw": 2.6163036823272705,
+          "roll_peak_deg": 7.577017421787578,
+          "pitch_peak_deg": 7.107838494207885,
+          "four_contact": 0.9998828172683716,
+          "stop_speed": 0.023925695568323135,
+          "stop_yaw": 0.04783180356025696,
+          "com_drift_m": 0.17896948754787445,
+          "inner_rear_airborne_fraction": null,
+          "inner_rear_vertical_rms_m_s": null,
+          "inner_rear_contact_switch_rate_hz": null,
+          "inner_rear_lift_m": null,
+          "inner_rear_support_force_n": null
+        },
+        {
+          "task": "pure_E",
+          "rate": 0.5,
+          "survived": 128,
+          "trials": 128,
+          "rmse_xy": 0.06900405138731003,
+          "rmse_yaw": 0.20027579367160797,
+          "mean_abs_reference_yaw": 2.7928340435028076,
+          "mean_abs_actual_yaw": 2.6175694465637207,
+          "roll_peak_deg": 7.5150932192249496,
+          "pitch_peak_deg": 7.169668354782602,
+          "four_contact": 0.9987890720367432,
+          "stop_speed": 0.023937035351991653,
+          "stop_yaw": 0.04726877063512802,
+          "com_drift_m": 0.16740921139717102,
+          "inner_rear_airborne_fraction": null,
+          "inner_rear_vertical_rms_m_s": null,
+          "inner_rear_contact_switch_rate_hz": null,
+          "inner_rear_lift_m": null,
+          "inner_rear_support_force_n": null
+        },
+        {
+          "task": "forward_Q",
+          "rate": 0.0,
+          "survived": 128,
+          "trials": 128,
+          "rmse_xy": 0.16354092955589294,
+          "rmse_yaw": 0.5703446269035339,
+          "mean_abs_reference_yaw": 1.1908950805664062,
+          "mean_abs_actual_yaw": 0.858914315700531,
+          "roll_peak_deg": 14.737506002325683,
+          "pitch_peak_deg": 9.773199862608063,
+          "four_contact": 0.9983007311820984,
+          "stop_speed": 0.03059842251241207,
+          "stop_yaw": 0.03888547047972679,
+          "com_drift_m": null,
+          "inner_rear_airborne_fraction": 0.00041973672341555357,
+          "inner_rear_vertical_rms_m_s": 0.005523961215557628,
+          "inner_rear_contact_switch_rate_hz": 0.16789469122886658,
+          "inner_rear_lift_m": 0.0,
+          "inner_rear_support_force_n": 24.224254608154297
+        },
+        {
+          "task": "forward_E",
+          "rate": 0.0,
+          "survived": 128,
+          "trials": 128,
+          "rmse_xy": 0.1560523360967636,
+          "rmse_yaw": 0.5787861347198486,
+          "mean_abs_reference_yaw": 1.1908950805664062,
+          "mean_abs_actual_yaw": 0.8523472547531128,
+          "roll_peak_deg": 14.896782598675795,
+          "pitch_peak_deg": 9.65962064689992,
+          "four_contact": 0.9999608993530273,
+          "stop_speed": 0.03212576359510422,
+          "stop_yaw": 0.039436329156160355,
+          "com_drift_m": null,
+          "inner_rear_airborne_fraction": 0.00040006154449656606,
+          "inner_rear_vertical_rms_m_s": 0.005605351715473586,
+          "inner_rear_contact_switch_rate_hz": 0.16002461314201355,
+          "inner_rear_lift_m": 0.0,
+          "inner_rear_support_force_n": 24.207923889160156
+        },
+        {
+          "task": "backward_Q",
+          "rate": 1.0,
+          "survived": 128,
+          "trials": 128,
+          "rmse_xy": 0.21856911480426788,
+          "rmse_yaw": 0.18873539566993713,
+          "mean_abs_reference_yaw": 1.1908950805664062,
+          "mean_abs_actual_yaw": 1.0591237545013428,
+          "roll_peak_deg": 9.918976590063645,
+          "pitch_peak_deg": 7.228523241086956,
+          "four_contact": 1.0,
+          "stop_speed": 0.0215352363884449,
+          "stop_yaw": 0.0576353520154953,
+          "com_drift_m": null,
+          "inner_rear_airborne_fraction": null,
+          "inner_rear_vertical_rms_m_s": null,
+          "inner_rear_contact_switch_rate_hz": null,
+          "inner_rear_lift_m": null,
+          "inner_rear_support_force_n": null
+        },
+        {
+          "task": "backward_E",
+          "rate": 1.0,
+          "survived": 128,
+          "trials": 128,
+          "rmse_xy": 0.21961709856987,
+          "rmse_yaw": 0.18972638249397278,
+          "mean_abs_reference_yaw": 1.1908950805664062,
+          "mean_abs_actual_yaw": 1.0587255954742432,
+          "roll_peak_deg": 9.92369966587471,
+          "pitch_peak_deg": 7.230042104403638,
+          "four_contact": 1.0,
+          "stop_speed": 0.021952951326966286,
+          "stop_yaw": 0.057805731892585754,
+          "com_drift_m": null,
+          "inner_rear_airborne_fraction": null,
+          "inner_rear_vertical_rms_m_s": null,
+          "inner_rear_contact_switch_rate_hz": null,
+          "inner_rear_lift_m": null,
+          "inner_rear_support_force_n": null
+        }
+      ],
+      "note": "Full command envelope; any reset invalidates survival; 10deg roll/25deg pitch limits unchanged."
+    }
+  }
+}

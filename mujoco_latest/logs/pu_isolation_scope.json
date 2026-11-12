@@ -1,0 +1,9 @@
+{
+  "backup": "E:\\CODEX PROJ\\IS\\mujoco_latest\\backups\\before_pu_isolation_20261111_191638",
+  "runtime_differences": [
+    "runtime\\control.py",
+    "runtime\\pu_adapter.py"
+  ],
+  "pre_pu_200_frames_identical": true,
+  "pu_cycles_passed": 6
+}

@@ -1,0 +1,9 @@
+{
+  "state": "complete",
+  "updates": 200,
+  "checkpoint": "/home/ubuntu/Go2W/go2w_step_followup_20261111/logs/train/policy_9599.pt",
+  "log": "/home/ubuntu/Go2W/go2w_step_followup_20261111/logs/train",
+  "goal_iteration": 9599,
+  "num_envs": 2048,
+  "time_utc": "2026-11-10T16:54:09.109385+00:00"
+}

@@ -1,0 +1,295 @@
+{
+  "schema": "go2w-step-mirror-v2",
+  "actor_dim": 570,
+  "critic_dim": 68,
+  "action_dim": 12,
+  "history": 10,
+  "history_order": "oldest first",
+  "observation_order": [
+    "gravity_b(3)",
+    "omega_b*.25(3)",
+    "q_leg-stand(12)",
+    "dq_all*.05(16)",
+    "previous_bounded_action(16)",
+    "vx_vy_wz_reference(3)",
+    "sin_heading_error,cos_heading_error(2)",
+    "motion-gated sin_gait_phase,cos_gait_phase(2); gain=max(vref/.15,abs(wref)/.15) clipped[0,1]"
+  ],
+  "normalization": "fixed scales above; clip frame to [-10,10]; no running actor normalization",
+  "actor_excludes": [
+    "root linear velocity",
+    "height",
+    "contacts",
+    "terrain map",
+    "camera"
+  ],
+  "critic_extra": [
+    "yaw-frame vx,vy,world vz,world wz(4)",
+    "height(1)",
+    "wheel contact flags(4)",
+    "anchor error in yaw frame(2)"
+  ],
+  "frame": "body yaw-only horizontal frame, x forward y left; quaternion xyzw in runtime",
+  "action": "tanh Gaussian: 12 leg position offsets; wheel action slots fixed zero",
+  "wheel_feedforward": "none; implicit wheel zero-velocity drive damping=100, effort cap=23.5Nm",
+  "previous_action": "last bounded network action, before target rate limiting",
+  "phase": {
+    "period": 0.28,
+    "swing_height": 0.05,
+    "contact_weight": 0.9,
+    "clearance_weight": 0.9,
+    "hip_angle_weight": 0.09,
+    "hip_speed_weight": 0.0225,
+    "swing_amplitude_weight": 0.15,
+    "excess_clearance_weight": 0.0,
+    "swing_deficit_weight": 0.9,
+    "swing_contact_weight": 0.6,
+    "stance_slip_weight": 0.15,
+    "posture_weight": 0.045,
+    "upright_weight": 1.0,
+    "track_peak_weight": 1.5,
+    "track_error_weight": 0.35,
+    "reward_ramp_iterations": 0,
+    "diagonal_reward": 0.5,
+    "diagonal_mismatch": 0.3,
+    "swing_drag": 0.6,
+    "diagonal_ramp": 75,
+    "height_lower": 0.365,
+    "height_upper": 0.425,
+    "low_height_weight": 0.8,
+    "front_fold_weight": 0.35,
+    "backward_initial_cap": 1.5,
+    "backward_max_cap": 1.5,
+    "U_stance_q": [
+      -0.04337595775723457,
+      1.0254065990447998,
+      -1.499308466911316,
+      0.04145922511816025,
+      1.0249897241592407,
+      -1.4988728761672974,
+      -0.00539023894816637,
+      1.0618525743484497,
+      -1.5532371997833252,
+      0.0028602248057723045,
+      1.0614906549453735,
+      -1.5534567832946777
+    ],
+    "U_stance_height": 0.3914146423339844,
+    "U_stance_speed_scale": 0.25,
+    "U_stance_weight": 1.0,
+    "failure_penalty": 2.5,
+    "front_fold_scope": "all_translation",
+    "diagonal_tolerance_s": 0.04,
+    "rotation_drift_weight": 1.0,
+    "rotation_stance_slip": 0.35,
+    "rotation_swing_tangent": 0.25,
+    "rotation_stop_yaw": 1.0,
+    "rotation_stop_support": 1.0,
+    "stance_feet_reference": [
+      [
+        0.11462120711803436,
+        -0.20339162647724152,
+        -0.30542758107185364
+      ],
+      [
+        0.1146635115146637,
+        0.202809140086174,
+        -0.305805504322052
+      ],
+      [
+        -0.2725781202316284,
+        -0.19163329899311066,
+        -0.3026198744773865
+      ],
+      [
+        -0.27242448925971985,
+        0.19086721539497375,
+        -0.30299127101898193
+      ]
+    ],
+    "wheel_center_offsets": [
+      [
+        0.0,
+        -0.048,
+        0.0
+      ],
+      [
+        0.0,
+        0.048,
+        0.0
+      ],
+      [
+        0.0,
+        -0.048,
+        0.0
+      ],
+      [
+        0.0,
+        0.048,
+        0.0
+      ]
+    ],
+    "sagittal_weight": 0.15,
+    "forward_outward_hip_weight": 0.25,
+    "forward_outward_hip_deadband": 0.03,
+    "forward_outward_hip_scale": 0.2,
+    "refinement_version": "command_foot_guidance_convex_support_v1",
+    "period_range_s": [
+      0.23,
+      0.33
+    ],
+    "period_sampling": "uniform_per_environment_per_episode",
+    "specialist_task": "comprehensive",
+    "symmetry_mode": "exact_actor_paired_physics_v1",
+    "gait_phase_offset": "adjacent pair: 0/pi",
+    "paired_physics": true,
+    "front_turn_extra_width_m": 0.012,
+    "front_turn_width_weight": 0.06,
+    "comprehensive_fraction": 0.9,
+    "sampling_revision": "combo_focused_300_20261111"
+  },
+  "joint_order": [
+    "FR_hip_joint",
+    "FR_thigh_joint",
+    "FR_calf_joint",
+    "FL_hip_joint",
+    "FL_thigh_joint",
+    "FL_calf_joint",
+    "RR_hip_joint",
+    "RR_thigh_joint",
+    "RR_calf_joint",
+    "RL_hip_joint",
+    "RL_thigh_joint",
+    "RL_calf_joint",
+    "FR_foot_joint",
+    "FL_foot_joint",
+    "RR_foot_joint",
+    "RL_foot_joint"
+  ],
+  "control": {
+    "physics_dt": 0.005,
+    "decimation": 4,
+    "kp": 70.0,
+    "kd": 2.5,
+    "wheel_kd": 0.2,
+    "effort": 23.5,
+    "leg_rate": 8.0,
+    "wheel_accel": 40.0,
+    "wheel_residual": 6.0,
+    "leg_scale": [
+      0.5,
+      0.7,
+      0.7,
+      0.5,
+      0.7,
+      0.7,
+      0.5,
+      0.7,
+      0.7,
+      0.5,
+      0.7,
+      0.7
+    ],
+    "stand": [
+      0.0,
+      0.8,
+      -1.5,
+      0.0,
+      0.8,
+      -1.5,
+      0.0,
+      0.8,
+      -1.5,
+      0.0,
+      0.8,
+      -1.5
+    ],
+    "wheel_radius": 0.086,
+    "half_track": 0.19,
+    "wheel_speed": 25.0,
+    "wheel_lock_damping": 100.0
+  },
+  "command": {
+    "min_forward_speed": -1.5,
+    "max_speed": 2.3,
+    "acceleration": 2.0,
+    "damping": 5.0,
+    "brake_acceleration": 9.2,
+    "release_mode": "linear_brake",
+    "speed_limits": [
+      2.3,
+      1.3
+    ],
+    "axis_acceleration": [
+      2.0,
+      1.0
+    ],
+    "axis_brake": [
+      9.2,
+      5.2
+    ],
+    "reversal": "input_plus_brake_until_zero",
+    "yaw_speed_limit": 3.14,
+    "yaw_acceleration": 4.415625,
+    "yaw_brake": 7.065,
+    "yaw_cruise_limit": 1.6,
+    "yaw_speed_decay": 3.0
+  },
+  "hidden": [
+    256,
+    128,
+    128
+  ],
+  "physics": {
+    "friction": 0.8,
+    "self_collision": true,
+    "fixed_joint_merge": true,
+    "armature": 0.0,
+    "passive_friction": 0.0
+  },
+  "deployment_note": "Heading error uses relative integrated IMU yaw; actor has no privileged velocity.",
+  "inference": "tanh(0.5*(actor(obs)+mirror_action(actor(mirror_obs(obs)))))",
+  "curriculum": {
+    "stages": 5,
+    "promotion": 0.9,
+    "consecutive_gates": 2,
+    "gate_every": 100,
+    "test_seconds": 11,
+    "rmse_xy": 0.25,
+    "heading_deg": 5,
+    "tilt_deg": 10,
+    "height_error": 0.08,
+    "stop_speed": 0.08,
+    "promotion_scope": "overall; directions reported separately"
+  },
+  "urdf_sha256": "3dacc5ca576a5e3f6c01613840591a7a9214e221af33b67f909adb477d96e19a",
+  "source_sha256": {
+    "directional_reference.py": "d1c4efc6080f7d79a1f2dbc203f7f1727ed6d9ce9f4d1395425d4a15926fb4b5",
+    "task_schedule.py": "26597d9717955b2bbf0f6a456f42abb1e057a0d4c4ab1c5476066d76e6c7af1e",
+    "yaw_envelope.py": "1e8ed841a8af91d579e51281778636695fe5d3393cf3ec59a29c5a81daeef575",
+    "arrows.py": "fec394d5a568edc6a02d03e4523eda2c011d14482990db728f7ca1331355a39e",
+    "learning.py": "67398fa9b5bf11ee9b492e2fe1bf620db24adf0e5268e7d4821912d3e28094c6",
+    "env.py": "94a37d85b54bef668a2406ac824bc2d689bcfffa46af3669a807cea11f411c82",
+    "locomotion_guidance.py": "1b3d70ec287981dd76b494dd138b47096bf5d55bd658322fec48ee59ae7c4d33",
+    "env_cfg.py": "5415b47043ea6888961905816f901fbf3492da0d4d41b7b313dc51b1a4e5cb43",
+    "backward_schedule.py": "4a27c119ff557f3b3f637c9a4ca4113f16b13490ee45ce26627ccba701307643",
+    "test_stage2.py": "a2b99a60ae4dae0596aefe265c2529289253688b1d206c3e565fb64554d6db51",
+    "specialized_schedule.py": "9718aed52d9614e99f8bed0fcd59c596477717e7f8ffc41ad018b756f023f1e6",
+    "commands.py": "fd31866959d75bb64b0004f575d3ae56ed7d1a6073d9a443462486334e905657",
+    "qe_gate.py": "32d410862d15151b1f6d1cbcbe95bb4e1ea0928d691cba2f34053a6bc48f5ed9",
+    "config.py": "62c92f74af56e2217df8fe517ba703e7bad54698aadd93afe81244f0ec93a9df",
+    "test_qe.py": "f8740288a34ac02a62dc20fe93159c5b57bb600563328ebef75e4ceb90bf804f",
+    "main.py": "27b535a0ce03b8ea488551ddd5e274c037df8e8ede582b0885f176e97e314549",
+    "paired_symmetry.py": "da913f77f97777bc987ec63179a7d38be580da300cda1b5987295dbff3d4fe4f",
+    "test_backward.py": "d5506597db668fe025cbd7215806f4588758a5eed971c4d296b2839df8ecd65a",
+    "period_math.py": "c1470b420b6932b957a5e354f12e7298518205e9d5e87aa0b8cd01f2b6e1b17c",
+    "schedule.py": "a9c5a501cf1f7bb12b5b51ee63f0802cff297dff46b26b2b88e266b962b1b5ea",
+    "stance_geometry.py": "91f8e0b9d4858fe8597cf1068a3185225c8aa652d5e45ccdf75594027c3d32bf",
+    "test_plan.py": "547314bf4dbf0edb04f41304c19ad2f094bf1d0fd5ce8b7cf9f0f501d830aac6",
+    "training_qe_schedule.py": "17d911715c66fdd20081544646f85741e7c9274bedcf2ecf05dd0799d14d9bdb",
+    "test_contract.py": "0eaf3fbb19f18235cee4173b0ba999ce57cea1d50205d017512fda0b5e633108",
+    "qe_schedule.py": "190887945881dd7a6cb7fd80bbaecc952efcbaebb18200c0ae6d23b8f602ed28",
+    "gate.py": "14322ba4e86a0f13dc3059a2660ffff709edf185bb6bd6cdb952b831a9c678a5",
+    "symmetry.py": "d4936244b99ab306d733d47b599d540c01cd3dfaf670051dbb138dccbde461c5"
+  }
+}

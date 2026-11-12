@@ -1,0 +1,73 @@
+{
+  "pid": 522,
+  "folder": "/home/ubuntu/Go2W/interactive_latest_test_20261110/logs/test_stream_20261110T093732Z",
+  "mode": "standing_hold",
+  "step": 640,
+  "height": 0.38477274775505066,
+  "policy_errors": {},
+  "simulation": {
+    "playing": true,
+    "stopped": false,
+    "paused": false,
+    "resumes": 0,
+    "recovery": "Press a robot command key or RESUME SIMULATION to resume pause"
+  },
+  "ports": [
+    {
+      "protocol": "tcp",
+      "port": 49100,
+      "state": "0A"
+    },
+    {
+      "protocol": "tcp",
+      "port": 8765,
+      "state": "0A"
+    },
+    {
+      "protocol": "tcp",
+      "port": 49100,
+      "state": "06"
+    },
+    {
+      "protocol": "tcp",
+      "port": 49100,
+      "state": "01"
+    },
+    {
+      "protocol": "tcp",
+      "port": 8765,
+      "state": "06"
+    },
+    {
+      "protocol": "tcp",
+      "port": 8765,
+      "state": "06"
+    },
+    {
+      "protocol": "tcp",
+      "port": 8765,
+      "state": "06"
+    },
+    {
+      "protocol": "tcp",
+      "port": 8765,
+      "state": "06"
+    },
+    {
+      "protocol": "tcp",
+      "port": 49100,
+      "state": "06"
+    },
+    {
+      "protocol": "tcp",
+      "port": 49100,
+      "state": "01"
+    },
+    {
+      "protocol": "udp",
+      "port": 47998,
+      "state": "07"
+    }
+  ],
+  "preview": "/home/ubuntu/Go2W/interactive_latest_test_20261110/logs/test_stream_20261110T093732Z/preview.png"
+}

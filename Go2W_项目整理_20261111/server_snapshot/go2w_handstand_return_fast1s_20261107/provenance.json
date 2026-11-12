@@ -1,0 +1,8 @@
+{
+  "H_project": "/home/ubuntu/Go2W/go2w_handstand_fromU300_20261106",
+  "H_checkpoint": "/home/ubuntu/Go2W/go2w_handstand_return_20261106/teacher_4099.pt",
+  "U_project": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106",
+  "H_sha256": "f0ab52e8ad0cce8574bcd9bc88be0a5fee2814f456162269feac72589f6b5aea",
+  "U_checkpoint_sha256": "6cadd7b06956848632ddce66d05485023bd24d92928ef35baa27085a95221f27",
+  "U_capture_sha256": "7b2d8c583f8be9aa07ed21ce78facfce1edc21d7e651a96e91bd38e6a431ebc9"
+}

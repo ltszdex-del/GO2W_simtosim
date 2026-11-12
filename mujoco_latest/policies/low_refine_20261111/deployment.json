@@ -1,0 +1,63 @@
+{
+  "imported_at": "2026-11-11T19:32:42.586637+08:00",
+  "policies": {
+    "locomotion": {
+      "checkpoint": "__GO2W_WORKSPACE__/mujoco_latest/policies/low_refine_20261111/go2w_step_20261111_low_restart/logs/train/policy_10474.pt",
+      "training_root": "__GO2W_WORKSPACE__/mujoco_latest/policies/low_refine_20261111/go2w_step_20261111_low_restart",
+      "command_limit_scale": 1.0
+    },
+    "wheel_locomotion": {
+      "checkpoint": "__GO2W_WORKSPACE__/mujoco_latest/policies/low_refine_20261111/go2w_wheel_20261111_low_restart/logs/train/policy_3824.pt",
+      "training_root": "__GO2W_WORKSPACE__/mujoco_latest/policies/low_refine_20261111/go2w_wheel_20261111_low_restart",
+      "command_limit_scale": 1.0
+    }
+  },
+  "checkpoints": {
+    "locomotion": {
+      "iteration": 10474,
+      "sha256": "f9abe35fa17955fb4ce47c6018030cd491d8fa5a86bb6c60b4b74b629b8ae03d",
+      "source": "/home/ubuntu/Go2W/go2w_step_20261111_low_restart/logs/train/policy_10474.pt"
+    },
+    "wheel_locomotion": {
+      "iteration": 3824,
+      "sha256": "7507b962db326b6f64b3a169dd76e742aee562c6f6496476a8250927287454b6",
+      "source": "/home/ubuntu/Go2W/go2w_wheel_20261111_low_restart/logs/train/policy_3824.pt"
+    }
+  },
+  "stepping_profile": {
+    "min_forward_m_s": -0.75,
+    "max_forward_m_s": 1.15,
+    "max_lateral_m_s": 0.65,
+    "max_yaw_rad_s": 1.57,
+    "yaw_cruise_limit_rad_s": 0.8,
+    "yaw_speed_decay": 3.0,
+    "forward_accel_m_s2": 2.0,
+    "backward_accel_m_s2": 2.0,
+    "lateral_accel_m_s2": 1.0,
+    "translation_accel_limit_m_s2": 2.23606797749979,
+    "forward_brake_m_s2": 9.2,
+    "lateral_brake_m_s2": 5.2,
+    "yaw_accel_rad_s2": 4.415625,
+    "yaw_brake_rad_s2": 7.065,
+    "wheel_envelope_lever": 0.0,
+    "wheel_reference_speed_m_s": 0.0
+  },
+  "wheel_profile": {
+    "min_forward_m_s": -1.25,
+    "max_forward_m_s": 1.5,
+    "max_lateral_m_s": 0.65,
+    "max_yaw_rad_s": 3.14,
+    "yaw_cruise_limit_rad_s": 1.0,
+    "yaw_speed_decay": 3.0,
+    "forward_accel_m_s2": 4.0,
+    "backward_accel_m_s2": 6.0,
+    "lateral_accel_m_s2": 1.2,
+    "translation_accel_limit_m_s2": 6.118823416311342,
+    "forward_brake_m_s2": 4.8,
+    "lateral_brake_m_s2": 3.12,
+    "yaw_accel_rad_s2": 4.8,
+    "yaw_brake_rad_s2": 19.2,
+    "wheel_envelope_lever": 0.0,
+    "wheel_reference_speed_m_s": 0.0
+  }
+}

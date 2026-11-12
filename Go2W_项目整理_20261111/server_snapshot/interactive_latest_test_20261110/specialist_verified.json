@@ -1,0 +1,61 @@
+{
+  "status": "passed",
+  "routes": [
+    [
+      [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "straight"
+    ],
+    [
+      [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "multi"
+    ],
+    [
+      [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "qe"
+    ],
+    [
+      [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "qe"
+    ],
+    [
+      [
+        1.0,
+        0.0,
+        1.0
+      ],
+      "mixed"
+    ],
+    [
+      [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "straight"
+    ]
+  ],
+  "iterations": {
+    "mixed": 7699,
+    "multi": 7899,
+    "qe": 7899,
+    "straight": 7899
+  },
+  "synchronized_history": true,
+  "finite_actions": true
+}

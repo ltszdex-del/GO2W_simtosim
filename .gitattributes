@@ -1,0 +1,7 @@
+# Training contracts hash source bytes: do not convert LF/CRLF on checkout.
+* -text
+*.pt binary
+*.npz binary
+*.usd binary
+*.stl binary
+*.png binary

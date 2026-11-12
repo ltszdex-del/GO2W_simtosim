@@ -1,0 +1,96 @@
+{
+  "body_names": [
+    "base",
+    "FL_hip",
+    "FR_hip",
+    "RL_hip",
+    "RR_hip",
+    "FL_thigh",
+    "FR_thigh",
+    "RL_thigh",
+    "RR_thigh",
+    "FL_calf",
+    "FR_calf",
+    "RL_calf",
+    "RR_calf",
+    "FL_foot",
+    "FR_foot",
+    "RL_foot",
+    "RR_foot"
+  ],
+  "contact_names": [
+    "base",
+    "FL_hip",
+    "FR_hip",
+    "RL_hip",
+    "RR_hip",
+    "FL_thigh",
+    "FR_thigh",
+    "RL_thigh",
+    "RR_thigh",
+    "FL_calf",
+    "FR_calf",
+    "RL_calf",
+    "RR_calf",
+    "FL_foot",
+    "FR_foot",
+    "RL_foot",
+    "RR_foot"
+  ],
+  "mass_weight_n": 191.5206183242798,
+  "leg_limits": [
+    [
+      -1.0471999645233154,
+      1.0471999645233154
+    ],
+    [
+      -1.570796251296997,
+      3.4907000064849854
+    ],
+    [
+      -2.7227001190185547,
+      -0.8377599716186523
+    ],
+    [
+      -1.0471999645233154,
+      1.0471999645233154
+    ],
+    [
+      -1.570796251296997,
+      3.4907000064849854
+    ],
+    [
+      -2.7227001190185547,
+      -0.8377599716186523
+    ],
+    [
+      -1.0471999645233154,
+      1.0471999645233154
+    ],
+    [
+      -0.5236001014709473,
+      4.537900447845459
+    ],
+    [
+      -2.7227001190185547,
+      -0.8377599716186523
+    ],
+    [
+      -1.0471999645233154,
+      1.0471999645233154
+    ],
+    [
+      -0.5236001014709473,
+      4.537900447845459
+    ],
+    [
+      -2.7227001190185547,
+      -0.8377599716186523
+    ]
+  ],
+  "calibration": {
+    "head_clearance": "visual-derived URDF convex hull floor geometry; head force not separately measurable after fixed joint merge",
+    "wheel_force_n": 0.01,
+    "peak_force_n": 574.5618549728395
+  }
+}

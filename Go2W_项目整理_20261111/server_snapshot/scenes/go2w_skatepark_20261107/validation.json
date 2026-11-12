@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "colliders": 19,
+  "triangles": 1656,
+  "checks": [
+    "meters/Z-up/defaultPrim",
+    "finite points and indices",
+    "watertight consistently wound nondegenerate meshes",
+    "static triangle collisions",
+    "physics material bindings",
+    "central 8x8m clearance",
+    "no external assets"
+  ],
+  "limitations": "USD structure verified; robot contact and traversal require later task integration"
+}

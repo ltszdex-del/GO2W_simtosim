@@ -1,0 +1,20 @@
+{
+  "backup": "/home/ubuntu/Go2W/interactive_latest_test_20261110/backups/explicit_limits_20261110T170734Z",
+  "actual_integrator_limits_verified": [
+    {
+      "mode": "stepping",
+      "reference_vx": 2.3,
+      "reference_yaw": 1.6
+    },
+    {
+      "mode": "wheel",
+      "reference_vx": 3.0,
+      "reference_yaw": 2.0
+    },
+    {
+      "mode": "stepping",
+      "reference_vx": 2.3,
+      "reference_yaw": 1.6
+    }
+  ]
+}

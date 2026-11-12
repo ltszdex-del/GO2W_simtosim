@@ -1,0 +1,57 @@
+{
+  "prepared_at": "2026-11-12T01:44:19.885293+08:00",
+  "scope": "MuJoCo sim-to-sim project application materials",
+  "handstand": {
+    "source": "logs/handstand_fix_summary.json",
+    "cases": 6,
+    "cycles": 12,
+    "control_segment_seconds": [
+      20,
+      10
+    ],
+    "segments_include_entry_motion": true,
+    "standing_leg_rms_range_rad_s": [
+      0.00738358951639384,
+      0.007763265985995531
+    ],
+    "tested_teacher_iteration": 4179,
+    "tested_wheel_iteration": 3824
+  },
+  "standing_restart": {
+    "source": "logs/auto_standing_hold_checks.json",
+    "passed_groups": 6
+  },
+  "lie_get_up": {
+    "source": "logs/pu_isolation_checks.json",
+    "cycles": 6
+  },
+  "latest_wheel": {
+    "source": "wheel_speed250_20261112/import_result.json",
+    "iteration": 4024,
+    "training_updates": 200,
+    "num_envs": 4096,
+    "verified": [
+      "all_seven_policies_loaded",
+      "wheel_start_stop_passed"
+    ],
+    "command_forward_limit_m_s": 2.5,
+    "command_cruise_yaw_limit_rad_s": 1.5,
+    "command_limits_are_not_measured_tracking_results": true
+  },
+  "model": {
+    "source": "generated/model_report.json",
+    "mass_kg": 19.523000000000003,
+    "source_terrain_colliders": 19
+  },
+  "distillation": {
+    "source": "handstand_distill_20261112/background_status.json",
+    "snapshot": {
+      "state": "training",
+      "updated_at": "2026-11-11T17:43:52.146183+00:00",
+      "iterations": 342,
+      "target": 1000,
+      "mse": 0.00012477286509238183
+    },
+    "claimed_as_completed_in_cv": false
+  }
+}

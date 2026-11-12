@@ -1,0 +1,26 @@
+{
+  "pid": 36935,
+  "command": [
+    "/home/ubuntu/envs/isaac62/bin/python",
+    "-u",
+    "/home/ubuntu/Go2W/pu_ppo_p_fromU1050_200_20261106/train.py",
+    "--task",
+    "P",
+    "--num_envs",
+    "1024",
+    "--max_iterations",
+    "200",
+    "--seed",
+    "48",
+    "--log_dir",
+    "/home/ubuntu/Go2W/pu_ppo_p_fromU1050_200_20261106/logs/P_fromU1050_scratch200",
+    "--livestream",
+    "0",
+    "--visualizer",
+    "none"
+  ],
+  "initialization": "random network",
+  "physical_start_source": "/home/ubuntu/Go2W/pu_ppo_p_fromU1050_200_20261106/standing_initialization.json",
+  "iterations": 200,
+  "started_utc": "2026-11-06T12:49:21.938313+00:00"
+}

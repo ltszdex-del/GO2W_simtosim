@@ -1,0 +1,8 @@
+{
+  "parent_iteration": 4099,
+  "iterations": 80,
+  "final_iteration": 4179,
+  "lr": 1e-05,
+  "anchor_KL": 1.0,
+  "num_envs": 1024
+}

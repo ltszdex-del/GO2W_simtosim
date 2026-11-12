@@ -1,0 +1,42 @@
+#usda 1.0
+(
+    defaultPrim = "World"
+    metersPerUnit = 1
+    upAxis = "Z"
+)
+
+def Xform "World"
+{
+    def Xform "Park" (
+        prepend references = @./go2w_skatepark.usd@
+    )
+    {
+    }
+
+    def PhysicsScene "PhysicsScene"
+    {
+        vector3f physics:gravityDirection = (0, 0, -1)
+        float physics:gravityMagnitude = 9.81
+    }
+
+    def DomeLight "Sky"
+    {
+        float inputs:intensity = 900
+    }
+
+    def DistantLight "Sun"
+    {
+        float inputs:intensity = 2500
+        float3 xformOp:rotateXYZ = (-35, -25, 20)
+        uniform token[] xformOpOrder = ["xformOp:rotateXYZ"]
+    }
+
+    def Camera "Camera"
+    {
+        float2 clippingRange = (0.1, 500)
+        float focalLength = 21
+        matrix4d xformOp:transform = ( (0.778753909083283, 0.6273295378726446, 0, 0), (-0.3493950307308112, 0.43373176228652427, 0.8305419139841419, -0), (0.5210234750835335, -0.6467877621726624, 0.5569561285375704, 0), (29.000000000000004, -36.00000000000001, 31.000000000000004, 1.0000000000000002) )
+        uniform token[] xformOpOrder = ["xformOp:transform"]
+    }
+}
+

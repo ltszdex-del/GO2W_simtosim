@@ -1,0 +1,41 @@
+[
+  {
+    "kind": "wheel",
+    "state": "stopped_by_user",
+    "reason": "Wait for backward stance and runtime recovery fixes",
+    "checkpoint": "/home/ubuntu/Go2W/go2w_wheel_yaw600_20261111/logs/train/policy_2724.pt",
+    "previous_state": {
+      "state": "running",
+      "phase": "train",
+      "pid": 10531,
+      "log": "/home/ubuntu/Go2W/go2w_wheel_yaw600_20261111/logs/train",
+      "goal_iteration": 3299,
+      "num_envs": 2048,
+      "time_utc": "2026-11-10T17:31:51.944258+00:00"
+    },
+    "stopped_pids": [
+      9426,
+      10359,
+      10531
+    ],
+    "time_utc": "2026-11-10T17:36:08.823936+00:00"
+  },
+  {
+    "kind": "step",
+    "state": "stopped_by_user",
+    "reason": "Wait for backward stance and runtime recovery fixes",
+    "checkpoint": null,
+    "previous_state": {
+      "state": "queued",
+      "supervisor_pid": 9427,
+      "num_envs": 2048,
+      "updates": 600,
+      "waiting_for": "/home/ubuntu/Go2W/refine_combo300_20261111/step_status.json",
+      "time_utc": "2026-11-10T17:27:19.463106+00:00"
+    },
+    "stopped_pids": [
+      9427
+    ],
+    "time_utc": "2026-11-10T17:36:08.928449+00:00"
+  }
+]

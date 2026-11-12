@@ -1,0 +1,29 @@
+{
+  "state": "rolled_back_before_speed_increase",
+  "updated_at": "2026-11-11T18:31:30.655476+00:00",
+  "active_iteration": 3824,
+  "active_checkpoint": "E:\\CODEX PROJ\\IS\\mujoco_latest\\policies\\low_refine_20261111\\go2w_wheel_20261111_low_restart\\logs\\train\\policy_3824.pt",
+  "backup": "E:\\CODEX PROJ\\IS\\mujoco_latest\\backups\\before_wheel_rollback_3824_20261112_023122",
+  "wheel_profile": {
+    "min_forward_m_s": -1.25,
+    "max_forward_m_s": 1.5,
+    "max_lateral_m_s": 0.65,
+    "max_yaw_rad_s": 3.14,
+    "yaw_cruise_limit_rad_s": 1.0,
+    "yaw_speed_decay": 3.0,
+    "forward_accel_m_s2": 4.0,
+    "backward_accel_m_s2": 6.0,
+    "lateral_accel_m_s2": 1.2,
+    "translation_accel_limit_m_s2": 6.118823416311342,
+    "forward_brake_m_s2": 4.8,
+    "lateral_brake_m_s2": 3.12,
+    "yaw_accel_rad_s2": 4.8,
+    "yaw_brake_rad_s2": 19.2,
+    "wheel_envelope_lever": 0.0,
+    "wheel_reference_speed_m_s": 0.0
+  },
+  "all_seven_policies_loaded": true,
+  "start_stop_passed": true,
+  "runtime_rebuild_persistence_verified": true,
+  "other_settings_preserved": true
+}

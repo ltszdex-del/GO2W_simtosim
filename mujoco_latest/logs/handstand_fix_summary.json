@@ -1,0 +1,77 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "case": "idle",
+      "holds_s": [
+        20,
+        10
+      ],
+      "standing_leg_rms": [
+        0.007411929587833583,
+        0.007610690407454967
+      ]
+    },
+    {
+      "case": "W",
+      "holds_s": [
+        20,
+        10
+      ],
+      "standing_leg_rms": [
+        0.007763265985995531,
+        0.00745610331185162
+      ]
+    },
+    {
+      "case": "Q",
+      "holds_s": [
+        20,
+        10
+      ],
+      "standing_leg_rms": [
+        0.007385417008772492,
+        0.007491232301108539
+      ]
+    },
+    {
+      "case": "E",
+      "holds_s": [
+        20,
+        10
+      ],
+      "standing_leg_rms": [
+        0.007561726113781333,
+        0.007439857991412282
+      ]
+    },
+    {
+      "case": "wheel",
+      "holds_s": [
+        20,
+        10
+      ],
+      "standing_leg_rms": [
+        0.007587233185768127,
+        0.007545953011140227
+      ]
+    },
+    {
+      "case": "E_turn150",
+      "holds_s": [
+        20,
+        10
+      ],
+      "standing_leg_rms": [
+        0.00738358951639384,
+        0.007548602456226945
+      ]
+    }
+  ],
+  "hash_verified_runtime": [
+    "handstand_adapter.py",
+    "return_adapter.py",
+    "control.py"
+  ],
+  "config_unchanged": true
+}

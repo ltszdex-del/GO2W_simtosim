@@ -1,0 +1,47 @@
+{
+  "snapshot_date": "2026-11-12",
+  "policies": {
+    "locomotion": {
+      "checkpoint": "mujoco_latest/policies/low_refine_20261111/go2w_step_20261111_low_restart/logs/train/policy_10474.pt",
+      "sha256": "f9abe35fa17955fb4ce47c6018030cd491d8fa5a86bb6c60b4b74b629b8ae03d"
+    },
+    "handstand": {
+      "checkpoint": "mujoco_latest/policies/handstand_targeted_20261112/logs/targeted1000/student_999.pt",
+      "sha256": "7301769ab21e881357f4ab1c81e8778b2eed21277a43426c982455af639ac1a7"
+    },
+    "lying_down": {
+      "checkpoint": "Go2W_项目整理_20261111/server_snapshot/pu_ppo_p_fromU1050_200_20261106/logs/P_fromU1050_scratch200/final.pt",
+      "sha256": "4579d347885fa660ce760f5f38d84dc32eb3348c4af1ab460ff35fda3201e665"
+    },
+    "getting_up": {
+      "checkpoint": "Go2W_项目整理_20261111/server_snapshot/pu_ppo_u_vertical100_20261106/logs/U_vertical_resume100/final.pt",
+      "sha256": "6cadd7b06956848632ddce66d05485023bd24d92928ef35baa27085a95221f27"
+    },
+    "standing_hold": {
+      "checkpoint": "Go2W_项目整理_20261111/server_snapshot/pu_ppo_u_vertical100_20261106/logs/U_vertical_resume100/final.pt",
+      "sha256": "6cadd7b06956848632ddce66d05485023bd24d92928ef35baa27085a95221f27"
+    },
+    "handstand_return": {
+      "checkpoint": "Go2W_项目整理_20261111/server_snapshot/go2w_handstand_return_fast1s_20261107/logs/fast_resume200/policy_0349.pt",
+      "sha256": "888411b31321775645637ffb689d59264825acd0cb6d71ef1d6f1cd502bc27f6"
+    },
+    "wheel_locomotion": {
+      "checkpoint": "mujoco_latest/policies/low_refine_20261111/go2w_wheel_20261111_low_restart/logs/train/policy_3824.pt",
+      "sha256": "7507b962db326b6f64b3a169dd76e742aee562c6f6496476a8250927287454b6"
+    }
+  },
+  "teacher_sha256": "6a8978ed66ebd850072a689d6f57694946e818fd812fb835c8a478be30d65eaa",
+  "omissions": [
+    "old backups",
+    "cache files",
+    "server SSH/job launch wrappers",
+    "compressed archives",
+    "rejected wheel model bundles",
+    "private handoff notes"
+  ],
+  "portability_changes": [
+    "workspace marker in active config/deployment records",
+    "relative collision-mesh paths in generated MJCF",
+    "portable launcher and bootstrap path resolver"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "archive_sha256": "99406acd7b7fd7197d88738723dcd580ffee8a31bb7c4a068222f87968ab95f1",
+  "files_verified": 1398,
+  "bytes_verified": 663865948,
+  "policies": [
+    {
+      "mode": "locomotion",
+      "path": "server_snapshot\\go2w_step_rearfix600_20261111\\logs\\train\\policy_10274.pt"
+    },
+    {
+      "mode": "handstand",
+      "path": "server_snapshot\\go2w_handstand_currentU80_20261108\\logs\\train80\\teacher_4179.pt"
+    },
+    {
+      "mode": "lying_down",
+      "path": "server_snapshot\\pu_ppo_p_fromU1050_200_20261106\\logs\\P_fromU1050_scratch200\\final.pt"
+    },
+    {
+      "mode": "getting_up",
+      "path": "server_snapshot\\pu_ppo_u_vertical100_20261106\\logs\\U_vertical_resume100\\final.pt"
+    },
+    {
+      "mode": "standing_hold",
+      "path": "server_snapshot\\pu_ppo_u_vertical100_20261106\\logs\\U_vertical_resume100\\final.pt"
+    },
+    {
+      "mode": "handstand_return",
+      "path": "server_snapshot\\go2w_handstand_return_fast1s_20261107\\logs\\fast_resume200\\policy_0349.pt"
+    },
+    {
+      "mode": "wheel_locomotion",
+      "path": "server_snapshot\\go2w_wheel_yaw628_200_20261111\\logs\\train\\policy_3624.pt"
+    }
+  ]
+}

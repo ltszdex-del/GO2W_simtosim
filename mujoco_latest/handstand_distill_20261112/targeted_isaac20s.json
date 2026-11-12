@@ -1,0 +1,46 @@
+{
+  "teacher": {
+    "survival_rate": 1.0,
+    "success_rate": 1.0,
+    "windows": {
+      "common_hold": {
+        "gravity_x": 0.9707360712687174,
+        "action_mse": 3.7711826568435454e-05,
+        "slip_rms": 0.10071062960003306,
+        "axle_speed_rms": 0.3052820182949075,
+        "anchor_error_rms": 0.09153536809034145,
+        "wheel_dq_rms": 4.643005289816241
+      },
+      "late": {
+        "gravity_x": 0.998938066403071,
+        "action_mse": 8.900571976482751e-06,
+        "slip_rms": 0.1066896624472141,
+        "axle_speed_rms": 0.4271034653811094,
+        "anchor_error_rms": 0.31762019073144904,
+        "wheel_dq_rms": 6.512712856531262
+      }
+    }
+  },
+  "student": {
+    "survival_rate": 1.0,
+    "success_rate": 1.0,
+    "windows": {
+      "common_hold": {
+        "gravity_x": 0.972017092704773,
+        "action_mse": 3.553510873947137e-05,
+        "slip_rms": 0.09345068618944506,
+        "axle_speed_rms": 0.3132822803758228,
+        "anchor_error_rms": 0.0901405732993151,
+        "wheel_dq_rms": 4.836813600850981
+      },
+      "late": {
+        "gravity_x": 0.9990171443621317,
+        "action_mse": 1.607286205762648e-05,
+        "slip_rms": 0.09775394591496768,
+        "axle_speed_rms": 0.42686578928243246,
+        "anchor_error_rms": 0.3034326466510417,
+        "wheel_dq_rms": 6.535424137453725
+      }
+    }
+  }
+}

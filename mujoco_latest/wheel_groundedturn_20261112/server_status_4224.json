@@ -1,0 +1,10 @@
+{
+  "phase": "complete",
+  "updates": 200,
+  "iteration": 4224,
+  "checkpoint_updates": 200,
+  "target": 200,
+  "bundle": "/tmp/go2w_groundedturn_4224_export.tar.gz",
+  "bundle_sha256": "a63346c94cef4165e0c694460d5aefbe093d6f852d3281e7061d68fa5814344e",
+  "checkpoint_sha256": "320b11ead5dc1b592e17ab0d5786ed5098e423aec39fae3aaf6d19d126b0e61b"
+}

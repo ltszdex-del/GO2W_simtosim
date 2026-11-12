@@ -1,0 +1,7 @@
+{
+  "factory": "handstand_student_adapter:create",
+  "checkpoint": "E:/CODEX PROJ/IS/mujoco_latest/policies/handstand_distill_20261112/go2w_handstand_distill4179_20261112/logs/distill1000/student_999.pt",
+  "teacher_checkpoint": "/home/ubuntu/Go2W/go2w_handstand_currentU80_20261108/logs/train80/teacher_4179.pt",
+  "teacher_sha256": "6a8978ed66ebd850072a689d6f57694946e818fd812fb835c8a478be30d65eaa",
+  "student_training_root": "E:/CODEX PROJ/IS/mujoco_latest/policies/handstand_distill_20261112/go2w_handstand_distill4179_20261112"
+}

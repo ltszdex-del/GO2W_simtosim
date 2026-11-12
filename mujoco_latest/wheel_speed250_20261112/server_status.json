@@ -1,0 +1,11 @@
+{
+  "updates": 200,
+  "target": 200,
+  "iteration": 4024,
+  "expected_final_iteration": 4024,
+  "pid": 246,
+  "state": "complete",
+  "bundle": "/tmp/go2w_wheel_speed250_4024_20261112.tar.gz",
+  "bundle_sha256": "633f4dbbc9f0f4038620cade0e7b895591603615ab0bba070bf633d6ee39d67c",
+  "checkpoint_sha256": "329e4f538e7315971c13a2a4be355e5dca3b274b4d00280aed3ec93580b43738"
+}

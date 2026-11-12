@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "parity": [
+    {
+      "kind": "wheel",
+      "passed": true,
+      "scalar_tensor_command_max_error": 1.1920928955078125e-06,
+      "smooth_k_limits": true
+    },
+    {
+      "kind": "step",
+      "passed": true,
+      "scalar_tensor_command_max_error": 9.5367431640625e-07,
+      "smooth_k_limits": true
+    }
+  ],
+  "k_repeat_debounce": true,
+  "mode_switch_preserves_low": true,
+  "acceleration_unchanged": true
+}

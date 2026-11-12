@@ -1,0 +1,6 @@
+{
+  "user_instruction": "Use USD posture only; retain self collision; allow appropriate small joint changes",
+  "self_collision": true,
+  "usd_self_collision_flag_used": false,
+  "ground_collision": true
+}

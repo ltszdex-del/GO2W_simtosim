@@ -1,0 +1,90 @@
+{
+  "imported_at": "2026-11-11T18:13:50.157196+00:00",
+  "policies": {
+    "wheel_locomotion": {
+      "checkpoint": "E:/CODEX PROJ/IS/mujoco_latest/policies/wheel_groundedturn_20261112/checkpoint_4149/logs/train/policy_4149.pt",
+      "training_root": "E:/CODEX PROJ/IS/mujoco_latest/policies/wheel_groundedturn_20261112/checkpoint_4149",
+      "command_limit_scale": 1.0
+    }
+  },
+  "wheel_profile": {
+    "min_forward_m_s": -1.25,
+    "max_forward_m_s": 2.5,
+    "max_lateral_m_s": 0.65,
+    "max_yaw_rad_s": 3.14,
+    "yaw_cruise_limit_rad_s": 1.5,
+    "yaw_speed_decay": 3.0,
+    "forward_accel_m_s2": 4.0,
+    "backward_accel_m_s2": 6.0,
+    "lateral_accel_m_s2": 1.2,
+    "translation_accel_limit_m_s2": 6.118823416311342,
+    "forward_brake_m_s2": 4.8,
+    "lateral_brake_m_s2": 3.12,
+    "yaw_accel_rad_s2": 4.8,
+    "yaw_brake_rad_s2": 19.2,
+    "wheel_envelope_lever": 0.0,
+    "wheel_reference_speed_m_s": 0.0
+  },
+  "checkpoints": {
+    "wheel_locomotion": {
+      "iteration": 4149,
+      "sha256": "614d51264a2a3d8356bf414d88d00570aa253028f27689fad67a203fc5093008"
+    }
+  },
+  "training": {
+    "parent_iteration": 4024,
+    "updates": 125,
+    "target": 200,
+    "num_envs": 4096
+  },
+  "verification": {
+    "all_seven_policies_loaded": true,
+    "cases": [
+      {
+        "keys": [
+          "W"
+        ],
+        "steps": 500,
+        "min_height_m": 0.21617425978183746,
+        "max_tilt_deg": 5.70248310313498,
+        "final_mode": "standing_hold",
+        "actual": [
+          0.0018356648490319477,
+          3.2077786653268646e-05,
+          0.00011731780978152528
+        ]
+      },
+      {
+        "keys": [
+          "W",
+          "Q"
+        ],
+        "steps": 500,
+        "min_height_m": 0.21972878277301788,
+        "max_tilt_deg": 19.419918282165828,
+        "final_mode": "standing_hold",
+        "actual": [
+          -0.000656809951072921,
+          -1.197111263580674e-06,
+          -3.3447852274548495e-06
+        ]
+      },
+      {
+        "keys": [
+          "W",
+          "E"
+        ],
+        "steps": 500,
+        "min_height_m": 0.21975694596767426,
+        "max_tilt_deg": 19.71104655780116,
+        "final_mode": "standing_hold",
+        "actual": [
+          -2.4530960793304604e-05,
+          -6.026588328466299e-05,
+          -0.00020531746849883348
+        ]
+      }
+    ],
+    "config_backup": "E:\\CODEX PROJ\\IS\\mujoco_latest\\backups\\before_wheel_grounded_4149_20261112_021350"
+  }
+}

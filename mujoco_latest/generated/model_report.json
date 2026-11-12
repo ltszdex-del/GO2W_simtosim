@@ -1,0 +1,144 @@
+{
+  "mass_kg": 19.523000000000003,
+  "nq": 23,
+  "nv": 22,
+  "nu": 20,
+  "terrain": [
+    {
+      "path": "/World/Terrain/Ground",
+      "vertices": 8,
+      "triangles": 12,
+      "volume": 302.4000120162964,
+      "convex_pieces": 1
+    },
+    {
+      "path": "/World/Terrain/S01_MicroSteps",
+      "vertices": 30,
+      "triangles": 56,
+      "volume": 1.112100501052335,
+      "convex_pieces": 6
+    },
+    {
+      "path": "/World/Terrain/S02_LowSteps",
+      "vertices": 26,
+      "triangles": 48,
+      "volume": 1.5620001519918136,
+      "convex_pieces": 5
+    },
+    {
+      "path": "/World/Terrain/S03_StandardSteps",
+      "vertices": 26,
+      "triangles": 48,
+      "volume": 2.4376003120422203,
+      "convex_pieces": 5
+    },
+    {
+      "path": "/World/Terrain/S04_HighSteps",
+      "vertices": 22,
+      "triangles": 40,
+      "volume": 2.774199741369497,
+      "convex_pieces": 4
+    },
+    {
+      "path": "/World/Terrain/S05_IrregularSteps",
+      "vertices": 26,
+      "triangles": 48,
+      "volume": 1.8638406442475686,
+      "convex_pieces": 5
+    },
+    {
+      "path": "/World/Terrain/S06_DeepTerraces",
+      "vertices": 18,
+      "triangles": 32,
+      "volume": 3.0228010223150124,
+      "convex_pieces": 3
+    },
+    {
+      "path": "/World/Terrain/S07_UpAndDown",
+      "vertices": 34,
+      "triangles": 64,
+      "volume": 2.2195195866203408,
+      "convex_pieces": 7
+    },
+    {
+      "path": "/World/Terrain/R01_GentleBank",
+      "vertices": 12,
+      "triangles": 20,
+      "volume": 3.5230004889965016,
+      "convex_pieces": 1
+    },
+    {
+      "path": "/World/Terrain/R02_Tabletop",
+      "vertices": 12,
+      "triangles": 20,
+      "volume": 5.999999865889549,
+      "convex_pieces": 1
+    },
+    {
+      "path": "/World/Terrain/R03_SteepBank",
+      "vertices": 12,
+      "triangles": 20,
+      "volume": 4.732000830650351,
+      "convex_pieces": 1
+    },
+    {
+      "path": "/World/Terrain/L01_ManualPad",
+      "vertices": 12,
+      "triangles": 20,
+      "volume": 0.8999999798834324,
+      "convex_pieces": 1
+    },
+    {
+      "path": "/World/Terrain/Q01_QuarterPipe",
+      "vertices": 200,
+      "triangles": 396,
+      "volume": 2.8279118047775977,
+      "convex_pieces": 97
+    },
+    {
+      "path": "/World/Terrain/Q02_MiniHalfPipe",
+      "vertices": 328,
+      "triangles": 652,
+      "volume": 2.185366607943797,
+      "convex_pieces": 161
+    },
+    {
+      "path": "/World/Terrain/R04_FourWayPyramid",
+      "vertices": 8,
+      "triangles": 12,
+      "volume": 5.334000034650156,
+      "convex_pieces": 1
+    },
+    {
+      "path": "/World/Terrain/Border0",
+      "vertices": 8,
+      "triangles": 12,
+      "volume": 1.455998694181356,
+      "convex_pieces": 1
+    },
+    {
+      "path": "/World/Terrain/Border1",
+      "vertices": 8,
+      "triangles": 12,
+      "volume": 1.455998694181356,
+      "convex_pieces": 1
+    },
+    {
+      "path": "/World/Terrain/Border2",
+      "vertices": 8,
+      "triangles": 12,
+      "volume": 1.1200042891503088,
+      "convex_pieces": 1
+    },
+    {
+      "path": "/World/Terrain/Border3",
+      "vertices": 8,
+      "triangles": 12,
+      "volume": 1.1200042891503088,
+      "convex_pieces": 1
+    }
+  ],
+  "urdf": "E:\\CODEX PROJ\\IS\\Go2W_\u9879\u76ee\u6574\u7406_20261111\\server_snapshot\\pu_ppo_u_vertical100_20261106\\assets\\go2w_description\\urdf\\go2w_description.urdf",
+  "physics_dt": 0.005,
+  "integrator": "implicitfast"
+}

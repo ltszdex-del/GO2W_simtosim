@@ -1,0 +1,72 @@
+{
+  "case": "idle",
+  "passed": true,
+  "held": [
+    {
+      "cycle": 0,
+      "seconds": 20.0,
+      "peak_rear_speed": 6.702016830444336
+    },
+    {
+      "cycle": 1,
+      "seconds": 10.0,
+      "peak_rear_speed": 6.616676330566406
+    }
+  ],
+  "standing_leg_rms": [
+    0.007411929587833583,
+    0.007610690407454967
+  ],
+  "events": [
+    {
+      "frame": 1,
+      "mode": "locomotion",
+      "motor": "locomotion"
+    },
+    {
+      "frame": 5,
+      "mode": "standing_hold",
+      "motor": "standing_hold"
+    },
+    {
+      "frame": 115,
+      "mode": "handstand",
+      "motor": "handstand"
+    },
+    {
+      "frame": 1116,
+      "mode": "handstand_return",
+      "motor": "handstand_return"
+    },
+    {
+      "frame": 1162,
+      "mode": "standing_hold",
+      "motor": "standing_hold"
+    },
+    {
+      "frame": 1277,
+      "mode": "handstand",
+      "motor": "handstand"
+    },
+    {
+      "frame": 1778,
+      "mode": "handstand_return",
+      "motor": "handstand_return"
+    },
+    {
+      "frame": 1824,
+      "mode": "standing_hold",
+      "motor": "standing_hold"
+    },
+    {
+      "frame": 1925,
+      "mode": "locomotion",
+      "motor": "locomotion"
+    },
+    {
+      "frame": 1998,
+      "mode": "standing_hold",
+      "motor": "standing_hold"
+    }
+  ]
+}

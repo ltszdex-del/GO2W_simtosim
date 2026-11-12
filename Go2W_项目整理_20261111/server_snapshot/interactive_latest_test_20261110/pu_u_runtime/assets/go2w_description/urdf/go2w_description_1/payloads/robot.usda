@@ -1,0 +1,451 @@
+#usda 1.0
+(
+    customLayerData = {
+        string creator = "URDF USD Converter v0.3.2"
+    }
+    defaultPrim = "go2w_description"
+    endTimeCode = 1000000
+    kilogramsPerUnit = 1
+    metersPerUnit = 1
+    startTimeCode = 0
+    upAxis = "Z"
+)
+
+over "go2w_description" (
+    prepend apiSchemas = ["IsaacRobotAPI"]
+)
+{
+    prepend rel isaac:physics:robotJoints = [
+        </go2w_description/Physics/Head_upper_joint>,
+        </go2w_description/Physics/FL_hip_joint>,
+        </go2w_description/Physics/FR_hip_joint>,
+        </go2w_description/Physics/RL_hip_joint>,
+        </go2w_description/Physics/RR_hip_joint>,
+        </go2w_description/Physics/Head_lower_joint>,
+        </go2w_description/Physics/FL_thigh_joint>,
+        </go2w_description/Physics/FL_calf_joint>,
+        </go2w_description/Physics/FL_calflower_joint>,
+        </go2w_description/Physics/FL_foot_motor_joint>,
+        </go2w_description/Physics/FL_foot_joint>,
+        </go2w_description/Physics/FL_calflower1_joint>,
+        </go2w_description/Physics/FR_thigh_joint>,
+        </go2w_description/Physics/FR_calf_joint>,
+        </go2w_description/Physics/FR_calflower_joint>,
+        </go2w_description/Physics/FR_foot_motor_joint>,
+        </go2w_description/Physics/FR_foot_joint>,
+        </go2w_description/Physics/FR_calflower1_joint>,
+        </go2w_description/Physics/RL_thigh_joint>,
+        </go2w_description/Physics/RL_calf_joint>,
+        </go2w_description/Physics/RL_calflower_joint>,
+        </go2w_description/Physics/RL_foot_motor_joint>,
+        </go2w_description/Physics/RL_foot_joint>,
+        </go2w_description/Physics/RL_calflower1_joint>,
+        </go2w_description/Physics/RR_thigh_joint>,
+        </go2w_description/Physics/RR_calf_joint>,
+        </go2w_description/Physics/RR_calflower_joint>,
+        </go2w_description/Physics/RR_foot_motor_joint>,
+        </go2w_description/Physics/RR_foot_joint>,
+        </go2w_description/Physics/RR_calflower1_joint>,
+    ]
+    prepend rel isaac:physics:robotLinks = [
+        </go2w_description/Geometry/base>,
+        </go2w_description/Geometry/base/Head_upper>,
+        </go2w_description/Geometry/base/Head_upper/Head_lower>,
+        </go2w_description/Geometry/base/FL_hip>,
+        </go2w_description/Geometry/base/FL_hip/FL_thigh>,
+        </go2w_description/Geometry/base/FL_hip/FL_thigh/FL_calf>,
+        </go2w_description/Geometry/base/FL_hip/FL_thigh/FL_calf/FL_calflower>,
+        </go2w_description/Geometry/base/FL_hip/FL_thigh/FL_calf/FL_calflower/FL_calflower1>,
+        </go2w_description/Geometry/base/FL_hip/FL_thigh/FL_calf/FL_foot_motor>,
+        </go2w_description/Geometry/base/FL_hip/FL_thigh/FL_calf/FL_foot>,
+        </go2w_description/Geometry/base/FR_hip>,
+        </go2w_description/Geometry/base/FR_hip/FR_thigh>,
+        </go2w_description/Geometry/base/FR_hip/FR_thigh/FR_calf>,
+        </go2w_description/Geometry/base/FR_hip/FR_thigh/FR_calf/FR_calflower>,
+        </go2w_description/Geometry/base/FR_hip/FR_thigh/FR_calf/FR_calflower/FR_calflower1>,
+        </go2w_description/Geometry/base/FR_hip/FR_thigh/FR_calf/FR_foot_motor>,
+        </go2w_description/Geometry/base/FR_hip/FR_thigh/FR_calf/FR_foot>,
+        </go2w_description/Geometry/base/RL_hip>,
+        </go2w_description/Geometry/base/RL_hip/RL_thigh>,
+        </go2w_description/Geometry/base/RL_hip/RL_thigh/RL_calf>,
+        </go2w_description/Geometry/base/RL_hip/RL_thigh/RL_calf/RL_calflower>,
+        </go2w_description/Geometry/base/RL_hip/RL_thigh/RL_calf/RL_calflower/RL_calflower1>,
+        </go2w_description/Geometry/base/RL_hip/RL_thigh/RL_calf/RL_foot_motor>,
+        </go2w_description/Geometry/base/RL_hip/RL_thigh/RL_calf/RL_foot>,
+        </go2w_description/Geometry/base/RR_hip>,
+        </go2w_description/Geometry/base/RR_hip/RR_thigh>,
+        </go2w_description/Geometry/base/RR_hip/RR_thigh/RR_calf>,
+        </go2w_description/Geometry/base/RR_hip/RR_thigh/RR_calf/RR_calflower>,
+        </go2w_description/Geometry/base/RR_hip/RR_thigh/RR_calf/RR_calflower/RR_calflower1>,
+        </go2w_description/Geometry/base/RR_hip/RR_thigh/RR_calf/RR_foot_motor>,
+        </go2w_description/Geometry/base/RR_hip/RR_thigh/RR_calf/RR_foot>,
+    ]
+    token isaac:robotType = "Default"
+
+    over "Geometry"
+    {
+        over "base" (
+            prepend apiSchemas = ["IsaacLinkAPI"]
+        )
+        {
+            over "FL_hip" (
+                prepend apiSchemas = ["IsaacLinkAPI"]
+            )
+            {
+                over "FL_thigh" (
+                    prepend apiSchemas = ["IsaacLinkAPI"]
+                )
+                {
+                    over "FL_calf" (
+                        prepend apiSchemas = ["IsaacLinkAPI"]
+                    )
+                    {
+                        over "FL_foot" (
+                            prepend apiSchemas = ["IsaacLinkAPI"]
+                        )
+                        {
+                        }
+
+                        over "FL_calflower" (
+                            prepend apiSchemas = ["IsaacLinkAPI"]
+                        )
+                        {
+                            over "FL_calflower1" (
+                                prepend apiSchemas = ["IsaacLinkAPI"]
+                            )
+                            {
+                            }
+                        }
+
+                        over "FL_foot_motor" (
+                            prepend apiSchemas = ["IsaacLinkAPI"]
+                        )
+                        {
+                        }
+                    }
+                }
+            }
+
+            over "FR_hip" (
+                prepend apiSchemas = ["IsaacLinkAPI"]
+            )
+            {
+                over "FR_thigh" (
+                    prepend apiSchemas = ["IsaacLinkAPI"]
+                )
+                {
+                    over "FR_calf" (
+                        prepend apiSchemas = ["IsaacLinkAPI"]
+                    )
+                    {
+                        over "FR_foot" (
+                            prepend apiSchemas = ["IsaacLinkAPI"]
+                        )
+                        {
+                        }
+
+                        over "FR_calflower" (
+                            prepend apiSchemas = ["IsaacLinkAPI"]
+                        )
+                        {
+                            over "FR_calflower1" (
+                                prepend apiSchemas = ["IsaacLinkAPI"]
+                            )
+                            {
+                            }
+                        }
+
+                        over "FR_foot_motor" (
+                            prepend apiSchemas = ["IsaacLinkAPI"]
+                        )
+                        {
+                        }
+                    }
+                }
+            }
+
+            over "RL_hip" (
+                prepend apiSchemas = ["IsaacLinkAPI"]
+            )
+            {
+                over "RL_thigh" (
+                    prepend apiSchemas = ["IsaacLinkAPI"]
+                )
+                {
+                    over "RL_calf" (
+                        prepend apiSchemas = ["IsaacLinkAPI"]
+                    )
+                    {
+                        over "RL_foot" (
+                            prepend apiSchemas = ["IsaacLinkAPI"]
+                        )
+                        {
+                        }
+
+                        over "RL_calflower" (
+                            prepend apiSchemas = ["IsaacLinkAPI"]
+                        )
+                        {
+                            over "RL_calflower1" (
+                                prepend apiSchemas = ["IsaacLinkAPI"]
+                            )
+                            {
+                            }
+                        }
+
+                        over "RL_foot_motor" (
+                            prepend apiSchemas = ["IsaacLinkAPI"]
+                        )
+                        {
+                        }
+                    }
+                }
+            }
+
+            over "RR_hip" (
+                prepend apiSchemas = ["IsaacLinkAPI"]
+            )
+            {
+                over "RR_thigh" (
+                    prepend apiSchemas = ["IsaacLinkAPI"]
+                )
+                {
+                    over "RR_calf" (
+                        prepend apiSchemas = ["IsaacLinkAPI"]
+                    )
+                    {
+                        over "RR_foot" (
+                            prepend apiSchemas = ["IsaacLinkAPI"]
+                        )
+                        {
+                        }
+
+                        over "RR_calflower" (
+                            prepend apiSchemas = ["IsaacLinkAPI"]
+                        )
+                        {
+                            over "RR_calflower1" (
+                                prepend apiSchemas = ["IsaacLinkAPI"]
+                            )
+                            {
+                            }
+                        }
+
+                        over "RR_foot_motor" (
+                            prepend apiSchemas = ["IsaacLinkAPI"]
+                        )
+                        {
+                        }
+                    }
+                }
+            }
+
+            over "Head_upper" (
+                prepend apiSchemas = ["IsaacLinkAPI"]
+            )
+            {
+                over "Head_lower" (
+                    prepend apiSchemas = ["IsaacLinkAPI"]
+                )
+                {
+                }
+            }
+
+            over "imu" (
+                prepend apiSchemas = ["IsaacSiteAPI"]
+            )
+            {
+            }
+
+            over "radar" (
+                prepend apiSchemas = ["IsaacSiteAPI"]
+            )
+            {
+            }
+        }
+    }
+
+    over "Physics"
+    {
+        over "Head_upper_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "Head_lower_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "FL_hip_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "FL_thigh_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "FL_calf_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "FL_calflower_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "FL_calflower1_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "FL_foot_motor_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "FL_foot_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "FR_hip_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "FR_thigh_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "FR_calf_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "FR_calflower_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "FR_calflower1_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "FR_foot_motor_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "FR_foot_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "RL_hip_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "RL_thigh_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "RL_calf_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "RL_calflower_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "RL_calflower1_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "RL_foot_motor_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "RL_foot_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "RR_hip_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "RR_thigh_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "RR_calf_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "RR_calflower_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "RR_calflower1_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "RR_foot_motor_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+
+        over "RR_foot_joint" (
+            prepend apiSchemas = ["IsaacJointAPI"]
+        )
+        {
+        }
+    }
+}
+

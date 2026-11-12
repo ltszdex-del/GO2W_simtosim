@@ -1,0 +1,191 @@
+{
+  "physics_dt": 0.005,
+  "control_decimation": 4,
+  "input_timeout_s": 0.4,
+  "max_forward_m_s": 1.15,
+  "max_lateral_m_s": 0.65,
+  "max_yaw_rad_s": 1.57,
+  "forward_accel_m_s2": 2.0,
+  "lateral_accel_m_s2": 1.0,
+  "translation_accel_limit_m_s2": 2.23606797749979,
+  "forward_brake_m_s2": 9.2,
+  "lateral_brake_m_s2": 5.2,
+  "yaw_brake_rad_s2": 7.065,
+  "leg_target_rate_rad_s": 8.0,
+  "wheel_target_rate_rad_s2": 40.0,
+  "wheel_speed_limit_rad_s": 25.0,
+  "yaw_accel_rad_s2": 4.415625,
+  "kp": 70.0,
+  "kd": 2.5,
+  "wheel_kd": 0.0,
+  "effort_limit_nm": 23.5,
+  "bridge_port": 8765,
+  "policies": {
+    "locomotion": {
+      "factory": "step_followup_adapter:create",
+      "checkpoint": "__GO2W_WORKSPACE__/mujoco_latest/policies/low_refine_20261111/go2w_step_20261111_low_restart/logs/train/policy_10474.pt",
+      "training_root": "__GO2W_WORKSPACE__/mujoco_latest/policies/low_refine_20261111/go2w_step_20261111_low_restart",
+      "asset_root": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/assets/go2w_description",
+      "collision_geometry_override": true,
+      "command_limit_scale": 1.0
+    },
+    "handstand": {
+      "factory": "handstand_student_adapter:create",
+      "checkpoint": "__GO2W_WORKSPACE__/mujoco_latest/policies/handstand_targeted_20261112/logs/targeted1000/student_999.pt",
+      "code_root": "/home/ubuntu/Go2W/go2w_handstand_currentU80_20261108",
+      "motion": "/home/ubuntu/Go2W/go2w_handstand_currentU80_20261108/motions/stand_to_handstand.npz",
+      "asset_root": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/assets/go2w_description",
+      "teacher_checkpoint": "/home/ubuntu/Go2W/go2w_handstand_currentU80_20261108/logs/train80/teacher_4179.pt",
+      "teacher_sha256": "6a8978ed66ebd850072a689d6f57694946e818fd812fb835c8a478be30d65eaa",
+      "student_training_root": "__GO2W_WORKSPACE__/mujoco_latest/policies/handstand_targeted_20261112"
+    },
+    "lying_down": {
+      "factory": "pu_adapter:create",
+      "mode": "lying_down",
+      "checkpoint": "/home/ubuntu/Go2W/pu_ppo_p_fromU1050_200_20261106/logs/P_fromU1050_scratch200/final.pt",
+      "source_root": "/home/ubuntu/Go2W/pu_ppo_p_fromU1050_200_20261106",
+      "runtime_package": "pu_p_runtime",
+      "asset_root": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/assets/go2w_description"
+    },
+    "getting_up": {
+      "factory": "pu_adapter:create",
+      "mode": "getting_up",
+      "checkpoint": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/logs/U_vertical_resume100/final.pt",
+      "source_root": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106",
+      "runtime_package": "pu_u_runtime",
+      "asset_root": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/assets/go2w_description"
+    },
+    "standing_hold": {
+      "factory": "pu_adapter:create",
+      "mode": "standing_hold",
+      "checkpoint": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/logs/U_vertical_resume100/final.pt",
+      "source_root": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106",
+      "runtime_package": "pu_u_runtime",
+      "asset_root": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/assets/go2w_description"
+    },
+    "handstand_return": {
+      "factory": "return_adapter:create",
+      "checkpoint": "/home/ubuntu/Go2W/go2w_handstand_return_fast1s_20261107/logs/fast_resume200/policy_0349.pt",
+      "code_root": "/home/ubuntu/Go2W/go2w_handstand_return_fast1s_20261107",
+      "asset_root": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/assets/go2w_description"
+    },
+    "wheel_locomotion": {
+      "factory": "wheel_mirror_brake_adapter:create",
+      "checkpoint": "__GO2W_WORKSPACE__/mujoco_latest/policies/low_refine_20261111/go2w_wheel_20261111_low_restart/logs/train/policy_3824.pt",
+      "training_root": "__GO2W_WORKSPACE__/mujoco_latest/policies/low_refine_20261111/go2w_wheel_20261111_low_restart",
+      "asset_root": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/assets/go2w_description",
+      "collision_geometry_override": true,
+      "command_limit_scale": 1.0
+    }
+  },
+  "wheel_lock_damping": 100.0,
+  "low_speed_hold": {
+    "enabled": true,
+    "reference_enter_speed_m_s": 0.001,
+    "actual_enter_speed_m_s": 0.15,
+    "reference_exit_speed_m_s": 0.12,
+    "reference_yaw_enter_rad_s": 0.001,
+    "reference_yaw_exit_rad_s": 0.12,
+    "actual_enter_yaw_rad_s": 0.15,
+    "settle_s": 0.1
+  },
+  "robot_asset_root": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/assets/go2w_description",
+  "initial_standing": {
+    "source_checkpoint": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/logs/U_vertical_resume100/final.pt",
+    "checkpoint_sha256": "6cadd7b06956848632ddce66d05485023bd24d92928ef35baa27085a95221f27",
+    "iteration": 1099,
+    "q": [
+      -0.04337595775723457,
+      1.0254065990447998,
+      -1.499308466911316,
+      0.04145922511816025,
+      1.0249897241592407,
+      -1.4988728761672974,
+      -0.00539023894816637,
+      1.0618525743484497,
+      -1.5532371997833252,
+      0.0028602248057723045,
+      1.0614906549453735,
+      -1.5534567832946777
+    ],
+    "wheel_q": [
+      0.6215379238128662,
+      0.5742970108985901,
+      2.1637778282165527,
+      2.049221992492676
+    ],
+    "target": [
+      0.0842529684305191,
+      1.0284278392791748,
+      -1.4711052179336548,
+      -0.0842529684305191,
+      1.0284278392791748,
+      -1.4711052179336548,
+      0.008823574520647526,
+      1.0893199443817139,
+      -1.6049773693084717,
+      -0.008823574520647526,
+      1.0893199443817139,
+      -1.6049773693084717
+    ],
+    "root_pose": [
+      0.0,
+      0.0,
+      0.3934146761894226,
+      0.0005001028184778988,
+      -0.004644992761313915,
+      0.007909886538982391,
+      0.999957799911499
+    ],
+    "height": 0.3914146423339844,
+    "method": "100 measured stable frames at 16-18s of final U; XY normalized, mean quaternion normalized, +2mm reset clearance",
+    "mass": 19.522998809814453
+  },
+  "initial_leg_target": [
+    0.0842529684305191,
+    1.0284278392791748,
+    -1.4711052179336548,
+    -0.0842529684305191,
+    1.0284278392791748,
+    -1.4711052179336548,
+    0.008823574520647526,
+    1.0893199443817139,
+    -1.6049773693084717,
+    -0.008823574520647526,
+    1.0893199443817139,
+    -1.6049773693084717
+  ],
+  "min_forward_m_s": -0.75,
+  "terrain": {
+    "kind": "skatepark",
+    "usd_path": "/home/ubuntu/Go2W/scenes/go2w_skatepark_20261107/go2w_skatepark.usd"
+  },
+  "backward_accel_m_s2": 2.0,
+  "wheel_envelope_lever": 0.0,
+  "wheel_reference_speed_m_s": 0.0,
+  "wheel_command_profile": {
+    "min_forward_m_s": -1.25,
+    "max_forward_m_s": 1.5,
+    "max_lateral_m_s": 0.65,
+    "max_yaw_rad_s": 3.14,
+    "yaw_cruise_limit_rad_s": 1.0,
+    "yaw_speed_decay": 3.0,
+    "forward_accel_m_s2": 4.0,
+    "backward_accel_m_s2": 6.0,
+    "lateral_accel_m_s2": 1.2,
+    "translation_accel_limit_m_s2": 6.118823416311342,
+    "forward_brake_m_s2": 4.8,
+    "lateral_brake_m_s2": 3.12,
+    "yaw_accel_rad_s2": 4.8,
+    "yaw_brake_rad_s2": 19.2,
+    "wheel_envelope_lever": 0.0,
+    "wheel_reference_speed_m_s": 0.0
+  },
+  "wheel_drive_target_rate_rad_s2": 60.0,
+  "wheel_drive_leg_target_rate_rad_s": 6.0,
+  "wheel_policy_handles_stopping": true,
+  "wheel_idle_assist": true,
+  "yaw_cruise_limit_rad_s": 0.8,
+  "yaw_speed_decay": 3.0,
+  "fixed_low_limits": true
+}

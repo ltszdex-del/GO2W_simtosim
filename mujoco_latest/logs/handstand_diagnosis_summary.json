@@ -1,0 +1,289 @@
+{
+  "experiments": [
+    {
+      "fine": false,
+      "approach": "idle",
+      "events": [
+        {
+          "frame": 0,
+          "t": 0.02,
+          "mode": "locomotion"
+        },
+        {
+          "frame": 4,
+          "t": 0.10000000000000002,
+          "mode": "standing_hold"
+        },
+        {
+          "frame": 189,
+          "t": 3.7999999999996943,
+          "mode": "handstand"
+        },
+        {
+          "frame": 356,
+          "t": 7.139999999999623,
+          "mode": "error"
+        }
+      ],
+      "frames": 357,
+      "final_mode": "error",
+      "message": "Original handstand failure guard: {'seconds': 3.36, 'height': 0.6524807214736938, 'gravity': [0.9849619269371033, 0.006173647008836269, -0.17266106605529785], 'pitch': 1.3972623348236084, 'collision_force': 0.0, 'front_axis_angle': 0.15410707890987396, 'bad_contact': 658.4652099609375, 'bad_time': 0.07999999821186066, 'low_time': 0.0}",
+      "phase": 3.36,
+      "physics_samples": 672,
+      "model_timestep_after_step": 0.005,
+      "peak_rear_joint_speed": 18.997838098597,
+      "peak_front_joint_speed": 20.43038575788525,
+      "deepest_contact_m": -0.0027644447705652744,
+      "first_overspeed_s": null,
+      "peak_target_step_rad": 0.16000008583068848,
+      "peak_action_step": 1.0854534804821014,
+      "peak_rear_joint": "RL_hip_joint",
+      "limit_excursions_rad": {
+        "RR_calf_joint": 0.005570453871943437,
+        "RL_calf_joint": 0.03034808467099681
+      }
+    },
+    {
+      "fine": true,
+      "approach": "idle",
+      "events": [
+        {
+          "frame": 0,
+          "t": 0.02,
+          "mode": "locomotion"
+        },
+        {
+          "frame": 4,
+          "t": 0.10000000000000002,
+          "mode": "standing_hold"
+        },
+        {
+          "frame": 189,
+          "t": 3.7999999999996925,
+          "mode": "handstand"
+        }
+      ],
+      "frames": 1800,
+      "final_mode": "handstand",
+      "message": "\u6267\u884c handstand",
+      "phase": 32.22,
+      "physics_samples": 32220,
+      "model_timestep_after_step": 0.005,
+      "peak_rear_joint_speed": 7.332318538892648,
+      "peak_front_joint_speed": 7.398196845445789,
+      "deepest_contact_m": -0.0032120546665790743,
+      "first_overspeed_s": null,
+      "peak_target_step_rad": 0.1600000262260437,
+      "peak_action_step": 0.5837195217609406,
+      "peak_rear_joint": "RL_thigh_joint",
+      "limit_excursions_rad": {
+        "RR_calf_joint": 0.00040356334746682876,
+        "RL_calf_joint": 0.01456660267107468
+      }
+    },
+    {
+      "fine": false,
+      "approach": "W",
+      "events": [
+        {
+          "frame": 0,
+          "t": 0.02,
+          "mode": "locomotion"
+        },
+        {
+          "frame": 4,
+          "t": 0.10000000000000002,
+          "mode": "standing_hold"
+        },
+        {
+          "frame": 50,
+          "t": 1.0200000000000002,
+          "mode": "locomotion"
+        },
+        {
+          "frame": 128,
+          "t": 2.5799999999999654,
+          "mode": "standing_hold"
+        },
+        {
+          "frame": 189,
+          "t": 3.799999999999833,
+          "mode": "handstand"
+        },
+        {
+          "frame": 353,
+          "t": 7.079999999999763,
+          "mode": "error"
+        }
+      ],
+      "frames": 354,
+      "final_mode": "error",
+      "message": "Original handstand failure guard: {'seconds': 3.3000000000000003, 'height': 0.6636363863945007, 'gravity': [0.9835806488990784, -0.010207275860011578, -0.1801803559064865], 'pitch': 1.3896169662475586, 'collision_force': 0.0, 'front_axis_angle': 0.1401543915271759, 'bad_contact': 1455.08544921875, 'bad_time': 0.07999999821186066, 'low_time': 0.0}",
+      "phase": 3.3000000000000003,
+      "physics_samples": 660,
+      "model_timestep_after_step": 0.005,
+      "peak_rear_joint_speed": 21.064749405533327,
+      "peak_front_joint_speed": 20.09381488256738,
+      "deepest_contact_m": -0.0037629971107895157,
+      "first_overspeed_s": null,
+      "peak_target_step_rad": 0.16000008583068848,
+      "peak_action_step": 0.9724685549736023,
+      "peak_rear_joint": "RR_hip_joint",
+      "limit_excursions_rad": {
+        "RR_thigh_joint": 0.024477778127561578,
+        "RR_calf_joint": 0.018928308326227605,
+        "RL_thigh_joint": 0.008289950254106948,
+        "RL_calf_joint": 0.044415988479084345
+      }
+    },
+    {
+      "fine": true,
+      "approach": "W",
+      "events": [
+        {
+          "frame": 0,
+          "t": 0.02,
+          "mode": "locomotion"
+        },
+        {
+          "frame": 4,
+          "t": 0.10000000000000002,
+          "mode": "standing_hold"
+        },
+        {
+          "frame": 50,
+          "t": 1.0200000000000002,
+          "mode": "locomotion"
+        },
+        {
+          "frame": 128,
+          "t": 2.5799999999999654,
+          "mode": "standing_hold"
+        },
+        {
+          "frame": 189,
+          "t": 3.799999999999831,
+          "mode": "handstand"
+        }
+      ],
+      "frames": 1200,
+      "final_mode": "handstand",
+      "message": "\u6267\u884c handstand",
+      "phase": 20.22,
+      "physics_samples": 20220,
+      "model_timestep_after_step": 0.005,
+      "peak_rear_joint_speed": 7.689470517756588,
+      "peak_front_joint_speed": 6.69838780513769,
+      "deepest_contact_m": -0.0031367221312792693,
+      "first_overspeed_s": null,
+      "peak_target_step_rad": 0.16000008583068848,
+      "peak_action_step": 0.5855301320552826,
+      "peak_rear_joint": "RL_thigh_joint",
+      "limit_excursions_rad": {
+        "RL_calf_joint": 0.014450517514588146
+      }
+    },
+    {
+      "fine": false,
+      "approach": "Q",
+      "events": [
+        {
+          "frame": 0,
+          "t": 0.02,
+          "mode": "locomotion"
+        },
+        {
+          "frame": 4,
+          "t": 0.10000000000000002,
+          "mode": "standing_hold"
+        },
+        {
+          "frame": 50,
+          "t": 1.0200000000000002,
+          "mode": "locomotion"
+        },
+        {
+          "frame": 119,
+          "t": 2.3999999999999693,
+          "mode": "standing_hold"
+        },
+        {
+          "frame": 189,
+          "t": 3.799999999999817,
+          "mode": "handstand"
+        },
+        {
+          "frame": 351,
+          "t": 7.039999999999748,
+          "mode": "error"
+        }
+      ],
+      "frames": 352,
+      "final_mode": "error",
+      "message": "Original handstand failure guard: {'seconds': 3.2600000000000002, 'height': 0.6573236584663391, 'gravity': [0.9782518148422241, -0.016782190650701523, -0.2067408412694931], 'pitch': 1.3625239133834839, 'collision_force': 0.0, 'front_axis_angle': 0.15083090960979462, 'bad_contact': 1605.700439453125, 'bad_time': 0.07999999821186066, 'low_time': 0.0}",
+      "phase": 3.2600000000000002,
+      "physics_samples": 652,
+      "model_timestep_after_step": 0.005,
+      "peak_rear_joint_speed": 23.884848336473162,
+      "peak_front_joint_speed": 20.844035454382244,
+      "deepest_contact_m": -0.003101438228858963,
+      "first_overspeed_s": null,
+      "peak_target_step_rad": 0.16000008583068848,
+      "peak_action_step": 0.9763167947530746,
+      "peak_rear_joint": "RR_hip_joint",
+      "limit_excursions_rad": {
+        "RR_thigh_joint": 0.0021104715030955123,
+        "RL_thigh_joint": 0.009241101230758275,
+        "RL_calf_joint": 0.02454570016951374
+      }
+    },
+    {
+      "fine": true,
+      "approach": "Q",
+      "events": [
+        {
+          "frame": 0,
+          "t": 0.02,
+          "mode": "locomotion"
+        },
+        {
+          "frame": 4,
+          "t": 0.10000000000000002,
+          "mode": "standing_hold"
+        },
+        {
+          "frame": 50,
+          "t": 1.0200000000000002,
+          "mode": "locomotion"
+        },
+        {
+          "frame": 119,
+          "t": 2.3999999999999693,
+          "mode": "standing_hold"
+        },
+        {
+          "frame": 189,
+          "t": 3.799999999999815,
+          "mode": "handstand"
+        }
+      ],
+      "frames": 1200,
+      "final_mode": "handstand",
+      "message": "\u6267\u884c handstand",
+      "phase": 20.22,
+      "physics_samples": 20220,
+      "model_timestep_after_step": 0.005,
+      "peak_rear_joint_speed": 9.445038521371318,
+      "peak_front_joint_speed": 5.794076965258148,
+      "deepest_contact_m": -0.00282701189342404,
+      "first_overspeed_s": null,
+      "peak_target_step_rad": 0.1600000262260437,
+      "peak_action_step": 0.5855587124824524,
+      "peak_rear_joint": "RL_thigh_joint",
+      "limit_excursions_rad": {
+        "RL_calf_joint": 0.019480558580836305
+      }
+    }
+  ],
+  "production_H_modified": false
+}

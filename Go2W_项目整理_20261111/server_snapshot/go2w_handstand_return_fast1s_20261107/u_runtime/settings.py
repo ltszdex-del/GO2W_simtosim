@@ -1,0 +1,3 @@
+CONTROL=dict(leg_rate_rad_s=1.2,leg_accel_rad_s2=2.4,goal_velocity_gain=1.4,residual_velocity_rad_s=.5,power_on_ramp_s=.02,release_s=1.,contact_confirm_s=.12,kp=70.,kd=2.5,body_angle_limit_deg=5.,loaded_wheel_limit_deg=10.,attitude_calf_offset_gain=2.,attitude_calf_offset_max_rad=.15,hip_goal_gain=1.8,startup_impact_grace_s=.1)
+REWARDS=dict(progress=1.5,success=12.,failure=15.,level='positive only after height progress',source_pose_idle_reward='-.15/s before motor and velocity costs')
+WHEEL_ALIGNMENT=dict(frame='world',wheels='all four',limit_deg=10.,mode='loaded effort penalty; no lift interlock')

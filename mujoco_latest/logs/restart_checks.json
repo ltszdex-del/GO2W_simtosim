@@ -1,0 +1,50 @@
+[
+  {
+    "second": "W",
+    "failed_step": null,
+    "modes": [
+      "locomotion"
+    ],
+    "final_height": 0.3848651647567749
+  },
+  {
+    "second": "S",
+    "failed_step": null,
+    "modes": [
+      "locomotion"
+    ],
+    "final_height": 0.39232298731803894
+  },
+  {
+    "second": "A",
+    "failed_step": null,
+    "modes": [
+      "locomotion"
+    ],
+    "final_height": 0.39579570293426514
+  },
+  {
+    "second": "D",
+    "failed_step": null,
+    "modes": [
+      "locomotion"
+    ],
+    "final_height": 0.39536383748054504
+  },
+  {
+    "second": "Q",
+    "failed_step": null,
+    "modes": [
+      "locomotion"
+    ],
+    "final_height": 0.3952210247516632
+  },
+  {
+    "second": "E",
+    "failed_step": null,
+    "modes": [
+      "locomotion"
+    ],
+    "final_height": 0.39374515414237976
+  }
+]

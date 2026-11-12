@@ -1,0 +1,71 @@
+{
+  "status": "passed",
+  "steps": 500,
+  "observation_dim": 279,
+  "pd_substeps": 4,
+  "all16_released_effort_zero": true,
+  "max_target_rate": 1.1554837226867676,
+  "max_target_accel": 3.0,
+  "parent_policy_under_new_timing": {
+    "success": 0.0,
+    "reward": -6.309563115437825,
+    "level": 0.0,
+    "timeout": 0.0,
+    "body_tilt": 1.0,
+    "head": 0.0,
+    "wheel": 0.0,
+    "limits": 0.0,
+    "impact": 0.0,
+    "drift": 0.0,
+    "touched_fraction": 1.0,
+    "poweroff_fraction": 0.0,
+    "completed_fraction": 0.0,
+    "on_time_fraction": 0.0,
+    "touch_time_sum_s_per_episode": 1.546666677792867,
+    "poweroff_time_sum_s_per_episode": 0.0,
+    "completion_time_sum_s_per_episode": 0.0
+  },
+  "episodes": 75,
+  "samples": [
+    {
+      "step": 100,
+      "height_mean": 0.29244062304496765,
+      "released": 0.3125,
+      "poweroff": 0.0,
+      "finished": 0.0,
+      "episode": null
+    },
+    {
+      "step": 200,
+      "height_mean": 0.29075464606285095,
+      "released": 0.3125,
+      "poweroff": 0.0,
+      "finished": 0.0,
+      "episode": null
+    },
+    {
+      "step": 300,
+      "height_mean": 0.29038378596305847,
+      "released": 0.0,
+      "poweroff": 0.0,
+      "finished": 0.0,
+      "episode": null
+    },
+    {
+      "step": 400,
+      "height_mean": 0.2976204752922058,
+      "released": 0.0,
+      "poweroff": 0.0,
+      "finished": 0.0,
+      "episode": null
+    },
+    {
+      "step": 500,
+      "height_mean": 0.3225409984588623,
+      "released": 0.0,
+      "poweroff": 0.0,
+      "finished": 0.0,
+      "episode": null
+    }
+  ]
+}

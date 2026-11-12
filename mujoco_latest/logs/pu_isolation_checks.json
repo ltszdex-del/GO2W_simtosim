@@ -1,0 +1,455 @@
+[
+  {
+    "wheel": false,
+    "cycle": 0,
+    "lying_dq_rms": 0.045498983785510067,
+    "standing_dq_rms": 0.008696276163682341,
+    "events": [
+      {
+        "frame": 1,
+        "mode": "locomotion",
+        "motor": "locomotion"
+      },
+      {
+        "frame": 5,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 101,
+        "mode": "locomotion",
+        "motor": "locomotion"
+      },
+      {
+        "frame": 167,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 245,
+        "mode": "lying_down",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 450,
+        "mode": "prone",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 501,
+        "mode": "getting_up",
+        "motor": "getting_up"
+      },
+      {
+        "frame": 594,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      }
+    ]
+  },
+  {
+    "wheel": false,
+    "cycle": 1,
+    "lying_dq_rms": 0.046401568315923215,
+    "standing_dq_rms": 0.008710068305954338,
+    "events": [
+      {
+        "frame": 1,
+        "mode": "locomotion",
+        "motor": "locomotion"
+      },
+      {
+        "frame": 5,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 101,
+        "mode": "locomotion",
+        "motor": "locomotion"
+      },
+      {
+        "frame": 167,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 245,
+        "mode": "lying_down",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 450,
+        "mode": "prone",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 501,
+        "mode": "getting_up",
+        "motor": "getting_up"
+      },
+      {
+        "frame": 594,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 695,
+        "mode": "locomotion",
+        "motor": "locomotion"
+      },
+      {
+        "frame": 768,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 839,
+        "mode": "lying_down",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 1043,
+        "mode": "prone",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 1094,
+        "mode": "getting_up",
+        "motor": "getting_up"
+      },
+      {
+        "frame": 1187,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      }
+    ]
+  },
+  {
+    "wheel": false,
+    "cycle": 2,
+    "lying_dq_rms": 0.04372656237334013,
+    "standing_dq_rms": 0.008442315887659788,
+    "events": [
+      {
+        "frame": 1,
+        "mode": "locomotion",
+        "motor": "locomotion"
+      },
+      {
+        "frame": 5,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 101,
+        "mode": "locomotion",
+        "motor": "locomotion"
+      },
+      {
+        "frame": 167,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 245,
+        "mode": "lying_down",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 450,
+        "mode": "prone",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 501,
+        "mode": "getting_up",
+        "motor": "getting_up"
+      },
+      {
+        "frame": 594,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 695,
+        "mode": "locomotion",
+        "motor": "locomotion"
+      },
+      {
+        "frame": 768,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 839,
+        "mode": "lying_down",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 1043,
+        "mode": "prone",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 1094,
+        "mode": "getting_up",
+        "motor": "getting_up"
+      },
+      {
+        "frame": 1187,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 1288,
+        "mode": "locomotion",
+        "motor": "locomotion"
+      },
+      {
+        "frame": 1353,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 1432,
+        "mode": "lying_down",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 1637,
+        "mode": "prone",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 1688,
+        "mode": "getting_up",
+        "motor": "getting_up"
+      },
+      {
+        "frame": 1782,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      }
+    ]
+  },
+  {
+    "wheel": true,
+    "cycle": 0,
+    "lying_dq_rms": 0.046919813714921474,
+    "standing_dq_rms": 0.008430529311299324,
+    "events": [
+      {
+        "frame": 1,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 101,
+        "mode": "locomotion",
+        "motor": "wheel_drive"
+      },
+      {
+        "frame": 171,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 245,
+        "mode": "lying_down",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 450,
+        "mode": "prone",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 501,
+        "mode": "getting_up",
+        "motor": "getting_up"
+      },
+      {
+        "frame": 595,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      }
+    ]
+  },
+  {
+    "wheel": true,
+    "cycle": 1,
+    "lying_dq_rms": 0.04476633358746767,
+    "standing_dq_rms": 0.008441956052556633,
+    "events": [
+      {
+        "frame": 1,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 101,
+        "mode": "locomotion",
+        "motor": "wheel_drive"
+      },
+      {
+        "frame": 171,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 245,
+        "mode": "lying_down",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 450,
+        "mode": "prone",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 501,
+        "mode": "getting_up",
+        "motor": "getting_up"
+      },
+      {
+        "frame": 595,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 696,
+        "mode": "locomotion",
+        "motor": "wheel_drive"
+      },
+      {
+        "frame": 765,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 840,
+        "mode": "lying_down",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 1045,
+        "mode": "prone",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 1096,
+        "mode": "getting_up",
+        "motor": "getting_up"
+      },
+      {
+        "frame": 1190,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      }
+    ]
+  },
+  {
+    "wheel": true,
+    "cycle": 2,
+    "lying_dq_rms": 0.051142691411077974,
+    "standing_dq_rms": 0.008430792219005525,
+    "events": [
+      {
+        "frame": 1,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 101,
+        "mode": "locomotion",
+        "motor": "wheel_drive"
+      },
+      {
+        "frame": 171,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 245,
+        "mode": "lying_down",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 450,
+        "mode": "prone",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 501,
+        "mode": "getting_up",
+        "motor": "getting_up"
+      },
+      {
+        "frame": 595,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 696,
+        "mode": "locomotion",
+        "motor": "wheel_drive"
+      },
+      {
+        "frame": 765,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 840,
+        "mode": "lying_down",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 1045,
+        "mode": "prone",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 1096,
+        "mode": "getting_up",
+        "motor": "getting_up"
+      },
+      {
+        "frame": 1190,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 1291,
+        "mode": "locomotion",
+        "motor": "wheel_drive"
+      },
+      {
+        "frame": 1360,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      },
+      {
+        "frame": 1435,
+        "mode": "lying_down",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 1640,
+        "mode": "prone",
+        "motor": "lying_down"
+      },
+      {
+        "frame": 1691,
+        "mode": "getting_up",
+        "motor": "getting_up"
+      },
+      {
+        "frame": 1785,
+        "mode": "standing_hold",
+        "motor": "standing_hold"
+      }
+    ]
+  }
+]

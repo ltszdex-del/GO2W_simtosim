@@ -1,0 +1,4 @@
+# Optional: regenerate the MJCF from URDF and the USD terrain.
+-r requirements.txt
+scipy>=1.10
+usd-core>=24.8

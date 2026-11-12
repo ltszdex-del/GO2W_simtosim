@@ -1,0 +1,123 @@
+{
+  "imported_at": "2026-11-12T14:01:49.724335+08:00",
+  "policies": {
+    "handstand": {
+      "factory": "handstand_student_adapter:create",
+      "checkpoint": "__GO2W_WORKSPACE__/mujoco_latest/policies/handstand_targeted_20261112/logs/targeted1000/student_999.pt",
+      "student_training_root": "__GO2W_WORKSPACE__/mujoco_latest/policies/handstand_targeted_20261112"
+    }
+  },
+  "checkpoint_sha256": "7301769ab21e881357f4ab1c81e8778b2eed21277a43426c982455af639ac1a7",
+  "teacher_sha256": "6a8978ed66ebd850072a689d6f57694946e818fd812fb835c8a478be30d65eaa",
+  "training": {
+    "targeted_updates": 1000,
+    "num_envs": 2048,
+    "teacher_iteration": 4179,
+    "warm_student_sha256": "5bd64542fd74f52534c465f7836b983305a46a799fee95f908334593e2382882"
+  },
+  "isaac_evaluation20s": {
+    "teacher": {
+      "survival_rate": 1.0,
+      "success_rate": 1.0,
+      "windows": {
+        "common_hold": {
+          "gravity_x": 0.9707360712687174,
+          "action_mse": 3.7711826568435454e-05,
+          "slip_rms": 0.10071062960003306,
+          "axle_speed_rms": 0.3052820182949075,
+          "anchor_error_rms": 0.09153536809034145,
+          "wheel_dq_rms": 4.643005289816241
+        },
+        "late": {
+          "gravity_x": 0.998938066403071,
+          "action_mse": 8.900571976482751e-06,
+          "slip_rms": 0.1066896624472141,
+          "axle_speed_rms": 0.4271034653811094,
+          "anchor_error_rms": 0.31762019073144904,
+          "wheel_dq_rms": 6.512712856531262
+        }
+      }
+    },
+    "student": {
+      "survival_rate": 1.0,
+      "success_rate": 1.0,
+      "windows": {
+        "common_hold": {
+          "gravity_x": 0.972017092704773,
+          "action_mse": 3.553510873947137e-05,
+          "slip_rms": 0.09345068618944506,
+          "axle_speed_rms": 0.3132822803758228,
+          "anchor_error_rms": 0.0901405732993151,
+          "wheel_dq_rms": 4.836813600850981
+        },
+        "late": {
+          "gravity_x": 0.9990171443621317,
+          "action_mse": 1.607286205762648e-05,
+          "slip_rms": 0.09775394591496768,
+          "axle_speed_rms": 0.42686578928243246,
+          "anchor_error_rms": 0.3034326466510417,
+          "wheel_dq_rms": 6.535424137453725
+        }
+      }
+    }
+  },
+  "mujoco_checks": [
+    {
+      "case": "idle",
+      "report": "__GO2W_WORKSPACE__/mujoco_latest\\logs\\handstand_targeted999_idle.json",
+      "sha256": "ef43cecdf8a5c600471365e16cd698be3b1f7b0f62e8839a1ec40e18dcfe1628",
+      "standing_leg_rms": [
+        0.007538139587268233,
+        0.007627897402271628
+      ]
+    },
+    {
+      "case": "W",
+      "report": "__GO2W_WORKSPACE__/mujoco_latest\\logs\\handstand_targeted999_W.json",
+      "sha256": "fe761aa7a6943254c80b5c731248e97359d694e79d244a76b74649316a7294a9",
+      "standing_leg_rms": [
+        0.007522684391587973,
+        0.007666194690391421
+      ]
+    },
+    {
+      "case": "Q",
+      "report": "__GO2W_WORKSPACE__/mujoco_latest\\logs\\handstand_targeted999_Q.json",
+      "sha256": "4ae457467f757471d8f72e00dfd8016ad81759ac51e9ded47c300a1f2952656a",
+      "standing_leg_rms": [
+        0.007734335167333484,
+        0.007049969071522355
+      ]
+    },
+    {
+      "case": "E",
+      "report": "__GO2W_WORKSPACE__/mujoco_latest\\logs\\handstand_targeted999_E.json",
+      "sha256": "5b19fc8ff8bbfe3be0c87f406c012d0020dc36513d85c5038f1f5cd4c2c9237a",
+      "standing_leg_rms": [
+        0.007977492492645979,
+        0.008402200313284994
+      ]
+    },
+    {
+      "case": "E_turn150",
+      "report": "__GO2W_WORKSPACE__/mujoco_latest\\logs\\handstand_targeted999_E_turn150.json",
+      "sha256": "dd26104bff800c437029797d71515d6bfb49649904d5d423fa39f3188dcc6af8",
+      "standing_leg_rms": [
+        0.007559067420661449,
+        0.0077368325646966695
+      ]
+    },
+    {
+      "case": "wheel",
+      "report": "__GO2W_WORKSPACE__/mujoco_latest\\logs\\handstand_targeted999_wheel.json",
+      "sha256": "06f815f7ea145bff86d161f065bb38d22386b7f054bb0c6229bd86187d09892e",
+      "standing_leg_rms": [
+        0.007660899953916669,
+        0.007590126153081656
+      ]
+    }
+  ],
+  "config_backup": "__GO2W_WORKSPACE__/mujoco_latest\\backups\\before_targeted_student999_20261112_140149",
+  "original_job_exit": "training updates complete; automatic evaluation failed due to inference-mode reset; separate evaluation succeeded",
+  "separate_evaluation_report": "__GO2W_WORKSPACE__/mujoco_latest\\handstand_distill_20261112\\targeted_isaac20s.json"
+}

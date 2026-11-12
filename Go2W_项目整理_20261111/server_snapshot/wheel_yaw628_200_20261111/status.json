@@ -1,0 +1,7 @@
+{
+  "state": "complete",
+  "checkpoint": "/home/ubuntu/Go2W/go2w_wheel_yaw628_200_20261111/logs/train/policy_3624.pt",
+  "goal_iteration": 3624,
+  "num_envs": 4096,
+  "time_utc": "2026-11-11T06:18:11.218433+00:00"
+}

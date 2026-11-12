@@ -1,0 +1,17 @@
+{
+  "teacher": {
+    "trials": 2048,
+    "success_rate": 0.99755859375,
+    "survival_rate": 0.99755859375,
+    "mean_hold_fraction": 0.998296856880188,
+    "online_action_mse": 0.0
+  },
+  "student": {
+    "trials": 2048,
+    "success_rate": 0.99853515625,
+    "survival_rate": 0.99853515625,
+    "mean_hold_fraction": 0.998958945274353,
+    "online_action_mse": 0.00017449993174523115
+  },
+  "passed": true
+}

@@ -1,0 +1,14 @@
+{
+  "pid": 5186,
+  "folder": "/home/ubuntu/Go2W/interactive_latest_test_20261110/logs/test_stream_20261111T062401Z",
+  "policies": {
+    "locomotion": "/home/ubuntu/Go2W/go2w_step_rearfix600_20261111/logs/train/policy_10274.pt",
+    "handstand": "/home/ubuntu/Go2W/go2w_handstand_currentU80_20261108/logs/train80/teacher_4179.pt",
+    "lying_down": "/home/ubuntu/Go2W/pu_ppo_p_fromU1050_200_20261106/logs/P_fromU1050_scratch200/final.pt",
+    "getting_up": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/logs/U_vertical_resume100/final.pt",
+    "standing_hold": "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/logs/U_vertical_resume100/final.pt",
+    "handstand_return": "/home/ubuntu/Go2W/go2w_handstand_return_fast1s_20261107/logs/fast_resume200/policy_0349.pt",
+    "wheel_locomotion": "/home/ubuntu/Go2W/go2w_wheel_yaw628_200_20261111/logs/train/policy_3624.pt"
+  },
+  "config_sha256": "aad8d7def6f96b8a03a328b4daa7bf4c69f28f68e449f310faedf15175139a26"
+}

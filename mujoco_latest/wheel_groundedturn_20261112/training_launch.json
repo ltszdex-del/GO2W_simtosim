@@ -1,0 +1,33 @@
+{
+  "created_utc": "2026-11-11T18:00:45.612685+00:00",
+  "root": "/home/ubuntu/Go2W/go2w_wheel_groundedturn200_20261112",
+  "parent": "/home/ubuntu/Go2W/go2w_wheel_speed250_turn150_20261112/logs/train/policy_4024.pt",
+  "parent_sha256": "329e4f538e7315971c13a2a4be355e5dca3b274b4d00280aed3ec93580b43738",
+  "parent_iteration": 4024,
+  "expected_final_iteration": 4224,
+  "updates": 200,
+  "num_envs": 4096,
+  "preflight_updates": 4,
+  "preflight_num_envs": 64,
+  "preflight_weights_not_used_for_training": true,
+  "matched_evaluation_num_envs": 1024,
+  "sampling": {
+    "forward_high_QE": 0.5,
+    "forward_low_QE": 0.2,
+    "reverse_QE": 0.1,
+    "straight": 0.1,
+    "pure_QE": 0.1
+  },
+  "preserved_optimizer": true,
+  "control_and_command_limits_unchanged": true,
+  "source_override_sha256": {
+    "learning.py": "28c135dead0c0d987aaba3b1e0c573d54e1664cc810d94b8f94993321f7588ec",
+    "env.py": "83b5ec91684f1685c09c740dc27ad314a78bbfabcee0246776b6a11cfc2d0238",
+    "turn_gate.py": "12a3ee8d9b6cba6fea846323e6c6b6e54607f253031cf101cad6f42d05bc0ad0",
+    "config.py": "edc553a577d24e75770e77aaa4303b829bb00166fd964d35aa3bd6a3ae8464e7",
+    "training_schedule.py": "16e3a0073b5a61356d7f93914d4ed4455eaa27dd91a9c6c8834d08a6173e9812",
+    "turn_contact.py": "3ee37190737edb5847c35a84de7309925bc5c710e7a10fcb03610bd8a707c478",
+    "evaluate_contact.py": "9b62e3404ee5424d5505095dbb7e49bfe6f4d2515787a9341522fb05a9939d36"
+  },
+  "supervisor_pid": 1342
+}

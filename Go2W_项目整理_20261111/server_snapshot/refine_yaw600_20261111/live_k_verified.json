@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "live_low_limits": {
+    "min_forward_m_s": -0.75,
+    "max_forward_m_s": 1.15,
+    "max_lateral_m_s": 0.65,
+    "max_yaw_rad_s": 0.8,
+    "forward_accel_m_s2": 2.0,
+    "backward_accel_m_s2": 2.0,
+    "lateral_accel_m_s2": 1.0,
+    "translation_accel_limit_m_s2": 2.23606797749979,
+    "forward_brake_m_s2": 9.2,
+    "lateral_brake_m_s2": 5.2,
+    "yaw_accel_rad_s2": 2.25,
+    "yaw_brake_rad_s2": 3.6,
+    "wheel_reference_speed_m_s": 0.0,
+    "wheel_envelope_lever": 0.0,
+    "yaw_cruise_limit_rad_s": 0.8,
+    "yaw_speed_decay": 3.0,
+    "current_yaw_rad_s": 0.8
+  },
+  "restored_high": true,
+  "physics_step": 480
+}

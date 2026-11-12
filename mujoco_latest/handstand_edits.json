@@ -1,0 +1,48 @@
+{
+  "handstand_adapter.py": {
+    "source_sha256": "3d70d707d69b996c38cc071b9468802b37a740f9e739ac2abab7a4aaa0496183",
+    "target_sha256": "3953ed54c4e317bc8abcae87a8d24a4e3bb929935415590e4f290c4a3c512d1a",
+    "edits": [
+      {
+        "before": "\"\"\"3799 handstand adapter. Reuses its immutable observation and 200 Hz controller code.\"\"\"\nimport hashlib\nimport importlib\nimport sys\nfrom pathlib import Path\n",
+        "after": "\"\"\"Verified H policy; original control laws with local 1 ms motor integration.\"\"\"\nimport hashlib\nimport importlib\nimport json\nimport math\nimport sys\nfrom pathlib import Path\n"
+      },
+      {
+        "before": "            assert hashlib.sha256((code/'go2w_mimic'/name).read_bytes()).hexdigest()==digest,name\n        assert hashlib.sha256(Path(spec['motion']).read_bytes()).hexdigest()==self.saved['motion_sha256']\n        assets=Path(spec['asset_root'])\n        if hashlib.sha256((assets/'urdf/go2w_description.urdf').read_bytes()).hexdigest()!=self.saved['urdf_sha256']:\n",
+        "after": "            assert hashlib.sha256((code/'go2w_mimic'/name).read_bytes()).hexdigest()==digest,name\n        assert hashlib.sha256(Path(spec['motion']).read_bytes()).hexdigest()==self.saved['motion_sha256']\n        start=code/'U_final_standing.json'\n        assert hashlib.sha256(start.read_bytes()).hexdigest()==self.saved['initial_standing_sha256']\n        x,y,z,w=json.loads(start.read_text())['root_pose'][3:]\n        self.training_heading=math.atan2(2*(w*z-x*y),1-2*(x*x+z*z))\n        assets=Path(spec['asset_root'])\n        if hashlib.sha256((assets/'urdf/go2w_description.urdf').read_bytes()).hexdigest()!=self.saved['urdf_sha256']:\n"
+      },
+      {
+        "before": "        self.networks=importlib.import_module('go2w_mimic.networks')\n        self.failure=None\n\n    def load(self):\n",
+        "after": "        self.networks=importlib.import_module('go2w_mimic.networks')\n        self.failure=None\n        self.manifest['local_mujoco_integration']=dict(control_dt=.02,outer_dt=.005,\n            motor_solver_dt=.001,motor_updates=20,contact_updates=4)\n        self.manifest['local_heading_frame']='entry-relative, offset by verified training start heading'\n\n    def load(self):\n"
+      },
+      {
+        "before": "        ctx.episode_length_buf=torch.zeros(1,dtype=torch.long,device=dev)\n        ctx.bad_time=z(1);ctx.low_time=z(1);ctx.max_episode_length=10**9;ctx._pd_substeps=None\n        for name in ('ref','physical','wheel_guard','heading','stable_heading','anchor_error','blocks',\n                     '_get_observations','_pre_physics_step','_apply_action','_get_dones'):\n            setattr(ctx,name,MethodType(getattr(self.module.MimicEnv,name),ctx))\n        self.ctx=ctx;self.failure=None\n        env.set_handstand_context(ctx)\n",
+        "after": "        ctx.episode_length_buf=torch.zeros(1,dtype=torch.long,device=dev)\n        ctx.bad_time=z(1);ctx.low_time=z(1);ctx.max_episode_length=10**9;ctx._pd_substeps=None\n        ctx.local_motor_subdivisions=5\n        for name in ('ref','physical','wheel_guard','heading','stable_heading','anchor_error','blocks',\n                     '_get_observations','_pre_physics_step','_apply_action','_get_dones'):\n            setattr(ctx,name,MethodType(getattr(self.module.MimicEnv,name),ctx))\n        # Training starts near one world heading; mobility can enter H at any yaw.\n        # Rebase only the actor's sin/cos heading. Keep the world heading intact\n        # for physical anchor geometry and the return controller's heading goal.\n        ctx.local_entry_heading=ctx.stable_heading().clone()\n        def policy_heading(c):\n            delta=c.stable_heading()-c.local_entry_heading+self.training_heading\n            return torch.atan2(delta.sin(),delta.cos())\n        ctx.heading=MethodType(policy_heading,ctx)\n        self.ctx=ctx;self.failure=None\n        env.set_handstand_context(ctx)\n"
+      },
+      {
+        "before": "    def apply(self,action,dt):\n        assert abs(dt-.02)<1e-9\n        self.ctx._pre_physics_step(action)\n        return dict(leg_pos_rad=self.ctx.target,wheel_vel_rad_s=self.ctx.wheel_target)\n",
+        "after": "    def apply(self,action,dt):\n        assert abs(dt-.02)<1e-9\n        # Original source checks four outer 5 ms ticks. Each now contains\n        # five actual motor/solver updates; preserve that check without changing\n        # the immutable controller or hiding the environment's real update count.\n        if self.ctx._pd_substeps is not None:\n            if self.ctx._pd_substeps!=20:raise RuntimeError('H requires 20 local motor updates per action')\n            self.ctx._pd_substeps=4\n        self.ctx._pre_physics_step(action)\n        return dict(leg_pos_rad=self.ctx.target,wheel_vel_rad_s=self.ctx.wheel_target)\n"
+      }
+    ]
+  },
+  "return_adapter.py": {
+    "source_sha256": "fb7ee1da05d0dfbfa7f13d1ea30d906f7a17568977bd4ac6f62d602fe07b2ac3",
+    "target_sha256": "1110f0b0c6b07a32cfa9daafa8626ad9ebfa2344dbe0a0c64f0b0b0ae2702f55",
+    "edits": [
+      {
+        "before": "        env=self.env;h=env.handstand_context\n        if h is None or not hasattr(h,'motion'):raise ValueError('Return requires active H policy context')\n        # Preserve the running H state for the original torque handoff.\n        from go2w_mimic.networks import Teacher\n",
+        "after": "        env=self.env;h=env.handstand_context\n        if h is None or not hasattr(h,'motion'):raise ValueError('Return requires active H policy context')\n        # First return step consumes the final 1 ms H interval. The original\n        # nested H controller counts four outer ticks in subsequent intervals.\n        if getattr(h,'local_motor_subdivisions',1)==5 and h._pd_substeps==20:\n            h._pd_substeps=4\n        # Preserve the running H state for the original torque handoff.\n        from go2w_mimic.networks import Teacher\n"
+      }
+    ]
+  },
+  "control.py": {
+    "source_sha256": "3ede787bc2e1a78efe9ec97972ea94be673f0d77d6b8185390a8ef4e9b3dec09",
+    "target_sha256": "2b360a4a6d31e8866e882011ba37d8e06c4abee19450f67d08542a9d08a30bc7",
+    "edits": [
+      {
+        "before": "        \"\"\"Shared endpoint for U completion and the low-speed gate; no get-up replay.\"\"\"\n        if 'standing_hold' not in self.adapters:return False\n        self.adapters['standing_hold'].local_pu_scope=(self.pending!='handstand' and self.mode!='handstand_return')\n        self._activate('standing_hold',state,preserve_command=True)\n        return True\n",
+        "after": "        \"\"\"Shared endpoint for U completion and the low-speed gate; no get-up replay.\"\"\"\n        if 'standing_hold' not in self.adapters:return False\n        self.adapters['standing_hold'].local_pu_scope=True\n        self._activate('standing_hold',state,preserve_command=True)\n        return True\n"
+      }
+    ]
+  }
+}

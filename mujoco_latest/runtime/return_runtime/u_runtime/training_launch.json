@@ -1,0 +1,29 @@
+{
+  "pid": 36120,
+  "command": [
+    "/home/ubuntu/envs/isaac62/bin/python",
+    "-u",
+    "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/train.py",
+    "--task",
+    "U",
+    "--checkpoint",
+    "/home/ubuntu/Go2W/pu_ppo_u_fast3s_20261106/logs/U_fast3s_resume300/final.pt",
+    "--num_envs",
+    "1024",
+    "--max_iterations",
+    "100",
+    "--seed",
+    "47",
+    "--log_dir",
+    "/home/ubuntu/Go2W/pu_ppo_u_vertical100_20261106/logs/U_vertical_resume100",
+    "--livestream",
+    "0",
+    "--visualizer",
+    "none"
+  ],
+  "parent_checkpoint": "/home/ubuntu/Go2W/pu_ppo_u_fast3s_20261106/logs/U_fast3s_resume300/final.pt",
+  "parent_iteration": 1000,
+  "additional_iterations": 100,
+  "target_total_iterations": 1100,
+  "started_utc": "2026-11-06T12:31:44.555777+00:00"
+}

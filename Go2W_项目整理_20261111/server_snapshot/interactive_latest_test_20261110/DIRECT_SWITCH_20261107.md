@@ -1,0 +1,1 @@
+Keep policy_3699.pt. Direct WASD <-> U standing_hold switching: enter reference norm <0.1m/s and actual norm <0.4m/s; leave reference norm >0.1m/s. No braking/leg-collection controller, no dwell gate, no torque/damping crossfade. U training failure masks do not stop interactive rollouts. R reset retained. Background training unchanged.

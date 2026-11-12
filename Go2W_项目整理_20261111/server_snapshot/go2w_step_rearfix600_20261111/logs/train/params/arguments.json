@@ -1,0 +1,21 @@
+{
+  "mode": "train",
+  "iterations": 600,
+  "num_envs": 2048,
+  "checkpoint": "/home/ubuntu/Go2W/go2w_step_rearfix600_20261111/resume/parent.pt",
+  "stage": 1,
+  "log_dir": "/home/ubuntu/Go2W/go2w_step_rearfix600_20261111/logs/train",
+  "livestream": 0,
+  "xr": false,
+  "device": "cuda:0",
+  "visualizer": null,
+  "verbose": false,
+  "info": false,
+  "experience": "",
+  "deterministic": false,
+  "kit_args": "",
+  "anim_recording_enabled": false,
+  "anim_recording_start_time": 0,
+  "anim_recording_stop_time": 10,
+  "device_explicit": true
+}

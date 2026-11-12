@@ -1,0 +1,5 @@
+{
+  "kind": "step",
+  "checkpoint": "/home/ubuntu/Go2W/go2w_step_followup_20261111/logs/train/policy_9599.pt",
+  "action_parity_error": 0.0
+}

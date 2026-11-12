@@ -1,0 +1,5 @@
+{
+  "kind": "wheel",
+  "checkpoint": "/home/ubuntu/Go2W/go2w_wheel_followup_20261111/logs/train/policy_2399.pt",
+  "action_parity_error": 0.0
+}

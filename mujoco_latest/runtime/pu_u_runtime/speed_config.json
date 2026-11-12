@@ -1,0 +1,39 @@
+{
+  "parent_checkpoint": "/home/ubuntu/Go2W/pu_ppo_u_fast3s_20261106/logs/U_fast3s_resume300/final.pt",
+  "parent_iteration": 1000,
+  "target_rise_s": 2.3,
+  "deadline_s": 3.0,
+  "standing_hold_s": 1.0,
+  "target_rate_rad_s": 1.2,
+  "target_accel_rad_s2": 2.4,
+  "goal_velocity_gain": 1.4,
+  "residual_velocity_rad_s": 0.5,
+  "hip_goal_gain": 1.8,
+  "mid_ascent_vertical_speed_allowance_m_s": 0.3,
+  "standing_vertical_speed_allowance_m_s": 0.08,
+  "self_collision": true,
+  "body_angle_limit_deg": 5.0,
+  "wheel_limit_deg": 5.0,
+  "symmetry_limit_deg": 5.0,
+  "feet_mirror_limit_m": 0.02,
+  "extra_reward_weights": {
+    "height_schedule": 2.0,
+    "on_time_completion": 8.0,
+    "standing_stable": 4.0,
+    "unfinished_time": -0.5,
+    "deadline_delay": -1.5
+  },
+  "deadline_delay_ramp_cap_s": 1.0,
+  "wheel_soft_target_deg": 3.0,
+  "standing_hip_kp": 210.0,
+  "standing_hip_kd": 6.0,
+  "upright_ramp_height_m": [
+    0.25,
+    0.35
+  ],
+  "wheel_extra_weights": {
+    "zero_lean": 2.0,
+    "over3deg": 8.0
+  },
+  "standing_axle_feedback_gain": 3.6
+}

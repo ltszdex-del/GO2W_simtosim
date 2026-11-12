@@ -1,0 +1,39 @@
+from pathlib import Path
+ROOT=Path(__file__).resolve().parent
+FRAME=115
+HISTORY=5
+ACTOR_DIM=FRAME*HISTORY
+ACTION_DIM=16
+DT=.005
+DECIMATION=4
+CONTROL_DT=.02
+CONTROL=dict(kp=70.,kd=2.5,wheel_kd=.2,effort_nm=23.5,leg_rate=6.,leg_acceleration=45.,handoff_leg_rate=4.,
+    leg_residual=.55,hip_residual=.12,wheel_scale=8.,wheel_acceleration=40.,wheel_speed_limit=18.,
+    rear_landing_kp=45.,rear_landing_kd=4.5,rear_softening_seconds=.15,
+    front_wheel_pitch_kp=0.,front_wheel_pitch_kd=0.,front_wheel_descent_bias=0.,
+    front_joint_time_blend=.2,U_motor_blend_time_s=.06,
+    teacher_motor_crossfade_s=.12,
+    rear_prepare_s=.35,rear_prepare_pitch_multiplier=1.8,
+    U_blend_pitch_scale_rad=.45,U_blend_requires_rear_support=True)
+TASK=dict(warmup_min_s=.4,warmup_max_s=2.5,warmup_extra_timeout_s=.8,
+    jitter_leg_rms_rad_s=.65,jitter_body_angular_rad_s=.30,jitter_wheel_rms_rad_s=3.,
+    guidance_easy_s=.65,guidance_hard_s=.65,recovery_timeout_s=1.,success_hold_s=.10,
+    require_soft_landing_for_success=False,
+    allowed_air_s=.16,fail_air_s=.45,fail_height_min_m=.20,fail_height_max_m=.85,
+    front_axis_penalty_rad=.174533,front_axis_fail_rad=.349066,front_axis_fail_time_s=.08,
+    stand_angle_rad=.0872665,stand_height_error_m=.03,stand_joint_rms_rad=.16,
+    stand_horizontal_speed_m_s=.20,stand_vertical_speed_m_s=.15,
+    stand_pose_angular_speed_rad_s=.60,stand_heading_error_rad=.12,
+    rear_touch_speed_target_m_s=.30,rear_impact_target_bodyweights=1.25,
+    success_rear_touch_speed_m_s=.60,success_rear_peak_bodyweights=1.75,fail_rear_peak_bodyweights=6.,
+    fixed_mass_randomization_fraction=.04,fixed_friction_range=[.72,.88])
+REWARDS=dict(pitch_tracking=4.,height_tracking=1.,joint_guidance=.6,return_progress=2.,
+    standing_pose=4.,four_feet=1.5,standing_hold=5.,rear_soft_touch_bonus=0.,success_bonus=20.,speed_success_bonus=8.,failure=-30.,
+    heading=-3.,body_symmetry=-1.2,body_roll=-2.,horizontal_yaw_rate=-.5,front_axle_speed=-.4,rear_landing_direction=-1.5,
+    front_coaxial=-1.,rear_coaxial=-1.,rear_axis_parallel=-.8,sagittal_tilt=-1.2,sagittal_roll_rate=-.3,
+    rear_lateral_offset=-1.,rear_touch_sync=-.5,rear_approach_speed=-.05,wheel_clearance=-1.,angular_speed=-.08,pose_angular_speed=-.25,descent_speed=-.08,
+    touchdown_speed=-.05,rear_impact=-.05,force_slew=-.01,air_excess=-2.,
+    action_rate=-.08,settled_action_rate=-2.,joint_speed=-.04,wheel_speed=-.02,
+    torque=-.02,front_parallel=-.8,front_travel=-.5,standing_translation=-1.,slip=-.1,time=-2.)
+PPO=dict(steps=64,epochs=5,minibatches=4,gamma=.995,lam=.95,clip=.2,lr=3e-4,
+    entropy=.0007,grad_clip=1.,initial_std=.30,min_std=.10,max_std=.35)

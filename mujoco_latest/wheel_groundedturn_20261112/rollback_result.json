@@ -1,0 +1,13 @@
+{
+  "state": "rolled_back",
+  "updated_at": "2026-11-11T18:27:03.164013+00:00",
+  "active_iteration": 4024,
+  "active_checkpoint": "E:\\CODEX PROJ\\IS\\mujoco_latest\\policies\\wheel_speed250_20261112\\go2w_wheel_speed250_turn150_20261112\\logs\\train\\policy_4024.pt",
+  "backup": "E:\\CODEX PROJ\\IS\\mujoco_latest\\backups\\before_wheel_rollback_4024_20261112_022654",
+  "disabled_grounded_override": true,
+  "all_seven_policies_loaded": true,
+  "start_stop_passed": true,
+  "final_mode": "standing_hold",
+  "other_settings_preserved": true,
+  "runtime_rebuild_persistence_verified": true
+}

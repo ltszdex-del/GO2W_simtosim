@@ -1,0 +1,38 @@
+[
+  {
+    "key": "W",
+    "passed": true,
+    "profile": "stepping",
+    "mode": "locomotion"
+  },
+  {
+    "key": "S",
+    "passed": true,
+    "profile": "stepping",
+    "mode": "locomotion"
+  },
+  {
+    "key": "A",
+    "passed": true,
+    "profile": "stepping",
+    "mode": "locomotion"
+  },
+  {
+    "key": "D",
+    "passed": true,
+    "profile": "stepping",
+    "mode": "locomotion"
+  },
+  {
+    "key": "Q",
+    "passed": true,
+    "profile": "stepping",
+    "mode": "locomotion"
+  },
+  {
+    "key": "E",
+    "passed": true,
+    "profile": "stepping",
+    "mode": "locomotion"
+  }
+]

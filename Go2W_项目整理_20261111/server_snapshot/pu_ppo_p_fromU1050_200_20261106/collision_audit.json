@@ -1,0 +1,73 @@
+{
+  "source": "Unmodified base.dae, including scene transforms; conservative convex hulls of three clipped regions. No visual geometry removed.",
+  "old_urdf_sha256": "3dacc5ca576a5e3f6c01613840591a7a9214e221af33b67f909adb477d96e19a",
+  "new_urdf_sha256": "0ac7e7456a91ba04b64ac81c17afaa75598f1edd738e204ef899556e5551eb12",
+  "visual_bounds": [
+    [
+      -0.12799790501594543,
+      -0.09722297785282674,
+      -0.09683901386164376
+    ],
+    [
+      0.33195799589157104,
+      0.09677696667881122,
+      0.08883398328690617
+    ]
+  ],
+  "old_torso_bottom": -0.057,
+  "old_lower_head_bottom": -0.12,
+  "parts": {
+    "base": {
+      "bounds_root": [
+        [
+          -0.12799790501594543,
+          -0.09722297785282674,
+          -0.0961589891957382
+        ],
+        [
+          0.2,
+          0.09677696667881122,
+          0.08643140402721754
+        ]
+      ],
+      "vertices": 749,
+      "volume_m3": 0.008243311392810917,
+      "watertight": true
+    },
+    "Head_upper": {
+      "bounds_root": [
+        [
+          0.2,
+          -0.06464100032921657,
+          -0.02
+        ],
+        [
+          0.33195799589157104,
+          0.06419598124613404,
+          0.08883398328690617
+        ]
+      ],
+      "vertices": 953,
+      "volume_m3": 0.000922679229415382,
+      "watertight": true
+    },
+    "Head_lower": {
+      "bounds_root": [
+        [
+          0.2,
+          -0.04660036477378053,
+          -0.09683901386164376
+        ],
+        [
+          0.3302040100097656,
+          0.04615437927450862,
+          -0.02
+        ]
+      ],
+      "vertices": 254,
+      "volume_m3": 0.0005008704066648381,
+      "watertight": true
+    }
+  },
+  "note": "Original torso box bottom was about39mm above the visible belly; lower head sphere bottom about23mm below visible head. Mass, inertia, joint limits and gravity unchanged."
+}

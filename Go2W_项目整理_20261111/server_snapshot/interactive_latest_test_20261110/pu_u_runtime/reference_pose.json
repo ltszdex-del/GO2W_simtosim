@@ -1,0 +1,83 @@
+{
+  "source": "/home/ubuntu/Go2W/pronereference.usd",
+  "sha256": "43c5a1e78a0d5429c9c65974b06b0ed50ab7502fb1855c11bfde5b2383fa9258",
+  "joints": {
+    "FR_hip_joint": {
+      "degrees": -23.794734954833984,
+      "radians": -0.41529646960123723
+    },
+    "FR_thigh_joint": {
+      "degrees": 56.45581817626953,
+      "radians": 0.9853399090831637
+    },
+    "FR_calf_joint": {
+      "degrees": -155.00743103027344,
+      "radians": -2.7053900365362975
+    },
+    "FR_foot_joint": {
+      "degrees": 115.09416961669922,
+      "radians": 2.008772209660221
+    },
+    "FL_hip_joint": {
+      "degrees": 24.080738067626953,
+      "radians": 0.42028816559042725
+    },
+    "FL_thigh_joint": {
+      "degrees": 57.11785888671875,
+      "radians": 0.9968946992627451
+    },
+    "FL_calf_joint": {
+      "degrees": -154.94674682617188,
+      "radians": -2.704330897370773
+    },
+    "FL_foot_joint": {
+      "degrees": 115.56517791748047,
+      "radians": 2.016992855313078
+    },
+    "RR_hip_joint": {
+      "degrees": -37.19298553466797,
+      "radians": -0.6491400562265797
+    },
+    "RR_thigh_joint": {
+      "degrees": 58.05532455444336,
+      "radians": 1.0132565617889466
+    },
+    "RR_calf_joint": {
+      "degrees": -152.51324462890625,
+      "radians": -2.6618582716739714
+    },
+    "RR_foot_joint": {
+      "degrees": 106.91014862060547,
+      "radians": 1.8659340972260394
+    },
+    "RL_hip_joint": {
+      "degrees": 37.31853103637695,
+      "radians": 0.6513312385924696
+    },
+    "RL_thigh_joint": {
+      "degrees": 57.96192932128906,
+      "radians": 1.0116265074647364
+    },
+    "RL_calf_joint": {
+      "degrees": -152.3837127685547,
+      "radians": -2.659597514224603
+    },
+    "RL_foot_joint": {
+      "degrees": 108.28936004638672,
+      "radians": 1.8900058776870476
+    }
+  },
+  "base_world_xyz": [
+    -0.01042525377124548,
+    0.0018398900283500552,
+    -0.4556958079338074
+  ],
+  "base_xyzw": [
+    5.4145191123445724e-06,
+    -0.0456969701768413,
+    0.0027530078366943735,
+    0.9989515542984009
+  ],
+  "ground_z": -0.5404611068246663,
+  "root_height_above_ground": 0.08476529889085893
+}

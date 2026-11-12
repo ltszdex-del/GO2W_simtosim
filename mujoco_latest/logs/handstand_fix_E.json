@@ -1,0 +1,82 @@
+{
+  "case": "E",
+  "passed": true,
+  "held": [
+    {
+      "cycle": 0,
+      "seconds": 20.0,
+      "peak_rear_speed": 6.581088066101074
+    },
+    {
+      "cycle": 1,
+      "seconds": 10.0,
+      "peak_rear_speed": 6.615406513214111
+    }
+  ],
+  "standing_leg_rms": [
+    0.007561726113781333,
+    0.007439857991412282
+  ],
+  "events": [
+    {
+      "frame": 1,
+      "mode": "locomotion",
+      "motor": "locomotion"
+    },
+    {
+      "frame": 5,
+      "mode": "standing_hold",
+      "motor": "standing_hold"
+    },
+    {
+      "frame": 101,
+      "mode": "locomotion",
+      "motor": "locomotion"
+    },
+    {
+      "frame": 178,
+      "mode": "standing_hold",
+      "motor": "standing_hold"
+    },
+    {
+      "frame": 265,
+      "mode": "handstand",
+      "motor": "handstand"
+    },
+    {
+      "frame": 1266,
+      "mode": "handstand_return",
+      "motor": "handstand_return"
+    },
+    {
+      "frame": 1311,
+      "mode": "standing_hold",
+      "motor": "standing_hold"
+    },
+    {
+      "frame": 1426,
+      "mode": "handstand",
+      "motor": "handstand"
+    },
+    {
+      "frame": 1927,
+      "mode": "handstand_return",
+      "motor": "handstand_return"
+    },
+    {
+      "frame": 1974,
+      "mode": "standing_hold",
+      "motor": "standing_hold"
+    },
+    {
+      "frame": 2075,
+      "mode": "locomotion",
+      "motor": "locomotion"
+    },
+    {
+      "frame": 2148,
+      "mode": "standing_hold",
+      "motor": "standing_hold"
+    }
+  ]
+}

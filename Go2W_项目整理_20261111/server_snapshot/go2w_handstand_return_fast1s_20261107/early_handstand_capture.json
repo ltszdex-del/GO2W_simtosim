@@ -1,0 +1,26 @@
+{
+  "states": 32,
+  "candidate_counts": [
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16
+  ],
+  "capture_window": "first physical supported handstand through +0.30s, retain lowest measured motion scores",
+  "pitch_range": [
+    1.4867864847183228,
+    1.58253812789917
+  ],
+  "leg_rms_range": [
+    1.6330769062042236,
+    1.85274338722229
+  ],
+  "angular_speed_range": [
+    0.3427989184856415,
+    0.5386478900909424
+  ]
+}

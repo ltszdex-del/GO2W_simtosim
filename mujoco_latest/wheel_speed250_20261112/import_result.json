@@ -1,0 +1,46 @@
+{
+  "imported_at": "2026-11-12T01:39:00.224469+08:00",
+  "policies": {
+    "wheel_locomotion": {
+      "checkpoint": "E:/CODEX PROJ/IS/mujoco_latest/policies/wheel_speed250_20261112/go2w_wheel_speed250_turn150_20261112/logs/train/policy_4024.pt",
+      "training_root": "E:/CODEX PROJ/IS/mujoco_latest/policies/wheel_speed250_20261112/go2w_wheel_speed250_turn150_20261112",
+      "command_limit_scale": 1.0
+    }
+  },
+  "wheel_profile": {
+    "min_forward_m_s": -1.25,
+    "max_forward_m_s": 2.5,
+    "max_lateral_m_s": 0.65,
+    "max_yaw_rad_s": 3.14,
+    "yaw_cruise_limit_rad_s": 1.5,
+    "yaw_speed_decay": 3.0,
+    "forward_accel_m_s2": 4.0,
+    "backward_accel_m_s2": 6.0,
+    "lateral_accel_m_s2": 1.2,
+    "translation_accel_limit_m_s2": 6.118823416311342,
+    "forward_brake_m_s2": 4.8,
+    "lateral_brake_m_s2": 3.12,
+    "yaw_accel_rad_s2": 4.8,
+    "yaw_brake_rad_s2": 19.2,
+    "wheel_envelope_lever": 0.0,
+    "wheel_reference_speed_m_s": 0.0
+  },
+  "checkpoints": {
+    "wheel_locomotion": {
+      "iteration": 4024,
+      "sha256": "329e4f538e7315971c13a2a4be355e5dca3b274b4d00280aed3ec93580b43738",
+      "source": "/home/ubuntu/Go2W/go2w_wheel_speed250_turn150_20261112/logs/train/policy_4024.pt"
+    }
+  },
+  "training": {
+    "updates": 200,
+    "num_envs": 4096,
+    "parent_iteration": 3824
+  },
+  "verification": {
+    "all_seven_policies_loaded": true,
+    "wheel_start_stop_passed": true,
+    "config_backup": "E:\\CODEX PROJ\\IS\\mujoco_latest\\backups\\before_wheel_4024_import_20261112_013907",
+    "other_policy_specs_unchanged": true
+  }
+}

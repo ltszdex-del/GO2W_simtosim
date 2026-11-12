@@ -1,0 +1,8 @@
+{
+  "parent": "/home/ubuntu/Go2W/go2w_step_rearfix600_20261111/logs/train/policy_10274.pt",
+  "updates": 200,
+  "num_envs": 2048,
+  "preserved_optimizer": true,
+  "command_scale": 0.5,
+  "acceleration_scale": 1.0
+}

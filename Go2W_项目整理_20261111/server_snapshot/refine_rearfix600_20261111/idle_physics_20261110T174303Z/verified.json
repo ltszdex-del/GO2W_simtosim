@@ -1,0 +1,65 @@
+{
+  "status": "passed",
+  "recovery": [
+    {
+      "key": "W",
+      "blend": 1.0,
+      "target_error": 0.0,
+      "actual_pose_rms": 0.06271548569202423,
+      "actual_speed": 0.002106007654219866,
+      "actual_yaw": 5.118263743497664e-06,
+      "max_target_rate": 6.000000238418579
+    },
+    {
+      "key": "S",
+      "blend": 1.0,
+      "target_error": 0.0,
+      "actual_pose_rms": 0.06623496860265732,
+      "actual_speed": 0.0011763852089643478,
+      "actual_yaw": 0.0008770462009124458,
+      "max_target_rate": 6.000000238418579
+    },
+    {
+      "key": "Q",
+      "blend": 1.0,
+      "target_error": 0.0,
+      "actual_pose_rms": 0.06226503849029541,
+      "actual_speed": 0.001631435938179493,
+      "actual_yaw": 0.0010645862203091383,
+      "max_target_rate": 6.000000238418579
+    },
+    {
+      "key": "E",
+      "blend": 1.0,
+      "target_error": 0.0,
+      "actual_pose_rms": 0.06014401465654373,
+      "actual_speed": 0.003336424706503749,
+      "actual_yaw": 0.002173698041588068,
+      "max_target_rate": 6.000000238418579
+    }
+  ],
+  "policies": [
+    "locomotion",
+    "handstand",
+    "lying_down",
+    "getting_up",
+    "standing_hold",
+    "handstand_return",
+    "wheel_locomotion"
+  ],
+  "terrain": "skatepark",
+  "parity": {
+    "stepping": {
+      "samples": 39,
+      "max_frame_error": 5.364418029785156e-07,
+      "max_wheel_target_error": 0.0,
+      "max_leg_target_error": 0.0
+    },
+    "wheel": {
+      "samples": 140,
+      "max_frame_error": 4.678964614868164e-06,
+      "max_wheel_target_error": 0.0,
+      "max_leg_target_error": 0.0
+    }
+  }
+}

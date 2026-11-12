@@ -1,0 +1,8 @@
+{
+  "actor": "bitwise equal to training Policy",
+  "history": "35 frame sequence matches",
+  "commands": "1000 steps match training schedule.Commands",
+  "brake": "2m/s to zero in 25 x 20ms",
+  "checkpoint": "/home/ubuntu/Go2W/go2w_wasd_brake300_20261106/logs/continue300/policy_2499.pt",
+  "iteration": 2499
+}

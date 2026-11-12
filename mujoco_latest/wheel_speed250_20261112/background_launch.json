@@ -1,0 +1,7 @@
+{
+  "pid": 41932,
+  "started_at": "2026-11-11T17:27:30.193967+00:00",
+  "task": "Wait for successful 200 wheel updates, then verify and import into local MuJoCo",
+  "status": "E:\\CODEX PROJ\\IS\\mujoco_latest\\wheel_speed250_20261112\\background_status.json",
+  "console": "E:\\CODEX PROJ\\IS\\mujoco_latest\\wheel_speed250_20261112\\background_console.log"
+}

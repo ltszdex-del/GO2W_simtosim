@@ -1,0 +1,8 @@
+{
+  "state": "targeted_student_imported",
+  "checkpoint": "E:\\CODEX PROJ\\IS\\mujoco_latest\\policies\\handstand_targeted_20261112\\logs\\targeted1000\\student_999.pt",
+  "sha256": "7301769ab21e881357f4ab1c81e8778b2eed21277a43426c982455af639ac1a7",
+  "mujoco_six_cases_passed": true,
+  "backup": "E:\\CODEX PROJ\\IS\\mujoco_latest\\backups\\before_targeted_student999_20261112_140149",
+  "updated_at": "2026-11-12T14:01:49.724335+08:00"
+}

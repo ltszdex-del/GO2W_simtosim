@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "name": "stand_to_user_prone",
+  "pose_source": "User measured /home/ubuntu/Go2W/prone_state.json; recorded leg angles retained as prone target; front calf targets extended by 0.20 rad to lift the head away from ground; height/pitch references are simulation candidates",
+  "poses": {
+    "stand": {
+      "FR_hip_joint": 0.0,
+      "FR_thigh_joint": 0.8,
+      "FR_calf_joint": -1.5,
+      "FL_hip_joint": 0.0,
+      "FL_thigh_joint": 0.8,
+      "FL_calf_joint": -1.5,
+      "RR_hip_joint": 0.0,
+      "RR_thigh_joint": 0.8,
+      "RR_calf_joint": -1.5,
+      "RL_hip_joint": 0.0,
+      "RL_thigh_joint": 0.8,
+      "RL_calf_joint": -1.5
+    },
+    "crouch": {
+      "FR_hip_joint": 0.0,
+      "FR_thigh_joint": 1.45,
+      "FR_calf_joint": -2.35,
+      "FL_hip_joint": 0.0,
+      "FL_thigh_joint": 1.45,
+      "FL_calf_joint": -2.35,
+      "RR_hip_joint": 0.0,
+      "RR_thigh_joint": 1.45,
+      "RR_calf_joint": -2.35,
+      "RL_hip_joint": 0.0,
+      "RL_thigh_joint": 1.45,
+      "RL_calf_joint": -2.35
+    },
+    "prone": {
+      "FR_hip_joint": -0.4397282898426056,
+      "FR_thigh_joint": 0.9563182592391968,
+      "FR_calf_joint": -2.3875027179718016,
+      "FL_hip_joint": 0.4098551869392395,
+      "FL_thigh_joint": 0.9923170804977417,
+      "FL_calf_joint": -2.427572774887085,
+      "RR_hip_joint": -0.7456472516059875,
+      "RR_thigh_joint": 1.0214110612869263,
+      "RR_calf_joint": -2.605527877807617,
+      "RL_hip_joint": 0.6824226975440979,
+      "RL_thigh_joint": 1.1027461290359497,
+      "RL_calf_joint": -2.6853079795837402
+    }
+  },
+  "heights_m": {
+    "stand": 0.385,
+    "crouch": 0.235,
+    "prone": 0.09
+  },
+  "prone_pitch_rad": -0.18,
+  "timing_s": {
+    "stand": 0.5,
+    "lower": 1.5,
+    "fold": 1.5,
+    "settle": 0.5,
+    "hold": 3.0
+  },
+  "control": {
+    "leg_stiffness": 50.0,
+    "leg_damping": 2.0,
+    "wheel_stiffness": 20.0,
+    "wheel_damping": 2.0,
+    "residual_scale_rad": 0.08,
+    "target_rate_limit_rad_s": 1.8,
+    "target_acceleration_rad_s2": 6.0,
+    "soft_limit_factor": 0.98
+  },
+  "randomization": {
+    "joint_rad": 0.02,
+    "tilt_rad": 0.01
+  },
+  "impact": {
+    "near_ground_height_m": 0.18,
+    "descent_m_s": 0.1,
+    "body_peak_bw": 1.3,
+    "foot_peak_bw": 1.0
+  },
+  "success": {
+    "height_error_m": 0.025,
+    "joint_rms_rad": 0.16,
+    "tilt_rad": 0.2,
+    "speed_m_s": 0.08,
+    "angular_rad_s": 0.25,
+    "joint_speed_rad_s": 0.35,
+    "body_support_bw": 0.08,
+    "max_body_peak_bw": 2.0,
+    "max_touchdown_speed_m_s": 0.2,
+    "hold_s": 2.0
+  },
+  "failure": {
+    "tilt_rad": 0.85,
+    "drift_m": 0.6,
+    "minimum_height_m": 0.025
+  },
+  "revision": "faster_liedown_v2_20261022"
+}

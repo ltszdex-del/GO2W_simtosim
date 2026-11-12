@@ -1,0 +1,10 @@
+{
+  "kind": "step",
+  "environment_fractions": {
+    "move_yaw": 0.59375,
+    "diagonal": 0.3046875,
+    "pure": 0.05078125
+  },
+  "ever_combined_fraction": 0.59375,
+  "status": "passed"
+}
